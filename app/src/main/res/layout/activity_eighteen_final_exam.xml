@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".eighteen_final_exam">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و خدا گفت: من همه جا با شما بوده ام، هستم و خواهم بود و حتی در جهنم نیز تنهایتان نخواهم گذاشت. شما همراه با من وارد آن جا می شوید و من هستم که از آن عبورتان می دهم؛ جایی که نه زمان در آن وجود دارد و نه مکانی محسوب می شود؛ هر چند که شما آن را مکان می پندارید؛ همان گونه که به علت عدم وجود زمان، آن را جاویدان نیز می انگارید. تنها چیزی که در جهنم وجود دارد، آتشی از جنس آگاهی است که برای شما تلخ و برای من شیرین است. زیرا به کمک این آتش است که حایل بین من و شما که همان حجاب ناشی از گناهان شما است، سوزانیده شده، پس از آن ما به یکدیگر رسیده، بعد از پیمان نخست، بار دیگر شما را باز می یابم تا برای «آزمایش آخر»، این بار همه ی قدرت خود را در اختیار شما بگذارم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اینک ما به هم رسیده ایم؛ چیزی که ظاهراً منتظرش بودید و وصالی که طلبش را داشتید؛ اما نه به اندازه ای که من مشتاق بودم.
+شما مرا بخشنده می دانید؛ ولی اصلاً حد آن را نمی دانید و از آن صرفا تصوری مبهم دارید. میزان بخشندگی من را پس از وصال خواهید فهمید؛ وقتی که همه ی قدرت خود را به شما ببخشم. فقط در آن جاست که مفهوم بخشنده ی مهربان را خواهید فهمید. حال من هستم و شما. آیا با داشتن همه ی قدرت من و احساس بی نیازی، باز هم طالب من خواهید بود؟ "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="من برای رسیدن به شما، مرگ و جهنم را خلق کردم تا نشانی بر «رحیم» بودن من باشد و نشانی بر قدرت خلاقیتی که ناشی از شوق رسیدن به شما است و شما ناآگاه و بی خبر از آن، هر لحظه در آه و ناله و فریاد و طغیان نسبت به من قرار دارید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مرگ و جهنم، همچون داروهای تلخی هستند که مادری با دلسوزی تمام به زور به طفل خود می خوراند تا او را درمان کند ولی خود بیش از طفلش تلخی دارو را درک می کند و طفل بی خبر از همه جا و بدون اطلاع از عشق مادر،گریان و نالان است از این که چرا چنین خشونتی نسبت به او اعمال می شود. بدون مرگ وجهنم، ما هرگز به یکدیگر نمی رسیدیم و حداقل، من عاشقی مهجور می ماندم و شما نیز در نیازمندی ابدی باقی می ماندید. اما شما بعد از این وصال، همین که مطمئن شدید که عاشق سینه چاک، در اختیار شماست و شما سوار بر اریکه قدرت او می توانید یکه تازی کنید، با او چه می کنید؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="من «رحمان» بودم تا بتوانم بازیگوشی ها و بی اعتنایی های معشوقم را نظاره کنم و باز هم به دنبال او باشم و سایه ی رحمانیت خود را بر سر او بگسترانم. در عوض شما نمی دانید که با من چه کرده اید! ای کاش من نیز می توانستم مانند شما شکایت های خود را به جایی ببرم! اما از این بابت نیز ناراضی نیستم؛ زیرا که من هم اگرچه سرانجام آگاه می شوید و شما را دارم و می دانم که بالاخره از یکدیگر راضی خواهیم شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آری من به شما می رسم و همه چیز خود را به پای معشوق خود تقدیم می کنم و در آن صورت آن جا بهشت شما خواهد بود. نه آن بهشت روز نخست که بهشت ناآگاهی بود؛ بلکه بهشت آگاهی. بهشت هایی که شما آن را بر اساس آگاهی ها، دانسته ها و میل وسلیقه های خود بنا خواهید کرد. پس از کسب این تجربه خواهید فهمید که همه چیز عاشق شما، در اختیار شماست و شما می توانید با قدرتی که در اختیار دارید، جهان ها خلق کرده، بر ابعادی سایه بگسترانید که هرگز تصورش را نداشتید و به زودی یقین حاصل می کنید که دارای قدرتی خدایی هستید. آن زمان که شما اینگونه خدا شدید، می خواهید بدانید که با من چه خواهید کرد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شاید اگرهمه داستان را بدانید، برای من عاشق گریه کنید. برخی از شما پس از کسب اطمینان از قدرت خدایی خود و احساس بی نیازی نسبت به من، خواهیدگفت: 'حالا که خدا هستیم وبی نیاز به او، چرا برای خود خدایی نکنیم؟' و فقط عده ی اندکی خواهند بود که خدایی در وحدت را انتخاب کرده، به سوی من آمده، با من به وحدت می رسند. بلی! خدای در وحدت و خدای در کثرت، آخرین آزمایش است و شما کدام را انتخاب خواهید کرد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شاید بگویید که برای اتخاذ چنین تصمیمی وقت بسیاری باقی است! بلی هست. اما شما امروز همان کاری را انجام می دهید که دیروز مقدمه اش را چیده اید و امروز نیز مقدمه ی کارهای فردا را تدارک می بینید و احتمال دارد فردا همان کاری را بکنید که امروز انجام می دهید. پس امروز مرا دریابید تا حرکت شما کسب آگاهی و تمرینی برای فرداها باشد، جایی در لامکان و لازمان؛ تا شما به طور حتم مرا انتخاب کنید؛ خدای در وحدت را و خدایی که عاشق شما است! مرا دریابید. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

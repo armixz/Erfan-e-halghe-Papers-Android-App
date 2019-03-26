@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twenty_evil">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عوالم وجود که از تجلی ذات الهی (هیچ قطبی) به وجود آمده اند، درجات و مراتبی دارند که هر کدام، با ویژگی خاص خود شناخته می شوند. در عالم تک قطبی که عالم وحدت است، همه اجزای جهانی که ما در آن، مراحل زندگی خود را سپری می کنیم (جهان دوقطبی) به طور خنثی (در وحدت) وجود دارند. اولین رویارویی آدم و ابلیس، ابتدای چرخه جهان دوقطبی است. یعنی جایی که جهان دوقطبی (جهان تضاد) شکل گرفت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="طراحي خلقت، طراحي دقيق و حساب‌شده‌ خداوند است كه به ‌وسيله‌ عوامل تحقق‌بخش هستي به اجرا در مي‌آيد. بنابراین، در نظام آفرینش، باید دوقطبی بودن جهان دوقطبی نیز به وسیله عاملی صورت می پذیرفت که با نوعی نافرمانی از امر خداوند (ایجاد تضاد)، وحدت جهان تک قطبی را به کثرت جهان دوقطبی تبدیل کند. این رویداد با ماموریت ابلیس رخ داد و خداوند که طراح طرح حساب شده هستی است و هیچ قدرتی بر او برتری ندارد و هیچ مخلوقی نمی تواند نظام دقیق آفرینش او را بر هم زند، چنین خواست که ابلیس فرمان سجده به آدم را اطاعت نکند و با این نافرمانی فرمایشی، خیر و شر در عالم شکل گیرد و انسان در جهانی دوقطبی همواره در معرض خیر و شر باشد تا در هر لحظه با انتخاب خود (انتخاب یکی از خیر یا شر) مورد آزمایش قرار گیرد و هدایت و گمراهی برای او معنا پیدا کند. تنها در شرايط امکان انتخاب است كه اختيار انسان اهميت پيدا مي‌كند و حركت او به سمت كمال ارزش می یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="زيرا هنر او غلبه بر نيروي مخالف كمال است و عامل نيروي مخالف كمال در سراسر چرخه‌ دوقطبي، «ابليس» است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به‌عبارت ديگر، سجده نكردن ابليس به آدم، خارج از طراحي دقيق خداوند نيست و این کارگزار، عامل دوقطبي بودن «جهان دوقطبي» و شكل گرفتن صحنه‌ امتحان انسان است. برای به وجود آمدن چرخه جهان دو قطبی وجود یک عامل تضاد ضرورت داشت که لازم بود دو قطبی بودن این چرخه را تا پایان آن حفظ کند برای این منظور، خداوند به ابلیس ماموریت داد که به فرمان سجده بر آدم اعتنا نکند و او نیز این ماموریت را پذیرفت و بر خلاف ملائکی که بر آدم سجده کردند (یعنی هرکدام در مقطعی از مقاطع حرکت آدم در چرخه جهان دو قطبی، تحت سیطره او در می آیند) از فرمان سجده سرپیچی کرد و به اذن خداوند تا پایان سیر او در جهان دو قطبی، به سجده در برابر وی در نخواهد آمد. یعنی تا مقطع معلومی بر سر نقش خود پابرجا خواهد بود و اگر خداوند نمی خواست، به او چنین مهلتی نمی داد و آن گاه در جهان تک قطبی هیچ بستری برای ظهور اختیار انسان و رشد او فراهم نمی شد. پس تبعیت نکردن از فرمان سجده در ظاهر نافرمانی است و اگر نافرمانی نبود تضادی هم نبود؛ اما در عین حال، فرمانبرداری است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="چون خداوند آنرا از پیش تعیین کرده است. خداوند با امر به این که ابلیس جز بر او سجده نکند، نقش موحدی را به او می دهد که برای انجام مأموریت خود از جهان تک قطبی (بارگاه الهی) رانده می شود و در عین حال، این درس را به جا می گذارد که تکبر و نافرمانی از خداوند، نتیجه ای جز دوری از درگاه او ندارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ظاهر تكبرآميز اين نافرماني و نكوهش خداوند از آن، درسي است كه بايد آدم در طول مسير خود به آن توجه داشته باشد. ابليس در اثر اين تكبر و نافرماني از جهان بدون تضاد به جهان تضاد فرود آمد و انسان باید بداند که هر نافرماني ديگري نیز عامل تنزل و فرود آمدن است. آدم نیز در ابتداي خلقت خود يك نافرماني كرد كه در اثر آن، به جهان تضاد فرود آمد و شروع به سير در چرخه‌ جهان دوقطبي كرد. اما ابليس به‌عنوان اولين معلم 1 این درس را پیش روی او می¬گذارد كه همچنان در هر مرحله از مسيري كه سير در آن را انتخاب كرده‌است، سرپيچي از فرمان خداوند، او را از وحدت دور مي‌كند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نکته دیگر این است که در عالم دو قطبی که عالم کثرت ابعاد است؛ ابلیس نیز دچار کثرت می شود. جلوه های متعدد وجود ابلیس، 'من های ضد کمال' در وجود انسان هستند که شیاطین نام می گیرند. در آفرینش هر انسانی، دو نوع کشش به سمت کمال و ضد کمال طراحی شده است که در اثر وجود 'من های کمال' و 'من های ضدکمال' ایجاد می شود. به بیان دیگر شیطان در وجود هر انسانی سهم مشخصی دارد و کسی نیست که در درون خود، عامل تضاد نداشته باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همچنین، هیچ‌کس نمی‌تواند عامل تضاد را از درون خود حذف کند؛ یعنی نمی‌تواند من‌های ضد کمال را در خود از بین ببرد. بنابراین، هر فردی يا مغلوب این شیاطین درونی مي‌شود و يا آن‌ها را مهار مي‌كند و تحت كنترل در مي‌آورد. به همین دلیل است که پیامبر گرامی اسلام (ص) فرموده اند که من شیطانم را به دست خودم مسلمان (تسلیم) کردم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هنرمندی انسان همین است که بتواند با آگاهی کافی، در صدد مدیریت صحیح من‌های درون خود برآید و شیاطین‌ درونش را به تسلیم در آورد تا بتواند مسیر کمال را طی کند. این هنر بدون وجود «شیطان» نشان داده نمی‌شود. از این منظر می‌توان گفت که «ابلیس» یکی از ارکان هستی است که در قالب کثرت‌یافته‌ی خود در کمال‌آفرینی انسان ایفای نقش می‌کند و به همین لحاظ، وجود او اهمیت دارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="تا وقتي كه انسان نياموخته است که در مسیر زندگی حرکت مستقيم داشته باشد و تنها معطوف به خدا باشد، در خطر گرايش‌هاي دروني به ضد كمال است؛ يعني شیاطین وجود او از هر جهت غير از جهت مستقيم، او را مورد حمله قرار مي‌دهند. اما از زمانی که او دیگر به جهتی جز جهت مستقیم نگاه نکند، بر این شیاطین غلبه خواهد کرد و نه تنها دیگر شیطان برای او نقش گمراه‌کننده نخواهد داشت، بلکه غلبه بر آن،‌ عامل تعالی او می‌شود. کسی که در شرایط دوم است، وجود شیطان را ارزشمند می‌بیند؛ اما معمولا کسی که در شرایط اول قرار دارد، از وجود او گله‌مند است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای تفهیم این مطلب می‌توان از مثال ساده‌ای استفاده کرد. یک کودک، خطرات تماس با آتش را نمی‌شناسد و به همین دلیل، لازم است که برای نزدیک نشدن او به آتش، آن را برای او وسیله‌ای خطرناک معرفی کرد. اما وقتی به رشد لازم رسید، بدون این‌که خود را در معرض خطرات آتش قرار دهد، با آن به طور صحیح مواجه خواهد شد و دیگر نگرانی از آسیب دیدن از آن برای او وجود نخواهد داشت. پس در مرحله‌ای که شناخت و توانایی لازم را ندارد، یک دیدگاه نسبت به آتش دارد و وقتی با نحوه رویارویی با آن آشنا شد، دیدگاه دیگری پیدا خواهد کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بهره بردن از وجود عناصر و عوامل ضد کمال، با انتخاب کمال و حرکت به سوی آن (با غلبه بر ضد کمال) حاصل می شود و انسانی که به بلوغ عرفانی رسیده است و نگاه خود را به سوی خدا دوخته است، در زندگی خود، از کارآزمودگی لازم در رویارویی با این آتش برخوردار است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="_____________________________________________"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1) انسان می تواند با درس گرفتن از هر حادثه و رفتار خوب یا بد، اندیشه و رفتار خود را اصلاح کند و ارتقا ببخشد. زیرا اگر وجود موجودات عالم را مانند یک سیستم در نظر بگیریم، انسان تنها موجودی است که سیستم وجود او فرایند متغیری دارد و می تواند انواع ورودی های مثبت و منفی را به خروجی مثبت تبدیل کند. به همین دلیل، وقتی به لقمان گفتند ادب از که آموختی، گفت از بی ادبان. "
+                android:textSize="15dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

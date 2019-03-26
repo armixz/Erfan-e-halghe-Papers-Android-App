@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".six_one_demention_word">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\nجهان هستی یک ساختار بیشتر ندارد و همه‌ی اجزای آن از شعور و هوشمندی آفریده شده است. مطالب زیر نشان خواهد داد که:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ماده و انرژی در میدان شعوری شکل گرفته و بدون وجود چنین میدانی، هیچ گونه انرژی‌ای نمی‌تواند وجود داشته باشد. (ماده خود انرژی متراکم است) لذا جهان هستی یک ساختار بیشتر ندارد و آن چه را که انسان به عنوان ابعاد می‌شناسد، (مانند فضای سه بعدی و زمان) همگی در این میدان شعوری است که معنا پیدا می‌کنند و در این میدان شکل گرفته و ایجاد شده‌اند."
+                android:textSize="18dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شبکه‌ی شعور کیهانی"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اکنون این شعور و هوشمندی را از نقطه‌ی نظر تئوری بررسی نموده و به همین منظور بحثی به نام 'سکه‌ی وجودی'را مطرح می‌نماییم، تا در خلال این بحث بتوانیم هوشمندی حاکم بر جهان هستی را اثبات کنیم: وجود هر چیزی را درعالم هستی، مانند سکه‌ای در نظر می‌گیریم که دو رو دارد: 'واقعیت وجودی' و 'حقیقت وجودی'."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six1"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="واقعیت وجودی"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="واقعیت وجودی هر چیزی، به ما نشان می‌دهد که آن چیز وجود دارد، واقع شده، اتفاق افتاده و حادث شده است؛ بدون این که علت، چگونگی و نحوه‌ی وقوع آن، اهمیتی داشته باشد. این بخش از وجود، یا قابل مشاهده است، یا اثر خود را روی محیط می‌گذارد، یا قابل ثبت و ضبط و اندازه‌گیری بوده و یا ممکن است چند مشخصه از مشخصات فوق را داشته باشد. برای مثال، وجود یک تکه سنگ واقعیت دارد چراکه آن سنگ حادث شده و به وجود آمده است؛ چه نحوه‌ی به وجود آمدن آن را بدانیم و چه ندانیم. بعضی چیزها را هم ممكن است كه نبینیم و حسی روی آن نداشته باشیم ولی واقعیت داشته باشند. مثلاً، اشعه‌ی مادون قرمز واقعیت دارد، هر چند که نمی‌توانیم آن را ببینیم و یا لمس کنیم، اما قادر هستیم آن را با تجهیزاتی اندازه‌گیری نماییم؛ حتی مورد بهره‌برداری عملی قرار دهیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حقیقت وجودی "
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حقیقت وجودی، موضوع‌هایی را در مورد واقعیت وجودی مورد بحث و گفتگو قرار می‌دهد که عبارتند از: "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="۱- علت وجودی و نحوه‌ی وقوع"
+                android:textSize="20dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای مثال، یک تکه سنگ چگونه به وجود آمده است؟ و یا جهان هستی چرا پیدایش یافته است؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="۲- طرح وجودی و مسایل پشت پرده‌ی واقعیت وجودی"
+                android:textSize="20dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هر واقعیتی به دنبال طرح و نقشه‌ای می‌بایستی اتفاق افتاده باشد و با بررسی مسایل پشت پرده‌ی هر واقعیتی، می‌توان با طرح و نقشه‌ی وجودی آن واقعیت مواجه شده و آن را مورد مطالعه قرار داد. مثلاً، انسان چرا و به چه منظوری به وجود آمده است؟ و یا فلسفه‌ی خلقت جهان هستی چیست؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="۳- کیفیت وجودی هر پدیده"
+                android:textSize="20dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حقیقت وجودی، چگونگی و کیفیت وجودی یک واقعیت را زیر ذره‌بین قرار داده آن را مورد بررسی قرار می‌دهد و این که آیا اصولاً چیزی وجود خارجی داشته و یا این که مجازی می‌باشد؟ برای نمونه، در مورد تصویر یک شی در آینه، حقیقت وجودی به ما می‌گوید که تصویر آن شی، واقعیت وجودی داشته و در آینه واقع شده است؛ ولی حقیقت وجودی ندارد زیرا مجازی است. پس چیزهایی می‌تواند در عالم هستی واقعیت داشته و واقع شده باشند، اما از حقیقت وجودی برخوردار نباشند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال جهت شناخت 'شبکه‌ی شعور کیهانی' لازم است واقعیت و حقیقت وجودی جهان هستی را مورد بررسی دقیق‌تری قرار بدهیم و به دنبال این بحث، موضوع 'جهان مجازی' را مطرح می‌کنیم:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جهان مجازی"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="فرض کنید مطابق شکل (الف۱) تیغه‌ای داریم که می‌تواند حول محور وسط آن بچرخد. حال سوال می‌کنیم: آیا این تیغه در حالت ثابت واقعیت وجودی دارد یا خیر؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six2"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پاسخ این سؤال مثبت است، زیرا این تیغه حادث شده و واقعیت دارد. حال اگر مطابق شکل (ب۱) این تیغه را حول محور آن به سرعت به چرخش درآوریم، آنچه را که مشاهده می‌کنیم، استوانه‌ای است که قطر قاعده‌ی آن، قطر تیغه و ارتفاع آن، ضخامت تیغه خواهد بود (شکل۲)"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six3"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اکنون اگر سؤال شود که 'آیا این استوانه واقعیت دارد؟' جواب ما به این پرسش مثبت خواهد بود زیرا این استوانه حادث شده و به وجود آمده است، بنابراین واقعیت دارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر سؤال شود که: 'آیا این استوانه، حقیقت نیز دارد؟'جواب به آن منفی است، زیرا چنین استوانه‌ای وجود خارجی نداشته و هر زمان که تیغه را از حرکت باز داریم، استوانه ناپدید می‌شود. بنابراین استوانه یک حجم مجازی و ناشی از حرکت تیغه است، لذا درست است که این استوانه واقعیت دارد،ولی فاقد حقیقت وجودی است.'"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در ادامه به دنبال این مشاهده و بررسی آن، به طرح سؤالات دیگری می‌پردازیم:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آیا جهان هستی واقعیت وجودی دارد؟"
+                android:textSize="20dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="@color/colorAccent"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جواب به این پرسش قطعاً مثبت است، زیرا ما وجود داریم و می‌توانیم جهان هستی را مشاهده کنیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آیا جهان هستی، حقیقت وجودی نیز دارد؟"
+                android:textSize="20dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="@color/colorAccent"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای پاسخ به این پرسش، به بررسی اجمالی و سریعی از ساختار جهان هستی- در حدی که تا کنون قابل مشاهده و بررسی بوده است- می‌پردازیم. می‌دانیم که جهان هستی از ماده و انرژی شکل گرفته است (در اصل فقط از انرژی- رجوع به جهان تک ساختاری)."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در ابتدا بخش ماده را (که شامل اجرام سماوی است،) زیر نظر گرفته و ساختمان آنها را مورد مطالعه قرار می‌دهیم. این اجرام از مولکول‌ها تشکیل شده و مولکول‌ها نیز از اتم‌ها تشکیل شده‌اند و اتم‌ها نیز به نوبه‌ی خود از ذرات بنیادی و ضد ذرات آنها شکل گرفته‌اند و این سیر تا منهای بی‌نهایت در دل اتم ادامه دارد به طوری که ابتدایی برای آن نمی‌توان یافت. همان گونه که انتهایی نیز ندارد. به قول شاه نعمت الله ولی..."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در محیطی بیکران افتاده‌ایم     نیست ما را ابتدا و انتها"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اکنون به مطالعه‌ی یک اتم به عنوان آجری از ساختمان خلقت می‌پردازیم و برای بررسی دقیق‌تر، آن اتم را به اندازه‌ی یک زمین فوتبال در نظر می‌گیریم؛ در این صورت هسته اتم در مقایسه با اندازه اتم، مشابه با توپ فوتبال در مقایسه با اندازه زمین فوتبال خواهد بود (شکل۳)."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six4"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اینک به طرح سؤالاتی می‌پردازیم:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حجم و شکل این کره‌ی عظیم، از کجا ناشی شده است؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در جواب باید بگوییم که این حجم بر اثر حرکت الکترون‌ها ایجاد شده است، که به آن 'ابر الکترونی' گفته می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آیا وجود این کره‌ی عظیم واقعیت وجودی دارد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جواب قطعاً مثبت است، زیرا این کره حادث شده و واقعیت دارد، ولی..."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آیا حقیقت وجودی نیز دارد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر در یک لحظه حرکت الکترون ها متوقف شود، این حجم که ناشی از حرکت الکترون ها است، ناپدید گشته و از مقابل چشمان ما محو می‌شود و تنها هسته‌ی آن (که به اندازه یک توپ فوتبال است،) باقی می‌ماند. پس نتیجه می‌گیریم که این حجم وجود خارجی نداشته و ناشی از حرکت بوده و در نتیجه مجازی است. حال با همین شیوه هسته‌ی اتم را بررسی می‌کنیم. می‌دانیم که هسته‌ی اتم از پروتون و نوترون تشکیل شده است؛ مطابق شکل (۴) پروتون به دور محور خود چرخش نموده و نوترون نیز با سرعت بسیار زیادی در جهت عکس حرکت پروتون، هم به دور خود چرخیده و هم به دور پروتون چرخش می‌نماید. چرخش نوترون به دور پروتون، دیسکی را پدید آورده و حجمی مجازی را ایجاد می‌کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six5"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال در صورتی که حرکت پروتون و نوترون متوقف شود، این حجم نیز ناپدید می‌شود و از آن فقط ذرات بنیادی به جا خواهد ماند که حجمی به مراتب کمتر از حجم قبلی دارد. اگر به همین منوال به داخل ذرات هسته نفوذ کرده و حرکات آنها را نیز در سطوح مختلف متوقف نماییم، ملاحظه می‌کنیم که حجم‌های حادث شده توسط آنها، یکی پس از دیگری محو شده و اثری از آنها باقی نمی‌ماند. به این ترتیب به این موضوع پی می‌بریم که مجموعه‌ای از بی‌نهایت حرکات بنیادی، هسته‌ی اتم را شکل داده که این اتم‌ها، مولکول را تشکیل داده و از مولکول‌ها، بخش مادی جهان هستی شکل گرفته است. لذا با این توصیف می‌توان گفت:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جهان هستی از حرکت آفریده شده است"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="@color/colorAccent"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از نگاهی دیگر نیز می‌توان به این نتیجه رسید. زیرا در فیزیک مدرن، 'ماده' موج متراکم است و موج نیز خود حرکت تلقی می‌شود؛ پس همه‌ی جهان هستی- چه از بُعد ماده نگاه شود و چه از بُعد انرژی- از موج ساخته شده و همان گونه که اشاره شد، موج نیز از 'حرکت' به وجود آمده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با شرح مختصر و ساده‌ای که گذشت، اینک می‌توان به پرسش طرح شده‌ی قبلی، که 'آیا جهان هستی حقیقت وجودی دارد یا خیر؟'، پاسخ داد. در جواب می‌توان گفت: با توجه به این که جهان هستی از حرکت آفریده شده است، لذا جلوه‌های گوناگون آن نیز ناشی از حرکت می‌باشد و همانطور که گفته شد هر جلوه‌ای که ناشی از حرکت باشد، مجازی است؛ در نتیجه جهان هستی نیز مجازی بوده و حقیقت وجودی ندارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به دنبال پی بردن به این موضوع که جهان هستی از حرکت به وجود آمده است، سؤال دیگری را مطرح می‌کنیم:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="چه عاملی، به بی‌نهایت حرکت موجود در جهان هستی جهت داده است به گونه‌ای که از میان این همه حرکت، سیستم کاملاً سازمند و هدفمندی تجلی پیدا نموده است؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در پاسخ باید گفت، تنها چیزی که می‌تواند به بی‌نهایت حرکت موجود، جهتی هدفمند داده باشد، وجود عاملی هوشمند می‌باشد که قادر است تشخیص بدهد که هر حرکتی در چه جهتی و به چه صورتی باید انجام شود تا حاصل آن بتواند سیستمی هماهنگ، هدفمند و گویا باشد. بنابراین، ماده و انرژی و یا به عبارت دیگر ساختار جهان هستی، از هوشمندی و ‌یا شعور و آگاهی به وجود آمده است و از 'آگاهی' همه چیز در عالم زندگی و هستی پیدا نموده است. لذا در اصل:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جهان هستی از آگاهی آفریده شده است"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="@color/colorAccent"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نکته دیگر اینکه هر آن چه که موجود است، زنده است و زندگی می‌کند. حتی یک اتم هم در سطح خود، زنده محسوب می‌شود. ولی نوع زندگی موجودات مختلف با یکدیگر تفاوت دارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="من وضو با تپش پنجره‌ها می‌گیرم   (سهراب سپهری)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و یا:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جمله ذرات عالم در نهان\nبا تو می‌گویند روزان و شبان
+\n
+ما سمیعیم و بصیریم و به هوشیم\nبا شما نامحرمان ما خاموشیم  (مولانا)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="#373D3F"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="باد و خاک و آب و آتش، بنده‌اند\nبا من و تو مرده، با حق زنده‌اند
+\n
+از جمادی در جهان، جان بروید\nغلغل اجزای عالم، بشنوید  (مولانا)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="* اصل:"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همه‌ی انسان‌ها می‌‌توانند در هوشمندی و شعور حاكم بر جهان هستی به توافق و اشتراك نظر رسیده، پس از آزمایش و اثبات آن، به صاحب این هوشمندی كه خداوند می‌باشد، برسند؛ تا این موضوع، نقطه‌ی مشترك فكری بین انسان‌ها شده و قدرت و تحكیم پیدا نماید. بنابراین، عامل مشترك فكری بین همه‌ی انسان‌ها و یا به عبارت دیگر، زیربنای فكری همه‌ی انسان‌ها، شعور حاكم بر جهان هستی و یا شعور الهی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در این تفكر و بینش، این عامل مشترك، «شبكه‌ی شعور كیهانی» نامیده می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="* اصل:"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جهان هستی از حرکت آفریده شده است، از این رو جلوه‌های گوناگون آن نیز ناشی از حركت بوده و چون هر جلوه‌ای كه ناشی از حركت باشد، مجازی است، در نتیجه جهان هستی نیز مجازی می‌‌باشد. از آنجایی که هر حركتی نیاز به محرك و عامل جهت‌دهنده اولیه دارد، لذا این عامل، آگاهی و یا هوشمندی حاكم بر جهان هستی می‌‌باشد كه آن را «شبكه‌ی شعور كیهانی» می‌نامیم. بنابراین جهان هستی وجود خارجی نداشته و تصویری مجازی از حقیقت دیگری است و در اصل از آگاهی آفریده شده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نظر به این كه هوشمندی حاكم بر جهان هستی، می‌‌بایستی خود از جایی ایجاد شده و در اختیار منبعی باشد، این منبع را «خدا» نامیده و او را صاحب این هوشمندی می‌دانیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با توضیحات ارائه شده، می‌توان گفت که در هر لحظه سه عنصر در جهان هستی موجود است: آگاهی، ماده و انرژی. بدون وجود آگاهی انسان قادر نیست از ماده و انرژی استفاده نماید؛ یعنی در صورتی که انسان ماده و انرژی را در اختیار داشته باشد، بدون داشتن آگاهی و اطلاعات، نمی‌تواند از آنها استفاده‌ی هدفمندی داشته باشد. بنابراین، در هر لحظه سه عنصر در جهان هستی وجود دارند که آنها را می‌توان مطابق شکل زیر نشان داد:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six6"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(تبدیل ماده و انرژی به آگاهی، خود بحث مفصل و پیچیده‌ای دارد که در فرصتی دیگر به آن می‌پردازیم.)"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همانطور که گفته شد ساختار اصلی جهان هستی، آگاهی یا شعور می‌باشد، که ماده و انرژی از آن به وجود آمده است. حال اگر بخواهیم اجزای جهان هستی را ریزتر و دقیق‌تر مورد بررسی قرار دهیم، به شکل شماتیک (۶) می‌رسیم. این شکل، همه‌ی عناصر موجود جهان هستی را که به طور هم زمان و در یک لحظه، وجود دارند، به نمایش می‌گذارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six7"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="تا اینجا نتیجه گرفتیم که جهان هستی، مجازی و مانند تصویری در آینه است، یا مانند حرکت ناشی از صفحه‌ی مورد مثال در شکل(۱) بوده که وجود خارجی ندارد. اینک از ابعاد دیگری نیز به مسأله نگاه کرده و منظره جهان هستی را مورد بررسی قرار می‌دهیم:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منظره‌ی جهان هستی با توجه به سرعت ناظر"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ناظری را در نظر می‌گیریم که در فضا با سرعت در حال حرکت است. می‌دانیم زمانی که به یک منبع صوت و یا منبع نور نزدیک (و یا دور) می‌شویم، فرکانس و طول موج آن تغییر می‌کند. مثلاً در صورتی که منبع مورد نظر صوت باشد، با نزدیک شدن به آن، طول موج آن فشرده‌تر شده و درهم می‌رود. در نتیجه فرکانس آن افزایش پیدا نموده، صوت زیرتر شنیده می‌شود. (ش-۷) در صورتی که از آن منبع دور شویم، طول موج بازتر شده و فرکانس آن کاهش پیدا می‌کند. در نتیجه صدا بَم‌تر به گوش می‌رسد (پدیده دُپلر)."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six8"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شکل زیر نشان می‌دهد که وقتی از منبع نور و یا صوت در حال دور شدن باشیم، طول موج آن منبع بیشتر شده، در نتیجه فرکانس آن کاهش پیدا می‌کند و صدا بَم‌تر شنیده می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six9"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همین موضوع در مورد منبع نور نیز صدق می‌کند و با نزدیک شدن و دور شدن نسبت به آن، تغییر فرکانس پیش آمده، در نتیجه تغییر رنگ و منظره خواهیم داشت. حال مجدداً ناظر مورد بحث را در نظر می‌گیریم و مشاهدات ناظر را از مناظر مقابل چشمان او را مورد بررسی قرار می‌دهیم:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بدیهی است که هر چقدر سرعت ناظر بیشتر می‌شود، منظره‌ی مقابل او نیز تغییر می‌کند و در هر سرعتی منظره‌ی جهان هستی به شکلی برای ناظر جلوه‌گر می‌شود. اگر ما منظره‌ی جهان هستی را در حال حاضر به این شکل می‌بینیم، به این علت است که با سرعت نسبتاً ثابتی در حال حرکت در فضا هستیم. زیرا زمین جزئی از منظومه‌ی شمسی است و با سرعت تقریباً ثابتی به دور خود و خورشید می‌چرخد؛ منظومه‌ی شمسی نیز در یکی از بازو‌های کهکشان راه شیری قرار داشته و با سرعتی حول مرکز آن در گردش است؛ این کهکشان نیز با سرعتی در فضا، به دور مرکز دیگری در گردش است... به هر حال سرعت نهایی ما به حدی است که در حال حاضر منظره‌ی جهان هستی را (به لحاظ منظره و تنوع رنگ‌ها) این گونه می‌بینیم. اگر در کهکشان دیگری زندگی می‌کردیم، احتمالاً جهان هستی را با منظره و تنوع رنگی دیگری مشاهده می‌کردیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از نقطه نظر دیگر در سرعت‌های بالا، آن چه که ناظر مشاهده می‌کند، با آن چه که ما در حال حاضر می‌بینیم، تفاوت‌های فاحشی دارد. ما در حال حاضر پیرامون خود را به راحتی مشاهده می‌کنیم، اما هر چقدر سرعت حرکت ما بیشتر شود، زاویه‌ی منظره‌ی مقابل ما جمع‌تر می‌شود به طوری که آگر بر فرض محال می‌توانستیم با سرعت نور حرکت کنیم، آن چه که به عنوان ناظر قادر به مشاهده بودیم، فقط روزنه‌ای بود در مقابل دیدگان ما و غیر از این روزنه، چیز دیگری را نمی‌توانستیم مشاهده کنیم. زیرا نورهای کناری تا به ما می‌رسیدند، از آن محل دور شده بودیم. (صرف نظر از این که با متراکم شدن موج، ماده پدید می‌آید و در یک سرعتی در مقابل ما دیواره‌ی غیر قابل عبوری تشکیل می‌گردد و موج متراکم تبدیل به ماده می‌شود- دیواره‌ی نوری – مؤلف) در ضمن این روزنه‌، فرکانس بی‌نهایت نیز پیدا می‌کرد و معلوم نیست که از آن روزنه چه چیزی قابل مشاهده می‌شد و چه دنیایی پدیدار می‌گشت. پس ناظری که با سرعت نور حرکت کند، جهان هستی را فقط به صورت یک روزنه، آن هم با فرکانس بی‌نهایت خواهد دید و این واقعیت دنیای اوست. اگر چنین ناظری قبلاً واقعیت جهان ما را ندیده باشد، به طور قطع نمی‌تواند تصور جهانی خارج از جهان روزنه‌ای را داشته باشد و یا آن را درک نماید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با توجه به (ش- ۹) ملاحظه می‌شود وقتی که ناظر به سمت دست راست خود نگاه می‌کند و مثلاً ستاره‌ی َR را مشاهده نماید، در واقع این ستاره در موقعیت R قرار دارد. بنابراین، ناظر در پیش روی خود با دو نوع میدان دید روبرو است، یکی 'میدان دید واقعی' و دیگری 'میدان دید حقیقی'. زاویه‌ی میدان دید واقعی، زاویه‌ای است که ناظر نسبت به شی مورد رؤیت در مقابل پیش روی خود عملاً مشاهده می‌کند و زاویه‌ی دید حقیقی، زاویه‌ای است که محل حقیقی شی مورد رؤیت، نسبت به ناظر قرار گرفته است. در این جا ملاحظه می‌شود که هر چقدر سرعت ناظر بیشتر شود، زاویه‌ی میدان دید AB و EF کمتر می‌شود به طوری که در سرعت نور، پشت سر او چیزی قابل مشاهده نبوده و در مقابل او نیز موج متراکم با فرکانس بی‌نهایت تشکیل می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six10"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ا توجه به توضیحات فوق، طول موج انرژی در سرعت‌های بالا، به قدری متراکم می‌شود که در مقابل ناظر ایجاد موج متراکم (که همان ماده است،) نموده و سدی را در مقابل او ایجاد می‌کند. پس در یک شرایط فرضی ویژه‌ای (که بسته به سرعت حرکت ناظر دارد،) جهان صُلب و سخت خواهد شد و به هر طرف که بخواهد حرکت کند، دیواره‌ای سخت راه او را سد خواهد کرد (بنابراین جهان هستی هم محدود و هم لایتناهی است.) با متوقف شدن ناظر مجدداً فرکانس مقابل او از فشردگی خارج شده و از حالت ماده که خود موج متراکم است، به موج غیر متراکم تبدیل می‌شود و مجدداً با سرعت گرفتن ناظر، همین روند تکرار می‌گردد. در نتیجه اولاً سرعت انسان در فضا از یک حدی بیشتر نمی‌تواند باشد؛ ثانیاً، نمی‌توان با سرعت‌های بالا به طور ثابت در فضا حرکت کرد (شکل۹)."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با این توضیحات، نتیجه می‌گیریم جهان هستی بی‌نهایت نوع منظره داشته و هر ناظری بسته به سرعتی که در فضا دارد، آن را به شکل خاصی می‌بیند و با این ترتیب امکان واقعیت‌هایی هست که ما اصلاًً تصورش را نیز نخواهیم داشت. اما در این جا سؤالی مطرح می‌شود که 'آیا جهان هستی دارای یک منظره‌ی اصلی است؟' با بررسی موضوع به این نتیجه می‌رسیم که: '"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جهان هستی دارای یک منظره ثابت و اصلی نیست. منظره‌ی آن بسته به سرعت ناظر دارد و با توجه به این که ناظر می‌تواند بی‌نهایت سرعت مختلف داشته باشد، لذا برای هر ناظر بی‌نهایت نوع منظره از جهان هستی وجود خواهد داشت. لذا جهان هستی فاقد منظره‌ی اصلی است و هر ناظری، تلقی و برداشت خاصی از منظره جهان هستی دارد. در حقیقت این جا هم می‌توان به مجازی بودن آن پی برد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منظره‌ی جهان هستی، با توجه به فرکانس چشم ناظر"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هر ناظری با چشمان خود به جهان هستی نگاه می‌کند و هر چشمی دارای فرکانسی است که نشان می‌دهد چند تصویر را در یک ثانیه می‌تواند دریافت کرده و درک نماید. این فرکانس در مورد چشم انسان ۲۴ تصویر است؛ یعنی زمانی که ۲۴ تصویر در یک ثانیه از مقابل دیدگان ما عبور کند، ما آن را پیوسته می‌بینیم. اگرفرکانس تصاویر کمتر از این تعداد باشد، منظره بریده بریده و غیرپیوسته به نظر می‌آید (اساس اختراع سینما) با افزایش سرعت تصاویر، منظره به طرز غیرعادی دارای حرکاتی سریع می‌شود تا جایی که در سرعت بیشتر، تصویرها دیگر غیرقابل تشخیص می‌شوند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پس اگر انسان جهان هستی را به این شکل می‌بیند، به دلیل فرکانس چشم او است و اگر این فرکانس عدد دیگری بود، منظره‌ی جهان هستی نیز به گونه‌ی دیگری دیده می‌شد. برای مثال اگر تیغه‌ای با سرعت ۵۰ دور در ثانیه دوران کند، انسان در پیش چشمان خود استوانه‌ای مشاهده می‌کند، حال اگر فرکانس چشم ناظری به همین مقدار یعنی ۵۰ باشد، حرکت تیغه را ثابت دیده و فقط ثانیه‌ای ۵۰ بار مشاهده می‌کرد که سر تیغه‌ها جابجا می‌شوند و اثری از استوانه نیز دیده نمی‌شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منظره ای که یک عقاب با فرکانس چشم ۲۰۰۰۰ می‌بیند، به طور کامل با آن چه که انسان نظاره می‌کند، تفاوت دارد. یک عقاب می‌تواند با دقت تمام حرکت یک مگس را در هر لحظه دنبال کند، در حالی که انسان قادر به این کار نیست. این عقاب، منظره‌ی بارش باران را به صورت قطره قطره می‌بیند، در حالی که ما آن را به صورت خطی نظاره می‌کنیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به عنوان مثال دیگر آن چه را که یک حلزون با فرکانس چشم 5 می‌بیند، بسیار عجیب و غریب است: مثلاً زمانی که ما در حال حرکت هستیم، حلزون دنباله‌ای را پشت سر ما به طول چندین متر می‌بیند (شکل۱۰) و فقط زمانی که به طور کامل ثابت ایستاده‌ایم، ما را به همین شکل می‌تواند ببیند. به همین ترتیب این حلزون یک مگس در حال پرواز را به شکل یک دنباله به طول چندین متر می‌بیند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آن چه که پیش چشمان هر ناظری قرار دارد، نتیجه‌ی پیوستگی تصاویر است و سرعت حرکت و چرخش باعث به وجود آمدن این توالی و پیوستگی می‌شود. اگر سرعت فرکانس چشم ناظر افزایش یابد، پیوستگی مناظر مقابل چشمان او کاهش می‌یابد تا جایی که در چشم با سرعت فرکانس بی‌نهایت، این پیوستگی به طور کامل از بین می‌رود. در این صورت دیگر چیزی را مشاهده نخواهد کرد زیرا حرکت الکترون‌ها و فرکانس‌های مختلف را دیگر به طور ساکن و ایستا می‌بیند و چون الکترون‌ها و ذرات بنیادی شکل گرفته از حرکت و پیوستگی هستند، به تدریج با بالا رفتن فرکانس چشم و نزدیک شدن به بی‌نهایت، منظره‌ی عالم هستی از مقابل دیدگان چنین ناظری محو می‌گردد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در نتیجه، از نقطه نظر فرکانس چشم ناظر، باز هم جهان هستی بی‌نهایت نوع منظره دارد که بسته به میزان این فرکانس، به گونه‌های مختلفی خود نمایی می‌کند و دارای منظره‌ی ثابتی نبوده و مجازی می‌باشد. بنابراین..."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six11"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال اگر فرکانس چشم انسان بی‌نهایت بود، چه اتفاقی می‌افتاد؟"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جهان هستی فاقد شکل و منظره‌ی ثابت است و هر ناظری آن را با توجه به سرعت حرکتش در فضا و فرکانس چشمش مشاهده می‌نماید. اگر ناظر وجود نداشته باشد، جهان هستی نیز وجود نخواهد داشت. هر چشمی به گونه‌ای طراحی گردیده که جهان هستی را به شکل خاصی برای صاحب آن متجلی می‌سازد و تصویر مجازی ناشی از حرکت ذرات را به ناظر گزارش دهد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر فرکانس چشم ناظر بی‌نهایت باشد، چیزی را در جهان هستی مشاهده نخواهد کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منظره‌ی جهان هستی با توجه به آستانه‌ی درک ناظر"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر فرکانس چشم ناظر بی‌نهایت باشد، چیزی را در جهان هستی مشاهده نخواهد کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یک خفاش جهان هستی را بسیار محدود و مانند یک نقشه‌ی سونوگرافی می‌بیند و مطابق با میزان بُرد امواج صوتی خود، فضای محدودی را می‌تواند زیر نظر داشته باشد. در نتیجه جهان هستی برای او محدود به یک محدوده‌ی مشخصی می‌شود. بدیهی است درک یک خفاش از جهان هستی در مقایسه‌ی با توصیفی که ما داریم، به هیچ وجه قابل قیاس نمی‌باشد و اگر ما می‌توانستیم راجع به جهان لایتناهی با او صحبت کنیم، به طور قطع به ما می‌خندید و ما را مسخره می‌کرد که مگر می‌شود جهان لایتناهی باشد؟!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آن چه را یک کور مادرزاد از دنیا تصور می‌کند، به طور کامل با یک فرد بینا، تفاوت دارد و همچنین یک فرد کر و لال مادرزاد نیز با برداشت متفاوتی از دنیا رو به رو است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همانطور که در مثال‌های فوق مشاهده گردید، منظره جهان هستی از دیدگاه هر ناظر، به یک شکل می‌باشد و این همه تنوع در منظره جهان هستی، به تعداد موجودات (از یک میکرو اُرگانیسم تا ... کلیه موجودات جهان هستی) می‌باشد. بنابراین از این زاویه نیز جهان هستی بی‌نهایت منظره داشته و هر ناظری به تناسب ابزارهای حسی خود آن را می‌بیند که البته هیچ یک از این منظره‌ها حقیقی نمی‌باشند. در نتیجه همه‌ی منظره‌های جهان هستی مجازی و غیرحقیقی است. حال اگر سؤال شود که 'کدام موجود منظره‌ی اصلی جهان هستی را می‌بیند؟'، چه جوابی به آن می‌توان داد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هر ناظری بسته به آستانه‌ی درک فیزیکی خود، تصور و برداشتی از منظره‌ی جهان هستی دارد. لذا بی‌نهایت منظره برای عالم وجود دارد و البته هیچ یک از این منظره‌ها را نمی‌توان تصویر درست یا منظره اصلی جهان هستی دانست."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منظره‌ی جهان هستی در رابطه با سرعت نور"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شب هنگام، وقتی به آسمان نگاه می‌کنیم، منظره‌ی زیبایی در مقابل دیدگان خود می‌بینیم. ستارگان زیادی را رؤیت کرده که عظمت آنها، چشمان ما را خیره می‌کند. آیا آن چه را که مقابل چشمان خود می‌بینیم، حقیقت دارد و یا مجازی است؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در جواب باید گفت که آن چه را مشاهده می‌کنیم، تصویری مجازی از گذشته است و هیچ یک از چیزهایی را که می‌بینیم، در همان محل رؤیت قرار ندارند؛ بلکه متعلق به زمان‌های گذشته می‌باشند. از نزدیکترین ستاره که خورشید است، تا ستارگان و کهکشان‌هایی که متعلق به چند میلیارد سال قبل هستند (ش-۱۱)."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six12"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای مثال آن چه را که از خورشید مشاهده می‌کنیم، متعلق به هشت دقیقه قبل است و اگر یک شی را در فاصله یک متری خود مشاهده کنیم، این تصویر متعلق به ۳۳۳۳۳۳/0 ثانیه قبل می‌باشد. لذا همه‌ی آن چه را که می‌بینیم، مجازی است و عامل سرعت نور باعث ایجاد این مجاز شده و آن چه که رؤیت می‌شود، توهمی بیش نیست. در نتیجه نمی‌توانیم به مشاهدات خود استناد داشته باشیم و آن چه را که به عنوان تصویر جهان هستی می‌شناسیم، به طور کامل مجازی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منظره‌ی جهان هستی در رابطه با خمش فضا"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همان طور که می‌دانیم خط صاف در فضا به صورت خمیده بوده و هر متحرکی در فضا، قوسی را طی می‌کند. به عبارت دیگر، 'فضا' کروی و لایه لایه است و هر متحرکی که بخواهد در آن حرکت آزاد داشته باشد، باید در یکی از این لایه‌ها قرار بگیرد و قوس آن را طی کند و اگر بخواهد مسیر این قوس را تغییر دهد، باید انرژی صرف نماید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال اگر ناظری بخواهد با تلسکوپی (که به فرض برد نامحدود داشته باشد،) به آسمان نگاه کند، اولاً حداکثر برد دید او محدودیت داشته و شعاع یک دایره‌ی عظیم خواهد بود و جهان هستی برای او مطابق (شکل-۱۲) محدود و محصور در این دایره می‌شود. ثانیاً، هرچه فاصله‌ی دورتری را مشاهده نماید، به جای دیدن روبروی یک شی سماوی، سمت بغل آن را مشاهده خواهد کرد؛ تا جایی که در حداکثر مقدار این فاصله به جای روبروی یک شی، سمت پشت آن مشاهده می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:src="@mipmap/six13"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نتیجه‌گیری نهایی در مورد جهان مجازی"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال اگر ناظری بخواهد با تلسکوپی (که به فرض برد نامحدود داشته باشد،) به آسمان نگاه کند، اولاً حداکثر برد دید او محدودیت داشته و شعاع یک دایره‌ی عظیم خواهد بود و جهان هستی برای او مطابق (شکل-۱۲) محدود و محصور در این دایره می‌شود. ثانیاً، هرچه فاصله‌ی دورتری را مشاهده نماید، به جای دیدن روبروی یک شی سماوی، سمت بغل آن را مشاهده خواهد کرد؛ تا جایی که در حداکثر مقدار این فاصله به جای روبروی یک شی، سمت پشت آن مشاهده می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مجاز اندر مجاز است، عالم ما\nخیالی بیش نیست، اندر سر ما
+\n
+چو رستیم عاقبت، از این توهم\nجهانی دیگر آید، در بر ما"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با امید به توفیق عمل"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

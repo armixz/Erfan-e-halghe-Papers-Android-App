@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Contents">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="20dp">
+
+            <Button
+                android:id="@+id/p1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="35dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="اصل وحدت راه"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton" />
+
+            <Button
+                android:id="@+id/p2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="طب مکمل و جایگزین"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@color/colorAccent"/>
+
+
+            <Button
+                android:id="@+id/p3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="انسان، بیماری و تحول"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="آیینه عاشورا"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="اسب تراوا"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="جهان تک ساختاری"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="کشف رمز یک"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="کشف رمز دو"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="در رواق رمضان"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="عید فطر جشن آزادگی"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="نگاهی به تناسخ"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="معراج حج"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="خدای عشق و عشق"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="قدر غدیر"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="اخلاق و عرفان"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="ظلم چیست"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="دام دجال"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="آزمایش آخر"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="عصر ظهور"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="نقش ابلیس"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="با اولیای الهی"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="تاملی پیرامون عرفان حقیقی"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+            <Button
+                android:id="@+id/p23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="تعمقی در باب الصلوة"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+            <Button
+                android:id="@+id/p24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="فلسفه عرفانی حجاب"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+            <Button
+                android:id="@+id/p25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="45dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="آسیب شناسی خانواده"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:background="@drawable/mybutton"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

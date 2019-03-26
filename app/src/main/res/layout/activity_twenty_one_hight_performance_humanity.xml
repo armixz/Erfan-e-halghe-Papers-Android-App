@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twenty_one_hight_performance_humanity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نقش اولیاءالله در زندگی انسان های حقیقت جو قابل انکار نیست. زیرا این انسان های متعالی، در مسیر کمال افراد حقیقت طلب، نقش «علائم الطریق» را ایفا می کنند. آن ها بهترین دعوت کنندگان به پیام های آسمانی «لا اله الا الله» و «فاستقیموا الیه» هستند و انگشت اشاره ی هر کدام، به سوی خداوند است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر مسیر کمال را به کوه بلندی تشبیه کنیم، اولیاء الله بلد راه کوهنوردان برای رساندن آن ها به قله ی این کوه هستند. هر کوهنوردی که قصد فتح قله را دارد، باید به بلد راه متوسل شود و با هدایت او مسیر را طی کند. بلد راه هیچ گونه منیتی ندارد و کسی را به سوی خود دعوت نمی کند. او رهروان را به سوی قله ای فرا می خواند که قبلا آن را فتح کرده است. نگاه کوهنوردانی که به او متوسل می شوند نیز، به سوی قله است؛ اما در عین حال، قدرشناس او هستند و کمک او را نادیده نمی گیرند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همه ی اولیاءالله با رمز گشایی از پیام های آسمانی و با عملکرد خود، همواره برای این هدایت اعلام آمادگی کرده اند. آن ها توجه مردم را تنها به سوی خدا جلب می کنند. کسانی که با توسل به آن ها به رشد و تعالی معنوی رسیده اند و محور وجودی آن ها محور الله شده است، بهتر از هر کسی از وجود این نعمات الهی برخوردار شده اند و به مقام و منزلت الهی آن ها واقف هستند. یکی از با ارزش ترین انگیزه ها ی سفرهای زیارتی نیز قدردانی از همین منزلت الهی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اولیاء الله، گل سرسبد وجود عالم هستی برای حضور انسان خلق شده است تا همه ی هنر خود را در آن به نمایش بگذارد. اگر صحنه ی عالم را به زمین فوتبالی تشبیه کنیم، که تلاش و تکاپوی انسان ها در آن، مانند تلاش بازیکنان فوتبال در نظر گرفته شود، اولیای الهی کسانی هستند که توانسته اند با گل زدن، به موفقیت برسند و به عنوان آقای گل، این تلاش را به ثمر برسانند. بنابراین، می توان گفت که عالم هستی برای به ظهور رسیدن آن¬ها طراحی شده است و آن ها گل سرسبد وجود هستند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="رابطه ی کتب آسمانی و اولیاء الهی بهترین کسانی که می توانند از پیام¬های آسمانی رمزگشایی کنند، اولیاءالله هستند. دلیل این که پیامبر اسلام(ص) به امت خود فرمودند دو امانت گرانبها برای شما به جا می¬گذارم و این دو امانت را قرآن و عترت معرفی کردند، همین است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در حقیقت، دلیل این که ایشان ما را به عترت ارجاع داده اند،‌ این است که آن‌ها بهتر از دیگران پیام‌های قرآن را درک می کنند. قرآن قانون اساسی است و عترت کسانی هستند که این قانون را به خوبی درک و اجرا می‌کنند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="باز هم می توان از یک مثال استفاده کرد: رعد و برق ابتدا به مرتفع‌ترین بناها برخورد می‌کند و این بناها بیش از هر بنای دیگر جریان الکتریکی را جذب می کنند. همه ی ما نیز در معرض نور هدایت الهی هستیم؛ اما این نور بهتر از همه به مستعدترینهای ما اصابت و اثر می کند. انبیاء و اولیاء الهی بهترین دریافت کنندگان الهامات و معارف الهی هستند که آن ها را درک می کنند و از این طریق بهتر از دیگران از پیام ها و تعالیم کتب آسمانی بهره¬مند می¬شوند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همان‌طور که یک مقاله ی علمی برای کسانی بیشتر قابل استفاده است که با آگاهی های قبلی خود، برای فهم آن آمادگی دارند. در مورد هدایت الهی هم همین‌طور است. انبیا و اولیا برای استفاده از کتب آسمانی آمادگی بیشتری دارند و گیرندگی آن‌ها از همه بالاتر است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="وراثت رسالتی اولیاءالله"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در برخی از متون دینی، ائمه ی معصومین(ع) وارثان انبیاء معرفی شده اند. این وراثت، وراثت ژنتیکی نیست. در جنگهای قدیم، هر لشکری عَلَمی داشت که بر پا بودن آن، نشانه ی پابرجایی این لشکر بود. به همین دلیل، علمدار نقش مهمی ایفا می کرد. در همه ی این جنگ ها علمدار فرد از جان گذشته‌ای بود که بیش از همه در معرض خطر قرار داشت. علمدارها زودتر از سایر افراد لشکر کشته می‌شدند؛ اما افتخار لشکر بودند. اگر با کشته یا مجروح شدن علمدار، علم می‌افتاد، دوباره کسی آن را بلند می‌کرد و به این ترتیب، تعداد زیادی از علمدارها یکی پس از دیگری علم را برافراشته نگه می داشتند. هر علمداری که پرچم علمدار قبلی را بلند می کرد، وارث او بود. هر وارثی، رسالتی به عهده دارد. این وراثت، «وراثت رسالتی» است. ائمه ی معصومین(ع) نیز در زنده نگه داشتن رسالت الهی وارث انبیا هستند؛ یعنی علمدار کمال هستند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در عصر ظهور هم عده ای وارث خیر و عده ای وارث شر هستند و هر کدام از ما به یک شکلی در برپایی علم حق یا باطل می توانیم علمدار باشیم و اثبات کنیم که وارث حسین‌ها هستیم یا وارث یزیدها. در این عصر، منجی موعود، اصلی ترین علمدار جبهه ی خیر و بهترین وارث انبیاء است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="صراط بودن اولیاءالله"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای انجام هر کاری باید به کاردان آن مراجعه کرد. در حقیقت، راه انجام کار، رجوع به همان کاردان است. اولیاء الهی کاردان راه کمال هستند که کوتاه‌ترین راه را نشان می‌دهند. صراط مستقیم، کوتاهترین فاصله بین بنده و خداوند است. وقتی امیرالمومنین(ع) می‌فرمایند 'من صراط هستم' یا عیسی مسیح(ع) می‌فرمایند 'من «در» هستم؛ تا چه کسی این در را بکوبد'، راهنمایی می کنند که برای یافتن کوتاه¬ترین راه (صراط مستقیم) باید از آن¬ها تبعیت کرد. زیرا پیروی از بلد راه یعنی حرکت در راه."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بدون هدایت بلد راه نمی¬توان از رسیدن به مقصد از طریق کوتاه ترین راه مطمئن بود. احتمال دارد کسی بدون این راهنمایی به مقصد برسد؛ اما وجود بلد راه، تضمین و ضمانت است. پس می¬توانیم بگوییم بلد راه مساوی است با خود راه. همچنین می¬توان به او «باب الله» هم گفت؛ زیرا از طریق او می-توان به حریم کمال وارد شد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ین حدیث از امام رضا(ع) نقل شده است که خداوند فرمود: «کلمه «لا اله الا الله» دژ من است و هرکس وارد این دژ شود از عذاب من در امان است». سپس ایشان فرموده¬اند: «این شروطی دارد و من یکی از آن شرط‌ها هستم». «لا اله الا الله» دژی است که هرکس به درک آن برسد، از عذاب دوری خداوند در امان می¬ماند. اما ممکن است هر کسی به اشتباه گمان کند که به حقیقت «لا اله الا الله» دست یافته و به این دژ وارد شده است؛ در حالی که کمتر کسی داخل این دژ (دارای محور وجودی الله) است و آن را تشخیص می¬دهد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امام که خود در این دژ قرار دارد، می فرماید از هدایت من کمک بگیر تا تو را به دژ الهی وارد کنم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عشق به اولیاء¬الله"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هیچ انسانی نمی¬تواند بدون عطف به تجلیات الهی به عشق الهی راه پیدا کند. زیرا تنها با عطف به تجلیات الهی، انسان از عطف به خود رها می¬شود و قلب او آمادگی عشق الهی را خواهد یافت. هر یک از تجلیات الهی می¬تواند این نقش را ایفا کند؛ اما از میان همه¬ی موجودات عالم که تجلیات خداوند هستند، بعضی از آن¬ها بیشتر جلوه¬گری می¬کنند و شاخص می¬شوند. انسان¬هایی که در مسیر کمال قدم بر می¬دارند، همواره از رحمانیت خداوند بهره¬مند می¬شوند و هر چه این بهره¬مندی بیشتر می¬شود، انعکاس رحمت در وجود آن¬ها نیز بیشتر می¬شود و به این ترتیب، دلها را مجذوب خود می¬کنند. اولیاء الله به عنوان شاخص ترین این افراد هستند که به دلیل انعکاس رحمت الهی، زیباترین تجلیات او بوده، عشق به آن¬ها منجر به عشق الهی می¬شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="لزوم شناخت اولیاءالله"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بدون شناسایی بلد راه و نقشه¬ای که او برای پیمودن راه در اختیار می¬گذارد، احتمال خطا بسیار است. بسیاری از انسان¬ها در زندگی خود هدف کمال را انتخاب می¬کنند؛ اما به دلیل این که دچار جهل هستند و الگوی مناسبی ندارند و یا در عمل از الگوهای حقیقی راه کمال تبعیت نمی¬کنند، خداپرستان نادانی خواهند بود که به نام حق در مقابل حق می¬ایستند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اولیای الهی ابر انسان¬های معرفت¬طلب تاریخ کمال بشر هستند که پیروان خود را از این خطر نجات می¬دهند. هر کدام از ما که خود را «شیعه» می¬نامیم، باید بدانیم که شیعه یعنی مشایعت کننده و پیرو. ما در صورتی شیعه¬ی واقعی خواهیم بود که پای خود را جای پای معصومین (ع) بگذاریم و در صورتی از شفاعت آن¬ها بهره¬مند می¬شویم که از آن-ها پیروی کرده باشیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در عصر ظهور نیز تنها کسانی در جبهه¬ی حق قرار می¬گیرند که هدف و روش اولیاءالله را شناخته باشند و با رهروی در راه آن¬ها و آشنایی با اندیشه و هدف منجی موعود بتوانند به تشخیص حق از باطل (که برای انسان¬های نا آگاه دشوار است) دست یابند و به درکی رسیده باشند که به کمک آن بتوانند از تعالیم ولی عصر (عج) بهره¬مند شوند و او را در رسیدن به اهداف الهی مشایعت کنند. بدون بصیرت و معرفت، همراهی با اولیاءالله ممکن نیست و جهل و نا آگاهی، از ما تنها سامری¬ها، ابوسفیان¬ها، ابن ملجم¬ها، یزیدها و امثال این طاغوت¬ها را به جا خواهد گذاشت. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

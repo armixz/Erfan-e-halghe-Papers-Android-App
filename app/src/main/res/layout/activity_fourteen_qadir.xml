@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fourteen_qadir">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بارها در آستانه عید سعید غدیر قرار گرفتیم و به شادی نشستیم! این بار بیندیشیم و آنگاه که به آستان ولایت رسیدیم، به برخاستن خوشدل باشیم!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="22dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="انوار هدایت الهی همواره در حال تابش است و تنها دلهای مشتاق و مستعد، پذیرای آن هستند. در این میان کسانی که مستعدتر از دیگران به روی آن آغوش گشوده، با آمادگی و طلبی زایدالوصف، رنگ الهی به خود می گیرند، «اولیای الهی» نام می یابند. اولیای الهی، گل سرسبد وجودند. خالق بشر که خواهان رشد و کمال هر انسان است، برای به ظهور رسیدن چنین افرادی هستی را آفرید؛ برای متجلی شدن زیباترین تجلیات."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آن ها مانند انسانهای دیگر روزی به دنیا می آیند و روز دیگر می روند؛ اما احوال و رفتار و گفتارشان همواره راهنمای رشد و تعالی خواهد بود. بنابراین، اولیای الهی«علائم الطریق» هستند؛ علائمی برای رهسپاری در مسیر کمال. آنها بزرگترین معلمان معرفت هستند؛ معلمانی که خود به درک حقیقت رسیده اند و می توانند به سوی خدا هدایت کنند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و به عبارت دیگر، آنها فاتحان قله کمال هستند؛ فاتحان و «بلد راه». به همین دلیل، همه انسانهای کمال طلب، کوهنوردانی بر شمرده می شوند که برای صعود، به یاری و کمک این فاتحان راه شناس نیازمندند. شاید برای پیمودن مسیر هر کوهی نیازی به بلد راه نباشد؛ اما رفتن به فراز کوهی عظیم که گردنه ها و پرتگاه های آن ناشناخته است، بلدی می خواهد که به سلامت به مقصد برساند. باید به این بلد متوسل شد تا بتوان به مقصود رسید. باید چشم دل را به قله دوخت و به اشارات او توجه داشت. اولیای الهی بی مزد و منت این نقش الهی را ایفا می کنند و نه به سوی خود؛ بلکه به سوی خدا هدایت می کنند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با این همه، تأثیر وجود اولیای الهی بر حیات انسانهای حقیقت جو و کمال طلب به همین جا ختم نمی شود و راز وجود پر خیر آنها را باید در دنیای پر رمز و راز عشق جستجو کرد. هیچ یک از ما انسانها نمی توانیم خداوند را چنان که هست بشناسیم و درک کنیم و درست به همین دلیل، نمی توانیم به خودی خود، عاشق او شویم. اما در صورتی که با عطف به تجلیات الهی، از عطف به خود رهایی یابیم، به درک عشق او به خود دست خواهیم یافت و به نسبتی که این عشق را درک کنیم، عاشق او خواهیم شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="انسان از بدو تولد عاشق خویش است و تا زمانی که دچار این خودشیفتگی است، عشق او به دیگری، جلوه ای از عشق به خودش خواهد بود. زیرا در این حالت، او دچار عشقی عقلانی است و بر اساس سودجویی عقل، برای منفعت خویش معشوق را می طلبد. اما به محض این که عشق حقیقی به هر یک از تجلیات الهی در دل او خانه کند، این خانه از وجود خودش خالی خواهد شد و از آنجا که رمز ورود به حریم عشق الهی، گذشتن از خویش است، در این مرحله، به درک این حقیقت می رسد که خداوند عاشق اوست و به این ترتیب، به نسبتی که این عشق را بچشد، عاشق او خواهد شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از میان تجلیات حق که در سطحی عام و به عنوان آفریدگان آفریدگار مهربان همگی در خور عشق هستند، بعضی بیش از سایرین و به بهترین وجه جلوه گری می کنند و شاخص می شوند. بهترین جلوه گری، جلوه گری به کمال است و از آنجا که گلهای وجود اولیای الهی جلوه گاه خارق العاده معرفت و کمال است، سیر در گلزار هستی، دل را به سوی آنها می کشاند و از این رهگذر، تجربه عشق الهی به بهترین وجه میسر می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="دل سپاری به ولی خدا دل را به سوی او سوق می دهد و رهسپاری در راه او را تضمین می کند. اما صد دریغ از آن که کسی دچار نا آگاهی باشد و خود را آگاه بداند؛ عشق حقیقی را نچشیده باشد و خود را عاشق بداند و بدون رهرویی راهنمایی خبره، راهی در پیش بگیرد و آن را راه خدا بداند! در این صورت است که گل وجود ولی پشت غبار جهل پنهان می شود و داس به دستان بر صحنه می مانند. امروز ماییم که در ادعای خداپرستی، عشق به اولیایی چون علی (ع) را گواه می آوریم و عزم کوهنوردی می کنیم. اما باید مراقب باشیم که دچار جهل ابن ملجم نشویم. نادان بودن یک خطر است و تأثیر جمعی آن هزاران خطر. گمراهی و رهرویی شیطان یک مشکل است و گمراهی و توهم در راه خدا بودن، هزاران مشکل!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مگر نه این که ابن ملجم ها خداپرستان نادانی هستند که به نام حق در مقابل حق ایستاده، به نام خدا، راه خدا را می بندند و احساس رستگاری می کنند؟ مگر نه این که حاضرند حتی جان خود را دراین راه فدا کنند؟ مگر آنها مدعیان حقیقت و قربانی حماقت نیستند؟ چگونه می توان از این حماقت رهایی داشت؟ شاید باید ابن ملجم بودن را شناخت!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ابن ملجم ها به نام حق و با چشمانی بسته در برابر شکل گیری هر جریان حق طلبانه ای می ایستند و آن را متوقف می کنند؛ ابن ملجم¬ها به نام دفاع از حق، در برابر هر نهضت شکل گرفته بر حقی نیز قد علم می کنند و با به انحراف کشیدن، آن را از معرفت تهی کرده، تنها جسدی برجای می گذارند. زیرا آنها درسی از اولیا نیاموخته اند و خبری از علی ها ندارند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ابن ملجم ها از مولا علی (ع) و از گنجینه معرفت او، تنها جنگ آوری آن ولی خدا را در افق نگاه باقی می گذارند و بی آن که مرام او را بشناسند و زنده نگاه دارند، تنها از این می گویند که توانست در قلعه خیبر را بشکند. آنها از کفر ستیزی او فقط برق شمشیرش را به خاطر می سپارند و بی آنکه تفکر و معرفتی که پشت ذوالفقار بود، بشناسند، چرخش ذوالفقار در دستان او را به رخ عالم می کشند و رمز موحد بودن او را به دست فراموشی می سپارند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="انسان امروز به دلیل فقدان معرفت و دوری از کمال الهی، در رنج و عذاب است و چنان که باید، طعمی از شیرینی و حلاوت حضور خدا و درک حقیقت نمی چشد. او نیازمند هدایت است و گاهی راهی می جوید و نمی یابد. زیرا ابن ملجم های تاریخ، پیام اولیای خدا را به شهادت رسانده اند. زیرا رمز کمال علی (ع) پنهان است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="باید از ابن ملجم بودن پرهیز کرد؛ باید با مولا علی(ع) آشنا شد؛ باید به حریم عشق راه یافت و باید حرمت خون مبارک آن حضرت را که در پایداری بر حق و حقیقت به زمین ریخته شد، نگاه داشت و چنان که او و همه اولیای الهی دعوت کرده اند، تنها خدا را دید؛ تنها خدا را خواند و تنها از او یاری خواست! باید از غیر خدا رهایی جست و آزادگی کرد!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آنگاه باید انتخاب راه ابر انسان های معرفت طلب تاریخ کمال بشری را جشن گرفت؛ جشنی که اجر نهادن به مرشدان راه تعالی است! عید غدیر، بهانه ای برای چنین جشنی است؛ جشن معرفت جویی؛ جشن بیعت با اولیای خدا و جشن عزیمت به سوی مقصدی که این قاصدان الهی طلبیدند!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

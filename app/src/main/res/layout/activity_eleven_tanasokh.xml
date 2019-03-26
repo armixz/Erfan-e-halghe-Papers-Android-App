@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".eleven_tanasokh">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یکی از انواع تفکرات بشری درباره سرنوشت پس از مرگ، «تناسخ» است که به نقل مورخین، ریشه در آیین های مختلف هندی از جمله آیین های بودا، هندو، جین و سیک دارد؛ اما امروزه طرفداران بسیاری را به خود اختصاص داده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بر اساس این عقیده، مرگ انسان منجر به تولد مجدد او در همین جهان خواهد شد و بر اساس دیدگاه های مختلفی که در این زمینه وجود دارد، این تولد می تواند در قالب انسان دیگر و یا یکی از انواع حیوانات، گیاهان و جمادات باشد. پیروان تناسخ اعتقاد دارند که برخی از افرادی که در گذشته اند نیز می توانند به جای رفت و برگشت های مکرر به این دنیا، به رهایی و آرامش ابدی دست یابند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یکی از قوانینی که تناسخ بر مبنای آن شکل می گیرد یا توجیه می شود، «قانون کارما» است. این قانون حاکی از آن است که نتیجه ی اعمال انسان گم نخواهد شد و هرکسی در دو مرحله با اثر کارمای خود مواجه می شود: یکی در زندگی فعلی و دیگری در زندگی مجدد در این جهان."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به این ترتیب، پیروان تناسخ معتقدند که هر کسی باید نتیجه ی اعمال خود را در بازگشت به این دنیا بیابد و راه رسیدن به این نتیجه آن است که اگر خوبی پیشه کرده است، در پیکر و وضعیت بهتری (برای مثال، در خانواده ای مرفه) متولد شود و اگر کارمای منفی دارد، در پیکری پست تر (مثل پیکر حیوان) و یا در وضعیت نامطلوب (برای مثال، در خانواده ای فقیر و تنگدست) تولد یابد تا در اثر رنج، به اصطلاح، موفق به سوزاندن آن کارما (از بین بردن اثر منفی اعمال) شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به همین دلیل، ایمان به تناسخ از سویی موجب قضاوت نادرست درباره ی افراد تهیدست و بد اقبال شده، آن ها را به عنوان گنهکاران زندگی قبل، لایق خواری و ذلت بر می شمارد و از سوی دیگر، با پذیرش فقر در جامعه و بزرگداشت افراد صاحب ثروت و مکنت، عامل دفاع از نظام طبقاتی می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اشکالات دیگری نیز بر این نوع تفکر وارد است. از جمله این که با توجه به این باور، انتظار می رود در این رفت و برگشت های مکرر و با سوزاندن کارما، روز به روز وضعیت عمومی بشر در عالم بهتر شده، خطاهای او نیز کاهش یابد؛ در حالی که تا کنون با گذر زمان و افزایش فکر و هوش بشر، پیشرفت‌های علمی او در زندگی بیشتر شده، به همین نسبت، تبعات منفی آن نیز افزایش یافته است. به‌طوری که برای مثال، یک انسان عصر حاضر می‌تواند به اندازه‌ی همه‌ی انسان‌های نخستین به طبیعت آسیب برساند. پس در عمل، نشانه‌ای از کم شدن آثار منفی هر نسل نسبت به نسل قبل وجود ندارد. در عین حال، شکایت از رنج های زندگی رو به افزایش بوده، با این روند نمی توان کاهش کارمای منفی را پذیرفت و به رهایی از آن حتی در بازگشتی مجدد امید داشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از طرف دیگر، با اعتقاد به خدا و رحمت او، نمی توان انسان را محکومی ابدی دانست که برای برطرف کردن بار منفی گناهان و خطاهای خود مجبور به رفتن از این دنیا و بازگشتن به آن است. زیرا اولا هر فردی در همین زندگی امکان تحول (توبه) و رسیدن به کمال دارد و لطف خدا بسیار بیشتر از آن است که چنین امکان و فرصتی را از او دریغ کند و ثانیا اگر راه جبران اشتباهات و گناهان و یا رسیدن به نتیجه ی خوب و مطلوب یک زندگی انسانی و اخلاقی، تولد مجدد در همین دنیا بوده، هدف متعالی تری برای ادامه ی زندگی (آن هم نه در این دنیا) وجود نداشته باشد، طرح عظیم الهی برای خلقت انسان پوچ و بی معنا خواهد بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از این گذشته، در صورتی که بپذیریم زاد و ولد، عامل بازگشت انسان ها به این جهان است و باور کنیم که پس از مرگ، تعدادی از انسان‌ها تبدیل به جمادات، نباتات و حیوانات می شوند و تعدادی (هرچند اندک) به رهایی و آرامش ابدی رسیده، از گردونه‌ی تناسخ نجات می یابند، باید با کاهش جمعیت بشر در جهان مواجه باشیم؛ در حالی که در عمل این طور نیست."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="درباره ی امکان انتقال انسان به قالب جمادات نیز باید پرسید چه واحدی از جمادات می‌تواند حاصل تبدیل یک انسان به آن باشد؟! برای مثال، مرگ انسانی که قرار است تبدیل به سنگ شود، باعث تشکیل چه مقدار سنگ می شود؟ آیا او تبدیل به صخره یا کوه و یا رشته کوه خواهد شد؟ آیا در کل می‌توان واحدی برای سنگ در نظر گرفت؟ بر اساس این پرسش های بی پاسخ، نمی توان نظریه‌ی بازگشت انسان (به دنیا) به‌صورت جمادات را پذیرفت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نکته ی مهم تر که باید به آن توجه کنیم این است که وجه تمایز انسان از موجودات دیگر عالم، سرمایه ای است که حقیقت وجود او را شکل داده، در اثر هیچ مرگ و تولدی از وجود او قابل حذف نیست و او با داشتن این سرمایه ی الهی که جنس وجود او را از سایر مخلوقات متفاوت کرده است، امکان تولد به صورت موجودی غیر از انسان را نخواهد داشت؛ زیرا اگر موجودات دیگر این قابلیت را در خود داشتند، حتما از آن برخوردار بودند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر چه که هر یک از این مطالب، شرح و تفصیل بیشتری می طلبد؛ در مجموع و به طور خلاصه می توان گفت عقیده به تناسخ که با باور به سلسله مراحل معاد مغایرت دارد و نمی تواند در یک بینش الهی جایگاهی داشته باشد، سرنوشتی را برای انسان ترسیم می کند که چیزی جز یک رنج جاویدان نیست؛ رنجی که حتی اگر بتوان از آن نجات یافت، اثبات می کند که طرح آفرینش انسان پوچ و بیهوده است و طراح هستی به دلیل طراحی عاقبتی بی معنا برای انسان، در طرح شکوهمند خلقت دچار اشتباه شده است. بنابراین، برای بررسی نظری تناسخ، معرفت بیشتر به خود، خداوند و هستی ضروری است و باید گفت که با شناخت و ادراک پیچیدگی وجود انسان و غایتمندی هستی او، به هیچ وجه نمی توان در برابر این نظریه سر فرود آورد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

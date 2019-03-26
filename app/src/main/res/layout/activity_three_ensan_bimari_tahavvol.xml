@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".three_ensan_bimari_tahavvol">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مبارزه با بیماری، یكی از بزرگترین مبارزات انسان در طول حیات او بر روی كره خاكی بوده و رویای پیروزی بر آن، یكی از بزرگترین رویا‌ها و آرزوهایش. و انسان شاید پیوسته در این اندیشه بوده است كه اگر بیماری وجود نداشت، می‌توانست طعم خوشبختی را چشیده و دمی را به آسایش بگذراند. اما به راستی اگر انسان با مشكل بیماری دست به گریبان نبود، آیا می‌توانست به سعادت، خوشبختی و آرامش برسد؟
+\n\nبدون شك جواب به این سوال مهم، منفی است. چرا كه با اندكی دقت نظر، می‌توان به این مسئله پی برد كه عواملی كه مانع رسیدن انسان به سعادت، خوشبختی و آرامش می‌باشند، بیماری نیست بلكه وجود خود او می‌باشد كه همچون زهری علیه خویشتن، همواره به كار رفته و آسایش و آرامش او را به باد داده است.\n"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="\nاز بدیها آنچه گـویم، هست قصدم خویشتن\nزانكه من زهری ندیدم در جهان، چون خویشتن
+\nدشمن جانم منم، افغان من هم از خود است\nاز خودی خود، من بخواهم همچو هیزم، سوختن\n(مولانا)
+\nتو خود حجاب خویشتنی حافظ، از میان برخیز\nخوش آن كسی كه در این پرده، بی حجاب رود\nحافظ\n"
+                android:textSize="22dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:fontFamily="@font/irannastaliq"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:text="بنابراین دشمن اصلی و حجاب خوشبختی انسان، وجود خود او می‌باشد و با حذف و از بین رفتن بیماری، مشكلات او نه تنها حل نشده، بلكه امكان افزایش آن نیز می‌رود، زیرا بیماری، خود عامل موثری برای جلوگیری از بلند پروازی‌ها و سر كشی‌های انسان بوده است، همان عواملی كه انسان خود شیفته را به ورطه نابودی و فلاكت سوق داده‌اند.\n"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="گر سر فرعون را ، درد بدی و بلا\nلاف خدایی كجا ، در دهدی آن عنود"
+                android:textSize="22dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:text="در راه تحقق چنین آرمانی، ما با نگرشی نو به انسان و مشكلات او نگاه می‌كنیم و هر راه حلی را در جهت تحول او مورد بررسی قرار داده و پیگیری می‌نماییم و در می‌یابیم كه خارج از این دیدگاه، راه حل‌ها تاثیر چندانی در ایجاد تحولی مثبت نخواهند داشت. بنابراین درمان از دید جهان بینی ما، ضمن اینكه وسیله‌ای بیش نیست، اما این وسیله صرفاً به عنوان عاملی متحول كننده برای بیمار و درمانگر مورد استفاده قرار می‌گیرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:text="مكتب درمانی عرفانی 'فرادرمانی' بعنوان وسیله‌ای در خدمت اهداف متعالی بوده تا ضمن تحقق بخشیدن به امر درمان، ایجاد تحول فكری و بینشی را برای انسان به ارمغان داشته باشد. شیوه‌ای كه ضمن درمان، توجه بیمار را به یك مبدا هوشمند و یك شعور لایزال جلب نموده تا این عمل، زمینه ساز ایجاد آن تحول تعالی بخش گردد. مشكل انسان، عدم آشنایی عملی با چنین منبعی می‌باشد و شیوه‌ای كه بتواند چنین روندی را برای بیمار فراهم نماید و او بتواند با مشاهده بهبود وضعیت بیماری خود، بدون دخالت هیچ گونه عامل مادی و یا كاری كه منتسب و مربوط به مهارت‌ها و علم و دانش انسان باشد و با مشاهده روندی هوشمندانه، كه جریان درمان را هدایت نموده است، ناخودآگاه در برابر قدرتی عظیم قرار گرفته و به زودی به درك تجلیات الهی پی برده و به دنبال آن تغییرات بینشی لازم در او به وجود آمده و به دنبال اتصال به این منبع هوشمند و درك چگونگی این هوشمندی، تحولات مثبت بعدی بوجود بیاید.'"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:text="\nبنابراین در این مكتب، این موضوع بسیار حائز اهمیت می‌باشد كه اصالت نگرش آن حفظ شده و فرد را فقط در ارتباط با شعور كیهانی قرار داده و از دخالت همزمان شیوه‌های جانبی درمان، مانند گیاه درمانی، حجامت، ماساژ درمانی، هومیوپاتی و... و هر روش غیر متعارف درمانی دیگری كه ذهن بیمار را از شعور الهی منحرف نموده و برای او ایجاد سردرگمی نماید و باعث شود كه نتیجه گیریهای مورد نظر انجام نشده و روند و شیوه‌های تفكری بیمار كماكان بدون هیچگونه تغییری ادامه یابد، جداً خودداری شود. زیرا با این عمل ضمن مخدوش نمودن جلال و عظمت شبكه شعور كیهانی و محروم نمودن بیمار از دسترسی به آگاهی ناب و رهایی دهنده، درمانگر خود نیز دچار آشفتگی‌ها و بهم ریختگی‌هایی خواهد شد كه در مورد برخی از افراد درمانگر این رشته مشاهده شده است، افرادی كه با حسن نیت ولی با ضعف بینشی خود، صرفاً به درمان جسمی بیمار توجه دارند و برای این منظور از هیچ كوششی فروگذار نمی‌شوند، غافل از اینكه شفای واقعی بیمار، در تحول درونی اوست و ما در واقع با كمك شعور الهی زمینه ساز این تحول خواهیم شد و در نگرش ما شفای جسم به تنهایی، فاقد ارزش لازم می‌باشد و این خود بخش مهمی از این مكتب درمانی می‌باشد.\n
+"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="ساقی بیا، كه هاتف غیبم به مژده گفت\nبا درد صبر كن، كه دوا می‌فرستمت\n(حافظ)"
+                android:textSize="22dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:text="زمانیكه اتصال با شعور كیهانی برقرار باشد، تجویز‌های انسانی میل به خودنمایی و ایجاد اختلال بیش نیست.
+\n\nبا آرزوی درك وحدت هستی و رسیدن به آن"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="50dp"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twenty_three_salat">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«الصلوة» را اتصالی یافتم بین خود و «او» که می خواهم مقیم آن باشم و با آن، ساکن سر کوی «او»؛ می خواهم مقیم اتصالش شوم تا حضورش را دریابم. «الصلوة»، اتصال با او است و اتصال، برقرار کردنی است، نه خواندنی و اتصال، مقیم می خواهد؛ پس با خواندن آغاز کردم تا به مقیم شدن برسم. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«الصلوة» نقطه اشتراک وجود ما با اوست. وجود خود را در میان بگذار تا وجودش را در میان بگذارد و حس حضورش بر تو آشکار شود. این سهم شراکت تو در این پیوند است و هرگاه وجود خود را متعلق به او بدانی، دائم الصلوة خواهی شد؛ یعنی هر لحظه در اتصال با او خواهی بود و در این صورت از زبان او حرف میزنی، با چشمان او می بینی، با پاهای او راه می روی و همه کارهای تو برای او خواهد بود. این نهایت کمال در این زندگی و مفهوم جلوه الهی پیدا کردن در جسم است که به دنبال آن به درک وحدت عالم هستی، درک انا الحق، درک بیت الله، درک جمال او، درک حضورش و ... نائل می شویم و سرمایه و آگاهی لازم برای زندگی بعدی را به دست خواهیم آورد تا در آن زندگی، کوری نباشیم که به عصاکش نیازمند است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای اقامه «الصلوة»، می ایستم تا بگویم نظام بندگی «او» را بر پا می کنم و تعظیم (رکوع) می کنم تا نشان ادای احترام بر «او» باشد و بگویم آن چه را که خواسته است، با جان و دل پذیرفته¬ام و سجده می کنم تا بگویم به درجه تسلیم رسیده و در برابر «او» با خاک یکسان شده¬ام."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«الصلوة» یک یادآوری است. به خاک سجده می¬برم و از آن برمی خیزم و می ایستم تا یادآور 'انا لله و انا الیه راجعون' باشد و به خاطر آورم که از اویم و بسوی او خواهم رفت و تا شوق ملاقات او روح تازه ای به کالبد من بدمد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بعد از برقراری اتصال «الصلوة» و مقیم شدن بر سرکوی او، 'به نام او' آغاز می¬کنم؛ اما به چه نامی؟! او که نام ندارد و نام متعلق به جهان ما یعنی جهان تضاد است که همه چیز باید نامی داشته و موصوف باشد! "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما او در هر جهانی متناسب با آن جهان نام و نام هایی دارد و نام او تجلی او در آن جهان است. در این جا نیزکلمات لباس جسم پوشیده و نشانه هایی از نام مقدس اوست و هر جزئی از اجزاء عالم هستی نامی است از نام های او. باد و باران، ماه و خورشید، زمین و آسمان و هر سو که نظر اندازیم، روی اوست و هر چه را که بخوانیم نام او تا این جبرانی باشد بر کوتاهی آستانه فهم ما که با نگاه کردن به ماه، پی به خورشید تابان می¬بریم و با نگاه به تجلیات «او»، او را در می¬یابیم و 'بسم الله ' یعنی به نام او یعنی به نام همه تجلیاتش و این نام با عظمت، لزوم نگاه احترام آمیز ما بر تجلیات او یعنی احترام قائل شدن برای جهان هستی را خاطر نشان می کند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عالم محضر اوست و محضر او جلوه شکوه¬مندش و جلوه او نام اوست که بدان وسیله شناخته می شود. هر چه را نگاه کنیم، جلوه اوست و هر چه راکه بخوانیم نام او. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در «الصلوة» با گفتن 'رحمان' به یاد می آورم رحمانیتش را که به طور عام، همه ما را در زیر چتر خود قرار داده و ریسمانی ناگسستنی را برای مشتاقان راهش آویخته است تا چه کسی بر آن چنگی بزند و خود را از عالم کثرت رهانیده و به سوی وحدت ناب بالا بکشد. پس کسی که از این ریسمان رحمانیت غافل است، آواره ای است بی پناه. به یاد می آورم که او با این فیض عام خود، چه تسهیلاتی را برای بالا کشیدن ما قرار داده است که بدون وجود آن ها امکان صعود بسیار مشکل می شد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و رحیم بودن او را به خاطر می آورم تا تدابیر هوشمندانه اش را از نظر بگذرانم و دریابم چگونه برای این که به سویش رویم و در وحدت محض قرار گیریم، مرگ را طراحی کرد تا این امر ممکن شود و ما دور از او در جاودانگی نباشیم و هنگام رسیدن به او نیز اثری از آثار عالم تضاد را با خود به همراه نداشته باشیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="او را شکر می¬کنم؛ او را که خدای عالم تضاد و بی تضادی، ابعاد و بی ابعادی، نام و بی نامی، کثرت و وحدت، نیازمندی و بی نیازی و... است؛ اما شکری که همه ذرات وجود انسان آن را فریاد می¬زند؛ چنان که مانند سیل و جریانی خروشان از درون می¬جوشد و سد وجود یارای نگهداری آن را ندارد؛ جریانی که به گونه ای خود جوش وجود را می¬شکافد و خود را آشکار می¬کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«الصلوة»، صرفاً به جا آوردن تشریفات، ادای جملات و انجام حرکاتی مشخص نیست و این گونه نگاه کردن به آن سبک شماردن اتصال با «او» است. «الصلوة»، آغاز و تجدید پیمان ها و تعهدات است؛ از پیمان ' ایاک نعبد و ایاک نستعین' گرفته تا تعهداتی که به دنبال آن ضرورت می¬یابد: زکات، انفاق، خمس. اگر در جامعه¬ای فقیر و یتیمی بی سرپناه و گرسنه وجود داشته باشد، معلوم می¬شود که تعهدات مربوط به برپایی «الصلوة» اجرا نشده است و در این صورت است که خداوند می فرماید وای بر نمازگزاران، آنانی که در این امر سهل انگاری می کنند و این سهل انگاری باعث باز داشتن از احسان و گرسنه ماندن عده ای می شود. گرسنه بر سیر، حقی خدایی دارد که باید ادا شود و این تعهدات عملی «الصلوة» متضمن کیفیت و تکمیل کننده آن خواهد بود و بدون آن انجام تشریفات و ادای جملات و انجام حرکات از هر کسی بر می¬آید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="دعوی عشق ز هر بوالهوسی می آید
+\nدست بر سر زدن از هر مگسی می آید
+\n
+«صائب تبریزی»"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پس به کوچه و خیابان برویم و اگر گدایی مشاهده کردیم، به خود آییم که وای بر نمازگزاران. جامعه¬ای که در آن گدا و درمانده و گرسنه باشد، «الصلوة» نماز گزارانش، تشریفاتی بیش نیست و تا مقیم شدن بر سر کوی یار، فاصله بسیاری دارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

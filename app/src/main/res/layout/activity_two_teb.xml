@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".two_teb">
+
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="این ذوق و سمــاع ما، مجازی نبود\nوین وجد که می‌کنیم، بازی نبود\n\nبا بی خردان بگو که ای بی خردان\nبیهوده ســخن به این درازی نبود\n_________________________________________________________\n\n"
+                android:textSize="24dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:fontFamily="@font/bmitra"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textAlignment="center"
+                android:text="فهرست:\n\n
+1_طب مکمل و جایگزین (CAM) چیست؟\n\n
+2_ارایه‌ی خدمات طب جایگزین و مکمل CAM در بیمارستان‌های آمریکا\n\n
+3_تحقیقات برای استفاده از طب جایگزین و مکمل CAM در درمان سرطان\n\n
+4_چکیده‌ای از گزارش سازمان جهانی بهداشت وابسته به سازمان ملل متحد در ارتباط با طب مکمل و جایگزین CAM\n\n
+5_سیاست کشور‌های جهان در قبال طب مکمل و جایگزین CAM\n\n
+6_چرا طب مکمل و جایگزین؟\n\n
+"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

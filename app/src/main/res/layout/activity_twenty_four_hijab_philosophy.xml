@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twenty_four_hijab_philosophy">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هر دریافتی از هستی، زکاتی دارد که بازتاب متناسب با آن دریافت است. به بیان دیگر، جهان هستی برای هر کسی اسبابی فراهم کرده و به هر فردی استعدادی داده است که مستلزم شکر است و شکر آن، در قالب زکات یعنی بازگرداندن یک کادو به هستی می¬باشد. بنابراین، در قبال هریک از عواملی که برای ما مفید است یا خاطرمان را آسوده کرده است، زکاتی وجود دارد: زکات علم، زیبایی، همسر و فرزند خوب، مال و شهرت و .... "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="¬در این میان، فلسفه حجاب پرهیز از خودنمایی است که نوعی زکات به شمار می¬رود. در واقع حجاب مانع خودنمایی و ایجاد شعور معیوب ناشی از آن است؛ تا از این رهگذر انسان کادویی (زکاتی) در خور شأن هستی به آن داشته باشد. در این دیدگاه، زن و مرد، هر دو در این چارچوب قرار می‌گیرند و حجاب تعریفی انسان شمول می¬یابد. این حجاب ناشی از بی نیازی و غنای عرفانی است. یعنی کسی که به بلوغ عرفانی برسد، حجاب را رعایت می‌کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="البته حجاب موضوع بسیار پیچیده و مفصلی به شمار می¬رود که از دو منظر کمی (ظاهری) و کیفی (باطنی) مورد بررسی قرار می گیرد. بعد کمی حجاب در قالب شریعت مطرح می شود و در تمام مکاتب الهی، به طرق مختلف لازم دانسته شده است. اما در کنار پیروی از شریعت (اصول رهروی)، بعد کیفی این پیروی نیز مطرح است که بی توجهی یا کم توجهی به آن، نتیجه کامل نخواهد داشت و دینداری واقعی نخواهد بود. به بیان دیگر مي‌ توان گفت حفظ و رعايت ظاهری احكام و دستورات دینی کافی نیست و تعالی با حفظ ظاهر و باطن دين حاصل می¬شود. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در بررسی کیفی حجاب مسائلی همچون 'انرژی نوع دوم'، 'جاذبه و دافعه' و 'ارزش وجودی' را مطرح می شود: "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="انسان معمولی جدای از انرژی حاصل از مصرف مواد غذایی که آن را انرژی نوع اول می نامیم، به انرژی های دیگری نیز محتاج است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یعنی حتی وقتی تغذیه کاملی داشته و از استراحت کافی بهره¬مند شده است، با وجود رفع همه نیازهای جسمی خود، هنوز با کمبودهایی مواجه است که باعث می¬شود احساس رضایت نکند. یکی از این انرژی ها انرژی نوع دوم است که در اثر تعریف، تمجید، توجه و ستایش دیگران حاصل می شود. برای مثال، انسان معمولی با شنیدن یک جمله خوشایند کاملا سرحال می شود و با شنیدن یک جمله ناخوشایند، به شدت پریشان (دشارژ) و از انرژی تخلیه می¬شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="انسانی که در زندگی، انگیزه متعالی مانند پیمودن مسیر کمال و خود شناسی ندارد، همیشه در صدد جلب توجه دیگران و جذب انرژی نوع دوم است و برای این جلب توجه، مبادرت به خودنمایی می کند. بنابراین، اگر فردی فقط حجاب ظاهری را رعایت کند، همان تشعشعات شعوری خودنمایی او کافی است تا از نظر کیفی بی حجاب باشد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حجاب از نظر کیفی به معنی قطع نیاز به خودنمایی، حتی در ورزش¬های تیمی و یا هر کار گروهی دیگری نیز به عنوان یک اصل مطرح می گردد. مثلا در یک تیم فوتبال، اگر هر بازیکن در جهت خودنمایی و مطرح کردن خود و بدون در نظر گرفتن حرکت تیمی و جمعی، سعی کند به تنهایی گلی را به ثمر رساند تا فقط او به عنوان گلزن معرفی گردد، این تیم هرگز موفق نمی شود. تیمی موفق است که بازیکنان آن نه خود را بلکه کل تیم را ببینند. نیاز به خودنمایی و یا انرژی نوع دوم باعث می شود هرکس برای مطرح کردن خود حرکت کند و نه در راستای هدف جمعی. اما وقتی خورشید انگیزه متعالی در آسمان وجودی انسان طلوع می کند، انسان، ستاره های کم نور امیال خویش، مثل میل به خودنمایی و... را خود به خود نمی بیند. هرچند این میل هنوز در انسان هست، اما انگیزه متعالی کمال گرایی، امیال دیگر را محو می کند و فرد از انرژی نوع دوم بی نیاز می گردد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در این رابطه زن یا مرد بودن فرقی نمی کند. حجاب برای خانم‌ها جنبه ای دارد و برای مردها جنبه‌ ای دیگر. یک مرد ممکن است به طرز نامناسبی لباس بپوشد و زنجیری به گردن و گوشواره‌ای به گوش داشته باشد که شاید ظاهرا حرام هم نیست؛ اما چون برای خودنمایی و جذب انرژی نوع دوم از دیگران است، او را از حجاب دور کرده است. یک زن هم به طرق مختلف می-تواند پوشش و ظاهری داشته باشد که نشانه خودنمایی او باشد. قرار است حجاب ما را از خودنمایی دور کند و قطع نیاز به انرژی نوع دوم محقق شود. به طور کلی انسان خام یا معمولی را می توان گدا دانست؛ گدای جلب توجه، گدای محبت و در یک کلام، گدای انرژی نوع دوم. اما یکی از مراحل بلوغ، بلوغ عرفانی است و زمانی رخ می دهد که انسان به بی نیازی رسیده باشد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در آغاز آفرینش آدم، ملائک به او سجده کردند. با آن سجده، ما به طور سمبلیک با انرژی نوع دوم آشنا شدیم و امروز آثار آن در ما نمایان است. این گرایش طبیعی یک انسان معمولی از بدو تولد است و تا زمانی که مسیر خودشناسی را طی نکند، این گرایش غیر طبیعی نیست. تا جایی که به نظر روانشناسان مورد توجه قرار گرفتن نیاز طبیعی انسان به شمار می¬رود و این نشان می¬دهد که این نیاز تا چه حد با نهاد ما در آمیخته است. ولی با بلوغ عرفانی، انسان کاملا از این نیاز فارغ شده، از تشویق، جلب توجه کردن، مورد ستایش قرار گرفتن و به طور کلی، از انرژی نوع دوم بی نیاز می شود. از منظر اجتماعی نیز حجاب به عنوان یک اصل ضرورت پیدا می کند. مظاهر خودنمایی می تواند در هر لباس یا کسوتی نمایان گردد؛ تا جایی که حتی فردی با حجاب کامل ظاهری (پوشش کامل) می تواند بیشتر از فردی به ظاهر بدحجاب جلب توجه کند. ریشه این امر را باید یافت و اصلاح کرد. رسیدن به حجاب واقعی، بلوغ یک جامعه را نشان می دهد. جامعه ای که تشنه جذب انرژی نوع دوم باشد و هر فرد در آن جامعه بخواهد فقط خود را مطرح کند، هرگز پیشرفت نمی کند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="لذا اولین گام برای رشد معنوی یک جامعه آن است که در آن، نیاز به موارد ذکر شده به حداقل رسیده باشد. پس از آن است که این جامعه پذیرای مباحث پیچیده تری می شود و می¬تواند به پوشش متناسب با بلوغ عرفانی خود دست یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="غالبا ما برای هر شیئی متناسب با ارزش وجودی آن پوششی در نظر می گیریم و هیچ گاه برای یک شیئ بی ارزش بسته یا پکیج گران قیمت تهیه نمی کنیم و به عکس، هیچ کالای گران¬ قیمتی را نیز در پوششی بی ارزش (برای مثال در کاغذ) نمی پیچیم. مثلا برای یک قطعه الماس، جعبه ای را طراحی می کنیم که خود آن جعبه نیز ارزش و قیمت قابل توجهی دارد. پوشش یک فرد نیز باید با ارزش وجودی او هماهنگ و همسو باشد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همین بحث ارزش وجودی، در مورد یک جامعه نیز مطرح می شود. اینکه افراد از لحاظ ادراکات عظیمی چون درک انا الحق، درک حس حضور، درک شکر وجودی و رسیدن به این مفهوم که از کجا آمده اند و به کجا می روند، در چه مرحله ای قرار داشته باشند، در بلوغ عرفانی و انتخاب پوشش آن¬ها تأثیر مستقیم دارد. درک این مهم که حضور ما هدفمند است و جهان هدفی دارد و هوشمندی عظیمی بر آن حاکم است، درک این مطلب که ما نیز در این عرصه نقش هوشمندانه ای داریم و در یک مجموعه هوشمند یک جزء نمی تواند بدون هدف باشد و اگر هستی هوشمند است ما نیز هستیم و اگر هستی نقشه ای را دنبال می کند ما نیز نقشه ای را دنبال می کنیم، به ما اثبات می¬کند که وجودمان ارزشمند است و بنابراین، متناسب با آن ارزش برای خود نحوه حضورمان در جامعه را تعریف می¬کنیم. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عالم هستی بر مبنای عرضه طراحی شده است و در آن هر چیزی با عرضه معنا پیدا می کند. ارزش برقراری ارتباط انسان با انسان نیز در همین است که نشان می دهد هر انسانی به چه شکل و ترتیبی در ارتباط با دیگران قرار می گیرد؛ ارتباط موجود را چگونه ارزیابی می کند و چه نتیجه ای از آن می گیرد. در حقیقت، انگیزه و نحوه ارتباط او حاکی از آن است که چه چیزی را به جهان هستی عرضه می کند. هر فردی متناسب با ارزشی که در درون به آن دست پیدا کرده است، خود را عرضه می کند. مسلما انسان پوچ گرا و نهیلیست به یک طریق خود را عرضه می کند و انسان افسرده به طریقی دیگر و ... . در نتیجه با بی نهایت عرضه مواجه هستیم که کاملا نسبی است و به ارزش گذاری درونی افراد بستگی دارد. پس هر جامعه ای باید معرفتی پیدا کند تا از طریق آن بتواند به ارزش هایی برسد و یا ارزش هایی را زنده کند و برای نسل های بعد از خود به ارث بگذارد. در خصوص معرفی حجاب و مفهوم عمیق آن به جامعه، باید به همین نحو جاذبه هایی ایجاد کرد؛ زیرا با ایجاد دافعه نمی¬توان انتظار داشت که حجاب نهادینه شود. در جامعه ای که به طور بنیادی در زمینه نهادینه کردن این ارزشها اقدام نشده است و توجیه لازم و کافی برای آن وجود ندارد، با زور و ایجاد دافعه نمی توان به هدف نهایی رسید. اما برای مثال، وقتی فلسفه حجاب تبیین شود، نهادینه شدن این ارزش، امکان¬پذیر است. در نهایت، زکات شعوری این همه زیبایی که هستی به ما عطا کرده است، چیزی جز عرضه شعور مثبت به آن (هستی) نیست. اما نه تنها در بسیاری از موارد ما این شعور مثبت را عرضه نمی کنیم، بلکه آنچه به هستی ارائه می دهیم، شعور منفی خودنمایی است. حجاب اولین قدم در جلوگیری از ساطع کردن این شعور منفی است تا بعد از آن بتوانیم شعور مثبتی را به عنوان زکات شعوری به هستی عرضه کنیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

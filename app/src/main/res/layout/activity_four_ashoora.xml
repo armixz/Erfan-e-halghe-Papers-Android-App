@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".four_ashoora">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در روز عاشورا می توانیم جامه ای سرخ بپوشیم و فریاد برآوریم که این سرخی، نشانه ی پیروزی خون بر شمشیر است که درس آن را از حماسه ی کربلا آموخته ایم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توانیم لباسی سر تا پا سفید بپوشیم و با صدایی بلند بگوییم، این کفن است که پوشیده ایم تا عهدی باشد بین ما و حسین(ع) که در راه ادامه ی نهضت حق طلبانه و ظلم ستیزانه اش، برای شهادت همیشه آماده ایم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان سیاه پوشید و بانگ سرداد که این سیاهی نشانه ی آن است که من و من ها، در روز و روزهای عاشورا، حسین و حسین ها را تنها گذاشته ایم و آن ها در مصاف با یزیدیان زمان خود، مظلومانه به شهادت رسیده اند و این لباس سیاه نشانی است بر شریک جرم بودن ما در ریخته شدن خون آن ها، زیرا که در جایی، حتی سکوت نیز شرکت در وقوع جرم است. آیا این فکر لرزه بر اندام ما نمی اندازد و تصور شریک جرم بودن در ریخته شدن خون حسین(ع) خواب را از چشمان ما دور نمی کند؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در این روز می توان لباسی سبز پوشید و گفت این به نشانه ی آن است که نهضت حسینی خزان مظلومان را بهار کرده و نوید این پیروزی، بهار اندیشه را برای بشریت به ارمغان آورده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان زرد پوشید و گفت ما به خزان نشسته ایم؛ چرا که بعد از عاشورا، بهارانسانیت، تابستان را پشت سر نگذاشته به خزان رسیده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان..."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان خندید و شادی و پایکوبی کرد و فریاد «شهیدان زنده اند» را سر داد و نشان داد که از اعماق وجود مسروریم؛ چرا که آنان نمرده اند و نزد خداوند روزی آسمانی دارند و جاودانگی الهی، متعلق به آنان است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان بر سر زد و شیون نمود که چرا همرزم حسین(ع) نبوده ایم و این افتخار را نداشته ایم تا هم رکاب او باشیم.
+می توان گونه های خود را به رنگ سرخ درآورد تا یزیدیان، زردی روی ما را که در خزان نامردمی ها به زردی گراییده است، نبینند؛ همانگونه که منصور حلاج با خون خود گونه هایش را سرخ نمود تا روی زردش را دشمن ظالم نبیند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان خاک بر سر ریخت که شایسته ی انسان خفّت زده است و بگوییم ما نیز نسبت به راه حسین(ع)، خوار و ذلیل هستیم و از این ذلت باید بر سر خود خاک بریزیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان عَلَم دار شد و زور بازوی خود را به رخ دیگران کشید، بساط زورآزمایی به پا کرد و بر این مبنا که عَلَم کدام دسته از همه بزرگ تر و سنگین تراست شهرت آفرید و همچنین می شود سنگین ترین عَلَم ها را بلند کرد و گفت، این به نشانه ی عَلَم نهضت اوست که هر چقدر سنگین باشد آن را بر دوش خواهیم کشید. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان... "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آری می توان هر کاری انجام داد، مهم آن است که در پس آن کار، چه اندیشه ای نهفته باشد و این که انسان با چه طرز فکری به رسالت خود نگاه کرده، در چه جایی و با چه محتوایی آن را پیدا کند. ضمن این که پس از یافتن آن رسالت، لازم است بدانیم که درابتدای راهی دراز قرار داریم که چگونه آن اندیشه را به عمل در آوریم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال که آموخته ایم« کل یوم عاشورا و کل ارض کربلا » یعنی؛ همه جا کربلا و همه روز عاشورا است، اینک ما در عاشورا و کربلای خود چه می کنیم؟ آیا اگر در روز عاشورا، در صحرای کربلا حاضر بودیم؛ حسین(ع) بازهم تنها نمی ماند؟ آیا این سوأل لرزه بر اندام ما نمی افکند و تصور شریک جرم بودن در ریخته شدن خون او، خواب را از چشمان ما دور نمی کند؟ "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر ما در کربلا نبوده ایم تا افتخار همرزم بودن با او را داشته باشیم، در کربلای عصر خود که زندگی می کنیم و اگر در روز عاشورای تاریخی حضور نداشته ایم، در عاشورای زمان خود که قرار داریم. کافی است که حسین و حسین های زمان خود را بشناسیم، عاشورا و کربلا به خودی خود پیدا می شوند. اما اگر حق طلبان و ظلم ستیزان کماکان تنها مانده اند، خدا را شکر کنیم که ما روز عاشورا در کربلا نبوده ایم زیرا اگر حضور داشتیم یا در زمره یزیدیان بودیم و یا از کسانی که حسین(ع) را ترک کردند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بیایید معرفت و روح نهضت حسین(ع) را یافته و حماسه ی بزرگ او را زنده کنیم تا در زمره ی یزید و یزیدیان نباشیم زیرا که جهان دو قطبی است، یا راه حسین(ع) و یا راه یزید، راه سومی نیز وجود ندارد. بیایید به حال خود گریه کنیم و عملکردهای خود را پیش روی بیاوریم و حساب لقمه های سفره ی خود را یک بار از نظر بگذرانیم؛ آنگاه خواهیم فهمید که در راه حسین(ع) هستیم و یا یزید:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ببین که چه ریسیده ایم، دست کِه لیسیده ایم\nتا که چنین لقمه ها، سوی دهان آمدند
+\n(مولانا)"
+                android:textSize="22dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ظهر عاشورا است و ظهر عاشوراها، فرصتی است که انسان با خود واقعی اش روبرو شود و من نیز در این آیینه، خویشتن خویش را مشاهده می کنم و می بینم که امروز چقدر عجول هستم (کان الانسان عَجولاً)، تا چه حد حریص و سیری ناپذیر(ان الانسان خلق هَلوعاً) و تا چه حد شکم بر من حاکم است و جز آن، چیز دیگری را نمی شناسم و این آیا مصداق(اولئک کالانعام بل هم اضل) نیست؟ امروز به راحتی دروغ می گویم، به گرسنه و درمانده تر از خود رحم نمی کنم و در اِسراف غرق شده و غذای متبرک او را اسراف کرده و در زباله دانی می ریزم و... این است خـود واقعـی مـن که در روز عـاشـورا برمَـلا می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آری عاشورا، آیینه ی تمام قدی است در مقابل ما تا بتوانیم خود واقعی را در آن نظاره و شناسایی کنیم و او را نیز بهتر بشناسیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بیاییم در این آیینه به خود نگاهی بیاندازیم و برای خود چاره ای اندیشیده و طرحی نو بیابیم تا پس از رسیدن به اندیشه ای درست، نوبت به انجام عمل رسیده و نهضت حسین(ع) را در عمل زنده نگاه داریم. وای اگر از همه ی این نهضت ها و حماسه های بزرگ، برای ما دست بریده ای، لب خشکیده ای، سر بریده و فرق شکافته ای و... باقی مانده باشد و معرفت حرکت انسان های بزرگ تاریخ در گذر زمان به دست فراموشی سپرده شده و از آن ها فقط مراسمی برجای مانده باشد، آن وقت است که باید گریست و گریست، برسر زد و شیون کرد و..."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مروز عاشوراست، به یاد می آورم که سال ها است که با حسین(ع) بیعت بسته و بیعت شکنی می کنم، به یاد مُهر نمازم افتادم که از تربت پاک کربلاست و من به نشانه ی بیعت با او مبنی بر ادامه ی نهضت حق طلبانه و ظلم ستیزانه اش همواره برآن پیشانی می گذارم و هرزمان که پیمان اول «ایاک نعبد و ایاک نستعین» را با خدا می بندم که «تنها عبد او باشم و فقط از او استعانت بطلبم» پیمان دوم را هم با حسین (ع) در کنار آن قرار داده و بیعت می کنم که راه او را ادامه دهم، اما دریغ از یک ذره عمل."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروز در آیینه ی عاشورا خود را نظاره می کنم و جُز پیمان شکنی حرفـه ای و ماهر که حتی به پیمان شکنی های خود نیز واقف نیست، شخص دیگری نمی بینم. من از یک سو پیمان خود را با خدا می شکنم و از سویی دیگر با حسـین(ع) و می خواهم با شرکت در مراسمی و ریختن اشکی به خود بگویم که دین خود را نسبت به او ادا کردم و با این وسیله وجدان پیمان شکن خود را راحت کـنم. اما آیا بدین ترتیب وظیفه ی خود را درقبال این پیمان انجام داده و در زمره ی حسینیان قرار گرفته ام؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هم اکنون حداقل خوشحال هستم که پیمان سوم (لبیک؛ اللهم لبیک؛ لبیک لا شریک لک؛ لبیک) را نبسته و بار پیمان شکنی ام را از این سنگین تر نکرده و به شیطان نیز سنگی نزده ام تا دروغ هایم، بیش تر از این آشکار نشود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="گر حسین (ع) هم اکنون در بین ما حاضر شود؛ از عملکردهای ما در زنده نگهداشتن نهضت عظیمش چه می بیند؟ او ما را نظاره خواهد کرد که همچون قوم بنی اسراییل که در غیاب موسی، گوساله ی سامری را بر سر دست بلند کردند ما نیز درغیاب او عَلَم ها ساخته، کله های اژدهای فلزی را بر طرفین آن قرار داده، مجسمه های فلزی دیگری را به جای گوساله بر آن نصب کرده ایم و آن را بلند کرده، به هر سو می کشیم و عَلَم نهضت او را به علم زورآزمایی تبدیل نموده ایم. او ما را خواهد دید که باطن را فدای ظاهر کرده، کمتر در این مراسم مهم به درس های عاشورا می اندیشیم
+اگر امروز حسین(ع) در بین ما بود و ما از آن حضرت سوال می کردیم که از ما عمل و وفای به عهد می خواهد و یا فقط گریه و زاری و بر سر زدن را، چه پاسخی به ما می دادند؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به طورمسلم آن حضرت به ما می فرمودند که وفای به عهد را خواستار هستند، عهدی که بر طبق آن حق طلبی و ظلم ستیزی ناشی از مرام حسینی، لازم و واجب می شود، زیرا آن امام شهادت را برای نشان دادن راه خدا انتخاب نمود تا برای ما الگوی کاملی باشد از انسان متعهد نسبت به خدا(ایاک نعبد و ایاک نستعین)، حق طلب و ظلم ستیز، تا بتوانیم او را نمونه و چراغ راه خود قرار دهیم نه این که برای شهادت افتخار آمیز او فقط شیون کرده و بر سر بزنیم ولی در زمره ی حسینیان زمان خود نباشیم. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آری باید برای این همه گمراهی و دور بودن از راه و پیمان شکنی ها گریه کنم؛ حداقل امروز را، زیرا احتمال دارد فردا همه چیز دوباره فراموش شده و چهره ی واقعی خود را نیز تا مُحرم و مُحرم های دیگر به دست فراموشی سپارم.
+حسین(ع) تا ابد، بلبلی است بر شاخه ی درخت هستی، تا چه کسی از ناله او پریشان و منقلب شود و به این وسیله درون خود را شکوفا کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آن کس که پریشان شود از ناله ی بلبل\nدر دامنش آویز که در وی اثری هست
+(حافظ)"
+                android:textSize="22dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با امید به توفیق عمل"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

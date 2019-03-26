@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ten_fetr">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، جشن گشایش دوباره چشمان ما به روی زندگی است تا به دور از هر گونه وابستگی و اعتیاد، بار دیگر به دنیا نظاره کنیم و نتیجه یک ماه مبارزه با عاداتی که بر ما استیلا پیدا کرده بودند، به معرض نمایش گذاشته شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، جشنیبه مناسبت دست یافتن به ارمغان گذر از شب ظلمت به سپیدی نور و رسیدن به مبارک سحر هدایت است؛ جشن پوست اندازی که در آن پوسته سخت بینش های غلط و باورهای نادرست ما شکسته شده و گلیم افکار پوسیده و محکومیت های مبهم گذشته که منجر به بروز اشتباهات فاحش در زندگی ما شده بودند را به کناری می افکند، تا بتوانیم در جهشی وجدآمیز خطاب به خود و هستی بگوییم، من آزادم؛ آزاد از قید اسارت در چنگال های شیطانی وابستگی ها و رنگ تعلق ها."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، جشن گشایش سینه ها و«شرح صدر» است که موجب می شود انسان با درکی عمیق تر نسبت به گذشته و با گذر از ظاهر به باطن، تجلیات الهی را دریافته، این درک را در خود نهادینه کند و به حرمت «بسم الله» نایل شده، از ظلم و پوشانیدن تقدس هستی خودداری نماید. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، عید گشایش و جشنی است به مناسبت این که از بستگی نجات یافته ایم و وجود در هم فرو رفته ما منبسط شده، چهره ما از این ضیافت پر برکت گشاده شده، از عبوسی رها گردیده است. عید فطر است؛ عید رویش و پدیدار شدن مجدد؛ تا بمیریم قبل از مرگ و دوباره بروییم و به دنیا بیاییم بعد از تولد؛ که تا هر کسی یک بار در گذشته خود نمیرد و در تحول معنوی جدیدی دوباره متولد نشود، مفهوم هستی و فلسفه خلقت را درک نخواهد کرد و در خسران و ضرر از این دنیا خواهد رفت؛ بدون آن که خود از این زیان آگاه باشد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر است و جشن برداشت محصول. همان گونه که موسم برداشت برای کشاورز، لحظه شادی بخشی است؛ این روز نیز برای همه آن ها که بذر مفیدی کاشته اند، روزی است پر از شادی و شعف. هر کسی در کنار کشتگاه خود آماده درو است. آن کس که کشتگاه خود را پر بار می بیند، وجد، شادی و مسرت بیشتری احساس می کند و آن کس که بذری نکاشته است، سر در گریبان فرو برده، در روز حسرت خویش قرار می گیرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر جشن ورزیدگی است برای آنهایی که این دوره را با موفقیت سپری کرده اند، تا باری دیگر با دستانی پر و با ورزیدگی و پختگی بیشتری به رویارویی با امواج متلاطم و سهمگین اقیانوس زندگی برخاسته، به مبارزه با آفت های آن بپردازند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، جشن غلبه بر خویشتن و رسیدن به پیروزی حاصل از این جهاد است. این روز به طور قطع برای آنان که حضوری فعال در عرصه این مبارزه داشته اند، به راستی روزی بزرگ، عیدی فرخنده و جشنی با شکوه خواهد بود. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، بازگشت به فطرت اصلی را گوشزد کرده، پیدایی، آشکار شدن و بازگشت به آن را برای همه یابندگانش، بسیار شکوهمند جشن می گیرد؛ فطرتی که الهی بوده؛ رسالت انسان بازگشت به آن است. اینک برای آنان که «لیلة القدر» خویش را پیدا کرده اند، عید است و جشنی برپاست؛ آن هایی که در ظلمت شب دنیا (جایی که بشر در آن مأوا دارد) آب حیات را یافته، عمر جاودانی را که همانا در پر شدن از آگاهی و معرفت الهی است، پیدا کرده، سرنوشت خویش را به این وسیله رقم زده اند و تا ابد، تغییری سازنده را برای خود ایجاد کرده اند؛ آنان که شاهد فرود آمدن ملائکه بر قلبشان بوده و رمز هستی را از نگه دارندگان عرش الهی دریافت کرده، این رمز، بر لوح جانشان نقش بسته است؛ آنهایی که روح القدس بر اعماق وجودشان نفوذ کرده، راز حکمت الهی را در دل آنان نهاده، سینه آنها را گشوده است؛ کسانی که به این نکته پی برده اند که رمضانی که در آن لیلة القدری یافت شود، از هزار و هزاران ماه بهتر است و نیز پی برده اند که هر زمان که لیلة القدری باشد، رمضانی هم خواهد بود. و اما اکنون که رمضانی دیگر گذشت، جا دارد با طرح سؤالی جایگاه خود را در گذر چنین ضیافتی الهی ارزیابی کنیم و بینیم در چنین فرصتی چه نصیبی داشته ایم و در ضیافت رمضان، چه مائده آسمانی ای را از سفره معرفت الهی تناول نموده ایم؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ببینیم با لب فرو بستن از طعام و ورود به حریم خدایی صیام، آیا توانسته ایم خوراک معنوی کالبد روحانی وجود خود را یافته، این بخش از وجودمان را سیر کنیم و یا در حالی که شکم جسم ما کماکان لبالب است، همچنان آن را گرسنه باقی گذاشته ایم؟ "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عید فطر، عید افتخار به نتیجه این جهاد اکبر است. عید فطر از هنرنمایی انسان وارسته به ملائک خبر می دهد و ارزش وجود او را به کاینات عرضه می کند؛ انسانی که باعث مباهات و افتخار آفرینی در عالم خلقت است و به افتخار او می توان جشنی برپا کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="تولد شما در فطرتان مبارک"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="رمضان ۱۴۳۱"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</android.support.constraint.ConstraintLayout>

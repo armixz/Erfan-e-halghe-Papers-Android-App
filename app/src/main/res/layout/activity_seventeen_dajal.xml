@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".seventeen_dajal">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شناخت موانع، مشکلات و دشمنان هر جریانی، شرط لازم برای تداوم و به نتیجه رسیدن آن جریان است. رویداد ظهور موعود درعهد آخر نیز از این امر مستثنی نبوده، در عهد آخر، لزوم شناخت و آگاهی نسبت به دجّال (که مهمترین مانع بیرونی برسر راه کمال بشراست)، لازم و ضروری به نظر می رسد. به عبارت دیگر، وقتی دشمن یک جریان را درست نشناسیم، یعنی اصلاً آن جریان را نشناخته ایم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در کتب عهد عتیق و منابع دینی مسلمانان، از دجّال به عنوان شاخصه ی ممانعت و مخالفت با منجی موعود و فردی که مخالف شکل گیری نهضت اوست، نام برده شده است؛ ولی امروزه وقتی صحبت از ظهور می شود،به ندرت کلامی راجع به «دجال» می شنویم و این به آن معناست که ماجرای ظهور، یک طرفه دیده می شود. چنان که گویی مخالفت و مقابله ای درپیش رو ندارد و به هیچ تعلیمی در رابطه با «دجال شناسی» نیاز نیست! از این رو، بشر امروز برای دستیابی به دانش ها و توانمندی هائی که در زمان وقوع چنین واقعه ای می توانند به او کمک کنند، برنامه ریزی مشخصی ندارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما پاک کردن صورت مساله دجّال از ذهن ها یک فریب است. چرا که یکی از مهمترین وظایف همه منتظران، رسیدن به «تشخیص» موعود و دجال از یکدیگر است تا دچار اشتباه نشوند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همچنین، این تصور که موعود می آید تا خود همه اشکالات موجود را برطرف کند و تا آن زمان لازم نیست کسی کاری انجام دهد و آمادگی خاصی داشته باشد، خود فریب دیگری است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای ورود به چنین عصری باید تعلیم دید. فرض کنید هم اکنون، منجی موعود و یا دجّال ظهور کند. آیا بشر ملاک های تشخیصی برای شناخت آن ها دارد؟ وقتی اغلب مردم هنوز با دید کمّیتی به موضوع ظهور نگاه می کنند، وقتی عقل بیشتر انسان ها به چشمان ظاهر بین است و هر گونه قدرت نمایی و جلوه های ظاهری، آن ها را مبهوت می کند و وقتی در زمینه تشخیص حقیقت وجودی موعود و دجال، تعلیمی ندیده اند و برای فلسفه وجودی آن ها تعریفی ندارند، ممکن است به راحتی دجّال را به عنوان امام عصر(عج) شناسایی کنند. با داشتن یک سری مشخصه ها و نشانه های صرفاّ ظاهری، ممکن نیست بتوان برای شناخت موعود تشخیص صحیحی داشت؛ چرا که امکان فریب خوردن از طریق بازسازی همان علایم ظاهری از طرف کذابان (که قصد دارند سد راه کمال شوند)، امکان پذیر است و وقتی توصیف و پیش بینی های وقوع این بزرگترین واقعه تاریخی با تکیه بر علایم ظاهری باشد، خود دامی خواهد شد برای منتظران. داشتن نگاه قدرت گرا، به جای نگاهی کمال گرا به منجی عهد آخر، یکی از مهم ترین این دام هاست."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای مثال، اگر ما به دنبال نشانه هایی در چهره ی امام عصر(عج)، شمشیر آن حضرت و ... باشیم، یا حتی صرفاً وقوع نشانه های محیطی و خارجی زمان ظهور را ملاک قرار داده، به درستی هدف از ظهور را ندانیم، با برخورد با نشانه های مشابه و یا باز سازی این علایم از سوی شبکه ی منفی (شیطان)، به راحتی فریب خواهیم خورد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="وقتی آموزش ندیده باشیم که ایشان به منظور کمال انسان ها و افزایش ادراک و آگاهی آن ها می آیند و نگاهمان به جریان ظهور، یک نگاه قدرتی باشد که تصور کنیم منجی بشریت را با قدرت نمایی و انجام کارهای خارق العاده می توان شناخت، هر کسی با ارایه آن نشانه های قدرتی و ظاهری، خواهد توانست ما را در تشخیص آن بزرگوار به اشتباه اندازد و از این منظر، شاید یکی از دلایل مظلومیت موعود همین باشد که با نگاه ظاهر بین انسان ها در وهله اول تشخیص داده نمی شود و دشمن ایشان با مردم فریبی و ارایه نشانه های ظاهری، خود را به جای او معرفی کرده، مورد قبول ظاهربینان واقع می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از این رو، شناسایی صحیح موعود با ارزیابی اندیشه و توانمندی های ادراکی او امکان پذیر است نه با قدرت نمایی یا برخی مشخصات ظاهری و اگر این شناخت وجود نداشته باشد، خیانتی در حق بشریّت رخ داده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای رسیدن به چنین قدرت تشخیصی، بشر امروز نیازمند آن است که ملاک های حقیقی و باطنی را جایگزین ملاک های مجازی ظاهری و قدرتی نماید. از آن جا که برای انسان عصر حاضر، مظاهر قدرت توجیه و مقبولیّت دارد، حتی در وادی معرفت، کسانی تحت نام عرفان و معنویت قدرت نمایی می کنند و قدرت نمایی آن ها چشم ها را خیره می کند و به این وسیله، مورد توجه قرار می گیرند. برای مثال، اگر کسی از دیوار بگذرد، چشم بندی کند و شیئی را پدیدار کند، روی آب راه برود، پرواز کند، ذهن مردم را بخواند و اسرار مخفی آن ها را آشکار کند و ...، به سادگی می تواند نظر اغلب مردم را که تصور می کنند این ها کرامت است، به خود جلب کند. در حالی که اگر کسی بخواهد از سواد کمال بگوید و درباره این آگاهی دهد که چرا خلق شده ایم، از کجا آمده ایم، به کجا می رویم و اسرار آسمان ها و زمین، یعنی اسرار هستی چیست، کمتر از او استقبال می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از آن جا که طی قرون متمادی و به واسطه ترفندهای شیطان، انسان در مورد کرامات به طور اشتباه آموزش دیده است، ارایه قدرت به نام کرامت، نشانی برای تعالی به حساب آمده، باوری ذهنی شده است. به همین دلیل، در وجود منجی نیز نشانه های ظاهری وقدرتی جستجو می شود و از این رو، هرکس این نشانه های قدرتی را ارایه کند، ممکن است با موعود اشتباه گرفته شود. بنابراین، منتظران موعود با یک دسیسه و نیرنگ جدی رو در رو هستند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای مثال، فرض کنید به کسی برخورد کنیم که بتواند فکر ما را بخواند و مشکلات و گرفتاری هایمان را بیان کند یا اشیاء را روی هوا حرکت دهد و یا از دیوار عبور کند. قریب به اتفاق مردم نظرشان این خواهد بود که او فرد بسیار با کرامتی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همچنین، اگر با یک حرکت دست، چند تکه طلا خلق کند یا چند نمونه از این نوع کارهای خارق العاده انجام دهد و به دنبال آن ادعای امام زمانی کند، عدّه زیادی می پذیرند و می گویند بدون شک او خود موعود است. با وجود چنین بینش غلطی حتی اگر خود موعود ظهور کند، افراد ظاهر بین به او اعتنائی نکرده، خواهند پرسید که امام ما طلا خلق می کند، شما چه خلق می کنی؟ و به این ترتیب به دعوت منجی موعود که می گوید من آمده ام تا به شما راه کمال را نشان بدهم، آمده ام تا رموز آفرینش را بگشایم، آمده ام تا آخرین درس ها را به بشر ارایه کنم و ... توجهی نمی شود و عده بسیاری خواهند گفت: 'او(دجال) هر روز به ما خبر می دهد که فردا چه می شود و به ما اثبات شده است که حرفهایش درست است. آیا شما هم چنین قدرتی برای عرضه داری؟! او قدرت 'تصرف' دارد. آیا شما هم این قدرت را داری؟! و ...'."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="کمتر کسی در میان پیروان دجال به دنبال شیطنت و شرارت است و اغلب آن ها جویای قدرت و تسلطی هستند که بتوانند با آن به خوشبختی دست یابند. در نتیجه، دجال در ابتدا که ادّعای امام زمانی می کند، طرفداران بسیار زیادی پیدا خواهد کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="تشخیص این که چه کسی امام زمان حقیقی است، تخصص می خواهد. کسانی که چشم ظاهربین دارند و به دنبال کرامت های دروغین هستند، به طور قطع به دنبال دجّال می روند و فقط تعداد معدودی که سواد کمال و چشم باطن بین دارند و بهمفهوم کمال پی برده اند، اطراف امام زمان(عج) را می گیرند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروزه، عدهّ ای بر این باورند که امام عصر(عج) با ظهورشان آن ها را نجات خواهند داد. اما وقتی از آن ها سوال شود ایشان را چگونه خواهید شناخت؟ در پاسخ می گویند: 'وقتی بیایند، خدا خودش کمک می کند تا ایشان را بشناسیم و ...'. در صورتی که علاوه بر اتکا به خداوند و امید به هدایت او، شناخت امام عصر (عج)، مستلزم شناخت و معرفت نسبت به اندیشه و خواست و هدف ایشان است که از قبل باید نسبت به آن آگاهی یافت؛ چرا که دجّال نیز ادّعا خواهد کرد که منجی عهد آخر است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به عبارت دیگر، در عصر ظهور، دو مدعی نجات وجود خواهد داشت وهمین است که تشخیص را مشکل می کند. اگر دجال می گفت که من دجّال هستم، تشخیص خیلی آسان بود و کسی فریب نمی خورد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یکی از بزرگترین مشکلات بشر در عصر ظهور این است که در وهله اول، خیلی از افراد دجّال را به واسطه ی قدرت نمایی هایش به جای امام عصر اشتباه می گیرند و جذب او می شوند. زیرا در این دوران، انسان است و دو مدعی نجات. یکی از آن ها با گشودن روزنه های قدرت به روی انسان، بر سر این ادعا است و دیگری، با گشودن روزنه ی کمال، مسیر تعالی بشر را آشکار و زمینه ی عدالت و صلح را مهیا می کند. اما با این که عملکرد دجال بر مبنای اعمال قدرت است نه سواد کمال و این اعمال قدرت در جهت مخدوش کردن طرح کمال است، این پیشوای گمراهی، ابتدا به گونه ای عمل می کند که همه فکر می کنند او همان منجی و هدایتگر موعود است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یعنی این طور نیست که به صراحت بگوید: 'من دجّالم'. بنابراین، فقط کسانی که از قبل تعلیم دیده اند، تشخیص خواهند داد که رفتار و تعالیم او بر مبنای قدرت است و ایجاد کمال نمی کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امام عصر حقیقی (عج)، نقش استاد بزرگ دوره دکترای کمال و معنویت را برای بشریّت ایفا می کند و راه نهایی رستگاری را نشان می دهد و امام عصر دروغین (دجّال) آخرین درس قدرت و نحوه ی قدرت نمایی را به بشر عرضه می کند. منجی موعود می خواهد اسرار هفت آسمان را برای انسان آشکار کرده، کلیدهای درب گاو صندوق های اطلاعات هفت گانه ی هستی را در اختیار او قرار دهد؛ ولی اکثر مردم تحت تاثیر دجال واقع شده، به راحتی جذب کانون قدرت خواهند شد تا مس را طلا کنند، خلق کنند و ... ."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="کسانی که در عصر حاضر خود را منجی موعود معرفی می کنند، عمدتاً بیمار و مبتلا به بیماری توهم هستند؛ ولی دجّال که چنین ادعایی خواهد داشت، خوب می داند که امام زمان(عج) نیست و اهداف و ابزاری دارد که از شبکه ی منفی تغذیه و پشتیبانی می شود. او در حد قابلیت خلق، قدرت دارد و با وجود ترفندهایی که به کار می برد، شناسایی علایم ظاهری ظهور منجی حقیقی، چندان کارساز نخواهد بود. در آن برهه زمانی، فقط تصدیق قلبی که شناختی کیفی است و از اتصال و ارتباط با خدا حاصل می شود، می تواند فراتر از علایم ظاهری برود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ما نیازمند شناسایی علایم حقیقی و کیفی ظهور هستیم؛ زیرا به این سادگی نیست که بر مبنای ظاهر برای همه معلوم باشد چه کسی امام زمان (عج) و چه کسی دجال است. فریب های زیادی در این باره وجود دارد. منجی موعودبه بهترین وجه کمال را عرضه می کند و دجال نیز به کامل ترین شکل، قدرت را به نمایش می گذارد. همه باید انتخاب کنند و حدّ وسطی وجود ندارد. همه انتخاب می کنند و آن جاست که تحقق طرح الهی در خلقت انسان (که درباره آن به ملائک فرمود 'انی اعلم ما لا تعلمون') و میزان سرافرازی بشر، به سواد کمال برمی گردد. همه انسان ها در معرض انتخاب قرار دارند و این انتخاب، در گرو آگاهی آنان است. اگر غیر از این باشد، طرح خلقت عبث است. زیرا خداوند می تواند کاری کند که بی درد سر همه امام حقیقی را بشناسند و به او ایمان آورند؛ اما در این صورت، انسان هنری ندارد که افتخار آمیز باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پس باید آگاه شد و دجال و ترفندهای او را شناخت. دجاّل شاخص ترین نماینده همه ابن ملجم ها و همه کسانی است که در طول تاریخ به نام حق در مقابل حق ایستاده اند و منجی موعود، برجسته ترین نماینده همه حق طلبان و حقیقت جویان تاریخ بشر است.
+دجّال،بزرگترین معلم تاریخ بشریّت درباب قدرت خواهی و منجی موعود، بزرگترین معلم تاریخ بشریّت در باب کمال جویی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="دجّال برای دنبال کردن هدف خود ابزاری دارد. اصطلاح خر دجّال، می تواند کنایه ای از ابزار و وسایلی باشد که غایت سرگرمی را برای اتلاف وقت مردم و انحراف ذهن آن ها از حقیقت ایجاد می کنند و جاذبه های بسیار زیادی که انسان ها را به خود مشغول کرده، از رفتن به راه کمال باز می دارد. او که مدعی نجات و خوشبختی بشر است؛ با قدرت نمایی و ابزاری که در اختیار دارد، وقت کشی می کند تا دیگر فرصتی برای توجه به کمال و حقیقت باقی نمانده، پس از مدتی عادت های معیوب، محور زندگی انسان شود. در واقع، خر دجّال همیشه در طول تاریخ بوده است؛ ولی در زمان آخر بیشتر و بیشتر در صحنه می آید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="البته، از آن جا که بشر به طور فطری کمال گرا است، حتی زمانی که به دنبال قدرت می رود، انگیزه اولیه او کمال بوده است. ولی قدرت دامی است که سر راهش قرار می گیرد. به این ترتیب، او حتی در مسیر کمال نیز ممکن است جذب شیرینی قدرت شده، از ادامه راه باز ماند و یا گمان کند که قدرت، همان کمال است و همین اشتباه، ابزار دست دجّال قرار می گیرد. انسان همواره در صحنه انتخاب بین دو برنامه وجودی مثبت و منفی قرار دارد و وجود او همیشه در گیر با این دو برنامه است. به همین دلیل، در نهایت، با دو دستاورد مثبت و منفی در جهان هستی مادی مواجه خواهد شد که ثمره زندگی بشر است. اما رویارویی آخر نشان خواهد داد که چگونه دستاورد مثبت بر دستاورد منفی تفوّق می یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="جلوه بارز این دو محصول حیات انسان در وجود منجی موعود (که در نهایت کمال است) و دجال (که در نهایت ضلالت است) به ظهور می رسد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منجی عهد آخر آموزگاریست که می آید تا آخرین ناگفته ها را برای بشر مطرح کند و آخرین واحد های دوره درسی بشریت را ارایه نماید. او می آید تا اتمام حجّتکند. او می آید تا راهنمای کمال بشریت باشد و همه پیام هایی را که همه پیشروان راه حق و اولیای الهی در طول تاریخ به بشر ارایه داده اند، به نتیجه برساند. زیرا در زمان ظهور بشر آمادگی دارد تا آخرین پیام های سعادت بخش را دریافت کند و اسرار الهی برای او کشف رمز شوند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="منجی موعود می آید تا رمز «رحمن و رحیم» و مفهوم «بسم الله الرحمن الرحیم» و «الحمدلله» و ... را برای بشر باز کند. در این برهه از تاریخ و در رویارویی کمال و قدرت، امام عصر(عج) دریچه کمال را بروی چشمان ما خواهد گشود و ما را با من حقیقی خودمان آشنا خواهد کرد تا سرانجام ظلم توسط خود ما و با فرا گرفتن آن چه که آن بزرگترین معلم بشریّت به دستمان می دهد، مهار شده، عدالت جاری گردد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و این چنین است که بالاخره، فریب خوردگان دام دجال نیز منجی الهی را خواهند شناخت و با استقبال باشکوهِ فوج فوج انسان ها از هدایت آن حضرت(عج)، حق بر باطل پیروز خواهد شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

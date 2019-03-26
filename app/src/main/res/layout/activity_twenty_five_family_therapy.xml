@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twenty_five_family_therapy">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هرجزء هوشمند در هستی دارای هویتی است که جایگاه و اهدافش بر اساس آن تعریف می‌شود. هر مجموعه و تشکیلاتی نیز دارای هویتی است که به آن 'هویت سازمانی' می‌گوییم. هویت سازمانی، زمانی مفهوم می یابد که برای آن مجموعه و اهدافش تعریفی وجود داشته باشد. هرتشکیلاتی که فاقد این تعریف و بدون هویت سازمانی باشد، محکوم به فنا است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هویت هر فرد در دو بخش قابل تعریف است: هویت کمّی وعقلانی که حاصل عقل معاش و مربوط به کسب منافع مادی است، و هویت کیفی و بصیرتی که با درک چرایی ها و اهداف زیستن به دست می آید. امروزه بسیاری از انسانها هویت عقلانی خود را پیدا کرده اند؛ ولی به هویت بصیرتی و معرفتی خود دست نیافته اند. به همین دلیل، روابط آنها با یکدیگر بر اساس منفعت طلبی ناشی از عقل گرائی صرف و نه بر پایه معرفت، شکل گرفته است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروزه بشردر معرض صدمات ناشی از این اپیدمی فرهنگی قرار دارد و روابط خانوادگی او نیز تحت تاثیر آن واقع شده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هویت یک خانواده به عنوان تشکیلاتی هدفمند تابع عوامل زیراست:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. تعریف افراد تشکیل دهنده آن از خود"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. تعریف ارتباط بین افراد تشکیل دهنده"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. تعریف اهداف تبیین شده برای کل مجموعه (خانواده)"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ه عبارت دیگر، هویت خانواده وابسته به هویت افراد خانواده و هویت افراد خانواده، وابسته به درک آن ها از خود، هستی و خالق است. بنابراین خانواده سالم و به دنبال آن جامعه سالم وقتی وجود خواهد داشت که در درجه اول انسان به رسالت خود در هستی پی برد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به عنوان یک اصل، هر گاه خانواده جز در مسیر یک «حرکت حبّی کمال طلبانه» دیده شود، به تاریخ انقضاء خود رسیده است. با حاکمیت ملاک های صرفا عقلی و مجازی، ازدواج به معامله ای تبدیل می شود که در آن هر یک از طرفین تلاش می کند که تا حد امکان از آن سود برد؛ زیرا: 'عقل آن جوید کز آن سودی برد'."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در این صورت، ادامه زندگی، مشروط به حفظ منافع طرفین است و چون با گذشت زمان تغییر سطح و نوع نیازمندیها اجتناب ناپذیر است و توان پاسخ به آنها حتمی نیست، زندگی مشترک مسالمت آمیز به تاریخ انقضاء خود می‌رسد و تنها عواملی از قبیل ترس از قانون، بیم از دست دادن منافع مادی، پایبندی به رسوم و سنت‌ها، نگرانی از قضاوت دیگران و یا دغدغه خاطر برای فرزندان مانع از هم پاشیدن این کانون خواهد شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما این عوامل باز دارنده تنها قادر به حفظ شکل ظاهری خانواده هستند؛ نه باعث تداوم کیفی و حقیقی آن. بنابراین، درروابط خانوادگی، تضاد همراه با وانمود سازی، سرکوب و سازش جایگزین روابط سالم ذهنی-عاطفی و باعث ایجاد انواع تنش ها و بیماری ها می شود. علاوه بر این، آمار و گزارشات مربوط به طلاق حاکی از این است که عوامل بازدارنده فوق، در بسیاری از موارد، حتی در حفظ ظاهری نظام خانواده تأثیر کافی ندارند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="روند افزایشی در آمار طلاق نشان می دهد، باورهای مطلوب و مورد تایید درباره خانواده نهادینه نشده اند و به عنوان باورهای صرفا ذهنی، فاقد ماندگاری و تاثیر گذاری کیفی و در نتیجه فاقد ارزش لازم هستند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروزه در جوامع پیشرفته، با عدم رویکرد مثبت به تشکیل خانواده و پذیرش ازدواج های مقطعی و کوتاه مدت مواجه هستیم که با انگیزه گذران زندگی مورد توجه قرار می گیرد و از منظر عقل مصلحت اندیش و منفعت طلب کاملا توجیه منطقی دارد. به این ترتیب، تشکلی که می توانسته است بر اساس طرح هوشمندانه الهی، عامل کمال انسان باشد، به عاملی ضد کمال تبدیل شده است و می رود که به کلی از متن زندگی بشر حذف شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="طبق دیدگاه 'عرفان کیهانی'، هدف غایی از خلقت وحضور انسان در هستی، رسیدن به کمال از طریق «درک وحدت» است. بر اساس این هدف، انسان درمقطعی از این سیر کمالی که زندگی کنونی ما در آن سپری می شود، دو گانگی درجنسیت (duplication) را تجربه می کند، تا از طریق به هم پیوستن دو فرد به یکدیگر، درک یکتایی (که لازمه تعالی است) در مقیاس کوچکی تجربه شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با این نگرش، اساس تشکیل خانواده، رسیدن به محوری مشترک میان افراد خانواده است که طبق روابطی تعریف شده به دست می آید و آن ها بر مبنای آن (با درک وحدت در کوچکترین مقیاس ممکن)، می توانند زمینه را برای درک وحدتی عظیم فراهم کنند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هرآنچه که ما را به کمال نزدیک کند، عبادت است و از آن جا که تشکیل خانواده و قبول زندگی مشترک (ایجاد کانونی که شرایط عملی درک وحدت را مهیا کند) فرایندی کمال طلبانه است، عبادت محسوب می شود؛ اما به دلیل این که هم در نگاه سنتی و هم در نگاه مدرن به ازدواج، تعریفی از این ماهیت کیفی خانواده نشده است، همواره «تقدس ازدواج» پوشیده مانده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای آن که هویت کیفی و معنوی ازدواج و خانواده از نو تعریف شود، تلاش فرهنگی عظیم وریشه داری ضرورت دارد. در «عرفان کیهانی» که نگرشی «خدا محورِ خدا محور» است، این هویت در شکل کمال گرایانه ای مد نظر قرار دارد. در این نگرش، انگیزه ازدواج، «قرب الی لله» و به جا آوردن رسالت بندگی و نه صرفا رفع نیاز جنسی، مادی و ... است و از این جهت است که ازدواج تقدس می یابد. خانواده ای که پایه و اساس آن «قرب الی الله» باشد، مشمول «فیض الهی» می شود و این فیض در مراتب و مراحل مختلف زندگی، از جمله در پرورش فرزندان تاثیرگذار خواهد بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از منظر نیل به تعالی، خانواده شبیه جمع کوهنوردان است. در کوهنوردی این یک قانون است که کوهنوردان با طنابی به هم متصل می شوند. بنابراین، با توجه به این که اگر یک نفر از آن ها سقوط کند، بقیه را نیز با خود پایین خواهد کشید، هر کدام از کوهنوردان برای پیشگیری از سقوط جمع تلاش می کند؛ نه فقط برای خود. در ازدواج ایده آل نیز، دو فردی که با یکدیگر پیوند برقرار می کنند و برای فتح قله کمال پیش می روند، جهت جلوگیری از سقوط مجموعه خانواده، همواره به لحاظ معرفتی مراقب یکدیگر هستند. در این شرایط معرفتی و هویتی، ارتقای کیفی خانواده ها تحقق خواهد یافت و انسجام الهی آن ها تقویت خواهد شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

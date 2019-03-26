@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twenty_two_real_erfan">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروزه، وجود عرفان در زندگی به صورت نیازی احساس می¬شود که نمی¬توان آن را نادیده گرفت. البته، استقبال از عرفان در سراسر جهان، بازار ظاهرسازی های عرفانی را نیز گرم کرده است و به همین دلیل، عده ای فرصت یافته¬اند سخن و عمل خود را به عرفان پیوند بزنند و با رنگ و لعاب عرفانی دادن به آن، مخاطب و اعتبار کسب کنند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در چنین شرایطی، که هم عرفان و هم ادعای عرفان رونق دارد، می توان بدون شناخت کافی، انواع تفکرات منسوب به عرفان را کاذب جلوه داد و از طریق انتقادهای غیر علمی و غیر اخلاقی به نوعی دیگر کسب شهرت کرد و می توان همه¬ی آن ها را به طور دقیق مطالعه و به طور منصفانه تحلیل کرد تا با ارائه¬ی این تحلیل، هر یک از مردم هشیار سراسر جهان بتوانند آگاهانه راه خود را انتخاب کنند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«الَّذينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ أُولئِكَ الَّذينَ هَداهُمُ اللَّهُ وَ أُولئِكَ هُمْ أُولُوا الْأَلْبابِ (۱۸-زمر) "
+                android:textSize="18dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آن كسانى كه به سخن گوش مى‏دهند و از بهترين آن پيروى مى‏كنند، ايشانند كسانى كه خدا هدايتشان كرده و اينان خردمندانند.» "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="سخن گفتن از عرفان آسان و در عین حال، دشوار است. آسان است؛ زیرا بسیاری از مردم به راحتی درباره¬ی آن اظهار نظر می کنند و وقتی از آن ها سوال شود که عرفان چیست، بعضی از موسیقی ها، نقاشی ها، اشعار، پوشش¬ها و آداب و مراسم خاص، حتی برخی تکنیک ها و همچنین، انواع و اقسام نظریه های جدید و قدیم و اغلب متضاد عرفانی در ذهن آن ها نقش می بندد و از آن سخن می¬گویند و گاهی دامنه¬ی عرفانی که از آن صحبت می کنند، به انواع خرافه ها، دعانویسی ها و برخی کرامات ظاهری و باطنی که نوعی قدرت نمایی است نیز کشیده می شود و البته گاهی نیز از لطیف ترین و زیباترین مکشوفات و معرفتهای تاریخ بشری سخن به میان می آورند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما صحبت از عرفان وقتی دشوار است که این افراد بخواهند اصالت ادعا های موجود را محک بزنند و یا درباره¬ی آن به اطمینان قلبی برسند. زیرا بسیاری از آن¬ها هنگام رویارویی با یک بینش عرفانی، تنها به فکر دفاع از اندیشه¬ی خود و نفی دیگران هستند و سخنانشان حاکی از انواع و اقسام ادعا ها و استدلال هایی است که اغلب در همان حوزه ای که از نظر خودشان پذیرفته شده است (اصول اعتقادی و منطق استدلالی اختصاصی) می¬تواند قابل قبول باشد و کمتر از معیارهائی استفاده می کنند که برای همه مخاطبین قابل ارزیابی، پذیرش و کاربرد باشد ( اصول اعتقادی و منطق استدلالی عام). در بازار مکاره¬ی عرفان، همه خود را برحق می دانند و دیگران را ناحق می پندارند. «... كُلُّ حِزْبٍ بِما لَدَيْهِمْ فَرِحُونَ (53- مؤمنون)- ... هر گروهى به آنچه دارند (به روشى كه برگزيده اند)، خشنود هستند.»"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به این ترتیب، پس از هزاران سال رشد تمدن بشری، این سوال هنوز مطرح است که به راستی عرفان حقیقی چیست و در آسمان پر ستاره¬ی سیر تاریخی تکامل معرفتی انسان، چه جایگاهی دارد؟ و آیا ملاک و میزان و محک محکمی برای سنجشی عام، پایدار و قابل اتکای عمومی و برای انتخاب راه از بیراهه وجود دارد و چگونه می توان با تکیه بر آن، به درستی ادعاهای درست و انتخاب راه صحیح از بین راه های مشابه و متضاد دست زد؟ شاید عده ای گمان کنند که داشتن این نوع ملاک های عام دلیل بر این است که در توجه به عرفان باید آموزه¬های دینی را کنار گذاشت؛ زیرا اختلاف ادیان مانع از این است که صاحبان همه¬ی ادیان بتوانند عرفان دینی مشترکی داشته باشند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اشتباه این افراد در این است که فراموش کرده اند ادیان الهی یکدیگر را تایید می کنند و هر کدام از آن ها نسبت به دین قبلی دستورالعمل های کامل تری دارد و به رعایت اصول بیشتری در زندگی دعوت می کند. اما ارزش رعایت همه این اصول (که کمیت دین هستند) به این است که کیفیت آن ها حفظ شود و ارتقا یابد و نکته¬ی مهم این است که عرفان حقیقی، کیفیت مشترک همه ادیان است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عرفان حقیقی، چنگ زدن به حلقه های رحمانیت الهی است که برای صعود انسان در مسیر کمال به طور بی¬دریغ در اختیار انسان قرارداده شده است. لطف خدا حد و اندازه ای ندارد؛ ولی انسان به دلیل این که اسیر ترفندهای شیطان است، همواره میل به خودخواهی و کثرت طلبی دارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="توحید، راه وحدت است و موحد رهروی است که نه تنها به درک وحدت رسیده است؛ بلکه بر خلاف فرد منافق، میل به وحدت دارد. به همین دلیل، یکی از معیارهای کیفیت سنجی، میزان برقراری صلح و حرکت به سوی وحدت است. حرکت از وحدت به کثرت و ایجاد شکاف در جامعه بشری (نفاق) از هر منظری که در نظر گرفته شود، حرکتی در خلاف جهت کمال انسان محسوب می شود و اولین محک برای شناخت عرفان غیر اصیل از عرفان اصیل است. بنابراین، هر طریق و روش انحصار طلبانه ای که استفاده از لطف و رحمت خداوند و ارتقا در مراتب توحید را مختص خود بداند، عرفانی و دینی نیست و در جهت تفرقه در راه خدا و فرقه فرقه کردن عرفان گام بر می دارد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«قُلْ يا أَهْلَ الْكِتابِ تَعالَوْا إِلى‏ كَلِمَةٍ سَواءٍ بَيْنَنا وَ بَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ اللَّهَ وَ لا نُشْرِكَ بِهِ شَيْئاً وَ لا يَتَّخِذَ بَعْضُنا بَعْضاً أَرْباباً مِنْ دُونِ اللَّهِ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ (64- آل عمران)» "
+                android:textSize="18dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="«بگو: اى اهل كتاب، بياييد از آن كلمه‏اى كه پذيرفته ما و شماست پيروى كنيم: آنكه جز خداى را نپرستيم و هيچ چيز را شريك او نسازيم و بعضى از ما بعضى ديگر را سواى خدا به پرستش نگيرد. اگر آنان رويگردان شدند بگو: شاهد باشيد كه ما مسلمان هستيم.» "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عرفان و شریعت (مذهب) که دو بال دین هستند، با هدف رسیدن به کمال و تعالی، ارتباط با خدا و حرکتی از کثرت به وحدت را دنبال می کنند. در عرفان حقیقی، انسان خود را با همه¬ی اجزای جهان هستی در پیوندی می بیند که تن واحد هستی را شکل می دهد و همه¬ی اجزای عالم را با وجود تنوع و کثرت آن، تجلی یکتائی و بی همتائی او می بیند و از اینرو، کل هستی را در وحدت و یکتائی مشاهده می¬کند. رحمانیت الهی، انسان را به این درک می رساند که به وسعت جهان هستی است و اندیشه¬ی اورا از سطح خود و قوم و نژاد و ملت خود به سطحی گسترده و کیهانی (اینتریونیورسال) که شامل کل جهان های موازی و مجاور و عوالم دیگر است، ارتقاء می دهد تا از این رهگذر، به درکی متعالی و به مقام انسان صالح (صلح با خدا، خود، جهان هستی و انسان های دیگر) نائل شده، رسالت انسانی خود را به جا آورد. برخورداری از این عرفان، در عین حال که منجر به آشتی بیشتر با دین می شود، نه تنها امکان طرح و بررسی افکار و آرای مختلف را سلب نمی کند، بلکه باعث می¬گردد رویارویی با این افکار، بدون تعصب باشد و از این طریق، همواره بالندگی بیشتری به ارمغان آید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

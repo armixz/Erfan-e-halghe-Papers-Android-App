@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nineteen_light">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای داشتن نگاهی کارشناسانه و واقع بینانه نسبت به 'جریان عهد آخر' و 'منجی موعود' بررسی موضوع ظهور به صورتی مرتبط با طرح کلی خلقت و نه به صورت یک واقعه مجزا و منفک ضروری به نظر می رسد، زیرا تنها در این صورت است که وقایع مشهور زمان آخر، عینی، قابل لمس، هدفمند و مسئولیت آورخواهد بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آنچه ارزش طرح خلقت بشر را (که در حرکتی از ظلمت به سمت نور واز کمال بالقوه به کمال بالفعل تا رسیدن به مقام خلیفه اللهی به نتیجه می رسد)، به اثبات میرساند، هدفمند بودن آن و در عین حال، تعیین کننده بودن نقش اختیار، انتخاب و توانمندی خود بشر در به نتیجه رسیدن این طرح عظیم وهدفمند است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در بدو خلقت آدم، آنگاه که ملائک، در وضعیت فرا مکان و فرا زمان خود، عرصه وجود این مخلوق جدید رامشاهده کردند، در محاوره ای تمثیلی به خداوند اظهار داشتند: 'آیا می خواهی کسی را بیافرینی که خون بریزد و فساد کند؟ ما که خود برای تسبیح و تقدیس تو وجود داریم!' و خداوند فرمود: 'من چیزی میدانم که شما نمیدانید.'"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پیامی که در این بیان رمز گونه وجود دارد، این است که خلقت این موجود جدید، فقط برای تسبیح و تقدیس خالق نیست و خداوند از خلقت اوهدف والاتری را در نظر دارد. کل هستی ازیک اتم، یک الکترون و حتی کوچک تر از آن تا عظیم ترین کهکشانها برای همیشه به فرمان خداوند درحرکت است و هیچ یک از اجزای آن حتی یک لحظه تخطی نمی کنند و از وظیفه خود سر باز نمی زنند. اما هدف از آفرینش، تنها تقدیس و تسبیح آن ها نیست. همه هستی به نوعی، طفیل وجود انسان است و برای انسان مأموریت دیگری در نظر گرفته شده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="گویا خداوند به ملائک می گوید من می خواهم موجودی خلق کنم که ظرفیت درک شعور عشق را دارا باشد و محل تجلی تام و تمام رحمانیت من شده، با دارا بودن توان تبدیل کمال بالقوه به کمال بالفعل، تعالی را معنا بخشد و جانشین من در زمین گردد؛ وظیفه ای که سایر خلایق، به دلیل عدم درک شعور عشق از به انجام رساندن آن ناتوانند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="باید به این نکته توجه داشت که لازم است این طرح توسط خود انسان در زمین به نتیجه برسد؛ چرا که اگر غیر از این باشد، یعنی اگر به فرض، خود بشر نتواند این طرح عظیم را به نتیجه برساند، نقشه الهی محکوم به شکست است؛ چرا که در این صورت گوئی برای جمع شدن غائله ایجاد شده، وجود عامل جبران ضرورت دارد و در این صورت ملائک میتوانند مدعی شوند که پیش بینی آن ها درباره بیهوده بودن خلقت آدم صحیح بوده است؛ چرا که این مخلوق جدید نتوانسته است طرح طراح را به نتیجه برساند و این به آن معنا است که خداوند در خلقت انسان مرتکب کاری عبث و بیهوده شده است. در حالی که محال است خالق کار عبثی انجام دهد. پس بشر باید بتواند با تکیه بر توانمندی هائی که او در وجودش گذاشته است، برای به نتیجه رساندن طرح الهی قدم بردارد و از همین رهگذر، به درک وآگاهی رسیدن جمعی بشر و رهبریت 'انسان کامل' موضوعیت می یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروز بشر با پشت سر گذاشتن دوران نطفگی، جنینی ، طفولیت و جوانی، در حال گذراندن دوران میانسالی است. پس از آن، با ورود بشر به دوره کهنسالی، در عرصه هستی مسائل جدیدی قابل طرح می شود. بشر مانند کسی که با نزدیک شدن به اواخر عمر، خودش را مهیای استفاده از آخرین فرصت هایش می کند، در فرصت باقی مانده، هر روز بیشتر به لزوم جمع آوری مناسب داشته هایش پی می برد و چون می خواهد آخرین دستاوردهایش را از روی زمین برداشت کند، به معلم ویژه ای نیاز می یابد. جامعه بشری در هر مقطعی از زندگی خود به سطح خاصی ازدانستگی و تعلیم و تعلم مرتبط با آن نیاز پیدا می کند و درواقع، هدایت بشر در هر مرحله ای، به نحوه خاصی ازمدیریت نیازمند است که باید متناسب با موقعیت خاص همان بازه زمانی باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از این نظر، عصر کنونی بارزترین، شاخص ترین و سرنوشت سازترین اعصار است. زیرا وقت آن است که بشر پایان نامه نهایی خود را به هستی تحویل دهد. پس نیازمند یک معلم زبده و یک استاد اعظم است و اینچنین است که موضوع 'عهد آخر بشر' و لزوم وجود 'منجی موعود' در این عهد سرنوشت ساز مطرح می شود ."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="لزوم آمادگی برای ظهور 'موعود عهد آخر' عام است و همه باید به سطحی از آگاهی برسند که بتوانند به درکِ این منجی که معلم بالاترین مقطع درسی بشر است، نائل شوند و او را بفهمند؛ زیرا بدون آن که مخاطبین آن استاد در سطح مناسبی از آگاهی مقدماتی لازم برای درک مطالب باشند، تعلیم پس از ظهور او کارساز نیست و در این صورت، نه تنها وجود استاد مشکلی راحل نمی کند؛ بلکه بدتراز آن باعث اتلاف وقت استاد و سردرگمی دیگران می شود. بنابراین ایجاد زمینه و حضور استاد لازم و ملزوم یکدیگر هستند. معلم عهد آخر در این عصر، معرفتی به بشر عرضه می کند که تا به آن زمان به وضوح عرضه نشده است و یا به عبارت بهتر، کشف رمز نشده است. او می آید و قرآن و سایر کتب آسمانی را کشف رمز می کند. او می آید و رموز و اسرار آسمانها و زمین را به عنوان امانت الهی برای بشر به ارمغان می آورد وآنرا فقط در شرایطی به بشر تحویل می دهد که استحقاقش را داشته، وخواستارش باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="زیرا همان طور که برای تدریس یک استاد دانشگاه در مقاطع عالی تحصیلی، زمینه ای لازم است و باید دانشجویی باشد که بتواند مطالب او را فرا گیرد، برای برخورداری از علم و معرفت منجی موعود نیز اشتیاق و آمادگی معرفتی ضرورت دارد. رمز گشائی بخشهایی از رموز هستی مستلزم وجود یک استاد اعظم است و از عهده هر کسی بر نمی آید. نکات کوری برای بشر وجود دارد که فقط او می تواند ابهام آنها را برطرف کند. امام عصر، به عنوان والاترین معلم تاریخ بشریت، در دوره کهنسالی بشر می آید تا نکات اساسی هستی شناسی را در اختیار گذارد و بشر را به نتایج تعیین کننده ای برساند. اما در عصری به ظهور می رسد که عدّه قابل توجهی تشنه دانستنِ باشند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بشر در طول تاریخ به دنبال بصیرت بوده، به آگاهی هایی دست یافته است که در عصر ظهور جنبه عملی و کاربردی پیدا کرده، از حرف و سخن خارج می شود. تا کنون نه تنها این آگاهی ها درسطح کلان به کار نرفته است، بلکه بسیاری از آن ها وارونه برداشت شده است. با آنکه بشر امروز در آستانه ی ورود به مرحله ی کهنسالی است، در ابتدای درک شعور الهی بوده، ارتباط ملموس با روح القدس که همیشه برای افراد خاص وجود داشته است، هنوز به تمامی در سطح عام نیامده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="کارکرد چنین ارتباطی، عرضه عملی دانش های باطنی در سطح عام است که به بهترین وجهی انسان را به سوی کمال سوق می دهد. همه در صحنه انتخاب قرار دارند وانتخاب جمعی بشر است که موجب به نتیجه رسیدن طرح الهی می شود. یعنی اکثر افراد آن را انتخاب کرده، به آن تمایل نشان می دهند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر قرار بود که کسی فقط با زور شمشیر به مشکلات بشر خاتمه دهد، برای خدا کاری نداشت که بسیار زودتر از این زمین را تکانی دهد تا همه از ترس ایمان آورند و قائله خاتمه یابد. چنین نقشه ای نشأت گرفته از یک هوشمندی عظیم نیست. به طور حتمی باید نقشه عظیمتری در کار باشد که بتواند هنر انسان را به نمایش گذارد. معرفی نادرست رویداد بزرگ عهد آخر، ترفندی است که با ایجاد این تلقی که خداوند با زور شمشیر یک برگزیده، صلح جهانی را برقرار خواهد کرد، باعث تضاد انسان با پروردگار شده، به دلیل عدم فهم طرح الهی، رواج یافته است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با به نتیجه رسیدن طرح کمال بشر در عهد آخر که در گرو درک عشق و کاربرد عملی آن است، بخش های دیگری از طرح عظیم الهی که فلسفه خلقت انسان را پوشش می دهد و یکی از مهمترین آنها معرفی عوامل مثبت و منفی در طرح جهان دو قطبی است، آشکار خواهد شد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بشرهمواره بین دو شبکه مثبت و منفی (هوشمندی الهی و شیطانی) قرار داشته و دارد و در عهد آخر بزرگترین رویاروئی آشکار کاربران آن دو روی خواهد داد. در این زمان، قدرت و کمال که به ترتیب، دستاورد برخورداری از شبکه منفی و شبکه مثبت است، دو هماورد هم طراز محسوب می شوند که غلبه هر یک بر دیگری با انتخاب بشر اتفاق می افتد و سرانجام با یک انتخاب درست، حق بر باطل پیروزی یافته، کشف رموز دیگر به رهبریت منجی عهد آخر امکان پذیر می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در حقیقت، با تفکیک دو گروهی که کاربران هوشمندی مثبت و منفی هستند، داشتن رهبر برای هر یک ضرورت می یابد و به این ترتیب، مدیریت جریان مثبت را منجی موعود و مدیریت جریان منفی را دجال به عهده می گیرد؛ اما در نهایت، انسان نشان خواهد داد که بخش مثبت بر بخش منفی برتری دارد و به این ترتیب، حرکت در مسیر کمال به بهترین وجه ادامه خواهد یافت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ظهور یک امر زمینی است. به این معنا که امام عصر و دجال هر دو انسان هستند. بنابراین واقعه آخر یک پدیده زمینی و متعلق به همه بشریت بوده، افتخار آفرینی آن از ناحیه امام عصر (ع) و سرافکندگی آن از جانب دجال است. اما هیچ گاه غلبه خیر بر شر منجر به نابودی یا تسلیم ابلیس، به عنوان عامل شر نخواهد شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ابلیس که نقش ایجاد تضاد در جهان دوقطبی را به عهده دارد، در کل مسیر 'انا لله و انا الیه راجعون' در مقابل هیچ عاملی سر تعظیم فرود نخواهد آورد و تضاد تا پایان چرخه جهان دو قطبی هرگز برچیده نخواهد شد. آنچه در عصر ظهور رخ می دهد، تسلط بر شیطان در اثر دست یافتن به آگاهی است و صلح جهانی ناشی از معرفتی است که با هدایت امام عصر افزایش می یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

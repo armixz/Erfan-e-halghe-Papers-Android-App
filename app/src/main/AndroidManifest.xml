@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mataheri.erfhalqe_papers">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".about"
+            android:label="درباره ی"></activity>
+        <activity
+            android:name=".twenty_five_family_therapy"
+            android:label="آسیب شناسی خانواده" />
+        <activity
+            android:name=".twenty_four_hijab_philosophy"
+            android:label="فلسفه عرفانی حجاب" />
+        <activity
+            android:name=".twenty_three_salat"
+            android:label="تعمقی در باب الصلوة" />
+        <activity
+            android:name=".twenty_two_real_erfan"
+            android:label="تاملی پیرامون عرفان حقیقی" />
+        <activity
+            android:name=".twenty_one_hight_performance_humanity"
+            android:label="با اولیای الهی" />
+        <activity
+            android:name=".twenty_evil"
+            android:label="نقش ابلیس" />
+        <activity
+            android:name=".nineteen_light"
+            android:label="عصر ظهور" />
+        <activity
+            android:name=".eighteen_final_exam"
+            android:label="آزمایش آخر" />
+        <activity
+            android:name=".seventeen_dajal"
+            android:label="دام دجال" />
+        <activity
+            android:name=".sixteen_shame"
+            android:label="ظلم چیست" />
+        <activity
+            android:name=".fifteen_erfan_behavior"
+            android:label="اخلاق و عرفان" />
+        <activity
+            android:name=".fourteen_qadir"
+            android:label="قدر غدیر" />
+        <activity
+            android:name=".thirteen_god_love"
+            android:label="خدای عشق و عشق" />
+        <activity
+            android:name=".twelve_haj"
+            android:label="معراج حج" />
+        <activity
+            android:name=".eleven_tanasokh"
+            android:label="نگاهی به تناسخ" />
+        <activity
+            android:name=".ten_fetr"
+            android:label="عید فطر جشن آزادگی" />
+        <activity
+            android:name=".nine_ramazan"
+            android:label="در رواق رمضان" />
+        <activity
+            android:name=".eight_secret_two"
+            android:label="کشف رمز دو" />
+        <activity
+            android:name=".seven_secret_one"
+            android:label="کشف رمز یک" />
+        <activity
+            android:name=".six_one_demention_word"
+            android:label="جهان تک ساختاری" />
+        <activity
+            android:name=".five_trova"
+            android:label="اسب تراوا" />
+        <activity
+            android:name=".four_ashoora"
+            android:label="آیینه عاشورا" />
+        <activity
+            android:name=".three_ensan_bimari_tahavvol"
+            android:label="انسان، بیماری و تحول" />
+
+        <activity
+            android:name=".one_asleVahdateRah"
+            android:label="اصل وحدت راه" />
+        <activity
+            android:name=".Contents"
+            android:label="فهرست" />
+        <activity
+            android:name=".MainActivity"
+            android:label="مقالات">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

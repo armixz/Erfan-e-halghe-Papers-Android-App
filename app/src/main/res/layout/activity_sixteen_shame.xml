@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sixteen_shame">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اغلب، وقتی صحبت از ظالم می شود، انگشت اشاره هیچ کس به سمت خودش نیست و هر کسی خود را از ارتکاب ظلم مبرّا می داند؛ در صورتی که هر فردی در هر لحظه ممکن است به نوبه خود در حال ارتکاب به ظلمی بزرگ باشد؛ از نادیده گرفتن حق دیگری تا نگاهی تحقیر آمیز به کسی و... ."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در واقع، همه ما به دلیل این که شناختی از 'وجه الله' نداریم، ظلم می کنیم. هر جا از 'وجه الله' غفلت شود، یک بخش از هستی مورد بی مهری قرار گرفته است. درحالت کلی وقتی معطوف به یک جزئی شده، نسبت به جزئی دیگر غافل می شویم، کفر و پوشاندن حق صورت گرفته که به عبارت دیگر، ظلم است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با این تعریف، ظلم شامل گستره بسیار وسیعی است و به این ترتیب هر کسی اوّل باید خودش را در معرض سؤال و اتهام ظالم بودن قرار دهد و بعد ديگران را از این نظر ارزیابی كند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="وقتی این ظلم جنبه 'حق الناس' پیدا کند، دامنه دار می¬شود و ظلم های دیگری نیز از آن ناشی می شود. این ظلم که حاصل عدم توجه ما به'وجه الله' است، از یک بی حرمتی به ظاهر ناچیز گرفته، تا دزدی و قتل و... خواهد بود. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای محو ظلم لازم است چشم ما به روی حقایق باز شود تا اگر دیروز به خاطر بسته بودن چشم هایمان، مرتکب ظلمی شده ایم، حالا به واسطه آشنائی با این حقیقت که هر موجودی در عالم هستی 'وجه الله' است و نائل شدن به درک آن، ادب و احترام نسبت به تجلیات الهی را رعایت کرده، از ظلم فاصله بگیریم. می¬توان گفت نگاه ظاهربینانه به هستی، ظلم پنهانی است که عموم بشر درگیر آن هستند اما معمولاً به آن توجهی نمی شود. در حقیقت، ما با چشم ظاهربین به دنیا می آئیم و به آن بسنده می کنیم. در حالی که وظیفه انسان در هستی این است که در سیر کمال، چشم ظاهربین خود را به چشم باطن بین تبدیل کند و به آن جایی برسد که 'وجه الله' را درک کرده، و بیابد که همه چیز تجلی اوست: 'رسد آدمی به جایی که به جز خدا نبیند'. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در صورتی که این شرط حاصل نشود، انسان در حق خود، خالق و... مرتکب ظلم شده است؛ چراکه شخصی که از درک فلسفه خلقت عاجز است، قادر به فهم رسالتش در هستی و جایگاهش در مقابل خالق نخواهد بود و با غافل ماندن از طرح عظیم خلقت، هم نسبت به هستی مرتکب ظلم است و هم به دلیل این که طبیعتاً قادر به درک نقش دیگران نیز در این «تن واحده» نخواهد بود، نسبت به آنها نیز ظلم روا می دارد. به این ترتیب اکثر ما ظالم هستیم، زیرا نمی توانیم آن طور که باید و شاید حق مطلب را نسبت به خالق و نسبت به نقشه عظیم او ادا کنیم و از همین جنبه است که دفع ظلم به صورت جبری را بی اثر می دانیم. زیرا اگر به درک این حقایق نرسیم، با رفع اجباری ظلم، دوباره هرکس بر اساس جهلش می تواند ظلمی جدید روا دارد و به این ترتیب، ظلم همچنان باقی خواهد ماند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از جهل تا آگاهی در طول تاریخ، همواره موانعی ایجاد شده است که بشر را از دانستگی های ناب مبتنی بر علوم الهی محروم کرده است و به طور مسلم، کسانی که مسبب این محرومیت ها شده اند، ظلمی عظیم بر بشر روا داشته اند. برای مثال، برداشت هایی از کلام الهی که از روی جهل یا غرض صورت می¬گیرد و با اصل آن مطابقت ندارد، افترا به خداوند بوده، باعث جاری شدن بزرگترین ظلم ها در هستی است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به طور کلی، ما با دو گونه ظلم روبرو هستیم: 'ظلم اولیه' و 'ظلم ثانویه'. ظلم اولیه جهالت نسبت به خداوند و اهداف اوست. هر دروغی که در اثر جهل یا غرض به خداوند نسبت داده شود، باعث دور شدن انسان از درک فلسفه خلقت و در نتیجه باعث جهل بشر نسبت به جایگاه و وظیفه اش نسبت به خالق، هستی، خود و مردم می شود. رفتار و عملکرد انسان بر اساس این جهل، ظلم دیگری را باعث می شود که آن را 'ظلم ثانویه' می نامیم. ظلم ثانویه، نتیجه عملی این جهالت است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال، این سؤال مطرح می شود که چگونه باید با ظلم مقابله کرد. رفع ظلم و ایجاد عدالت به دو صورت امکان پذیر است؛ یکی این که با دستیابی انسان ها به درک و آگاهی، عدالت به خودی خود و به عنوان پیامد آن آگاهی در هستی محقق شود که در اینصورت ارزشمند و ماندگار خواهد بود. دعوت هایی مانند ندای 'هل من ناصر ینصرنی' امام حسین(ع)، یکی از بارز ترین شاخص های ظلم ستیزی در طول تاریخ است که کسانی به آن پاسخ گفته اند که به آگاهی لازم رسیده اند. این دعوت عاری از معنا و مفهوم استیصال، و تنها برای ایجاد آخرین فرصت برای به خود آمدن و اندیشیدن است؛ فرصتی برای تفکر درباره کمال خود و برای تصمیم گیری درباره رفع ظلم و ایجاد عدالت که رابطه تنگاتنگ با کمال دارد. این پیام که 'آیا کسی هست که من را یاری کند؟' سمبل 'ظلم ستیزی' و 'حق طلبی' و یک پیام ماندگار در تاریخ است که علی رغم گذشت قرنها از آن، هنوز هم باقی و تاثیر گذار است. این پیام در تاریخ ثبت شده است تا ما ظلم ستیزی را به درستی معنا کنیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="راه دیگر این است که پیاده شدن عدالت، متکی به یک عامل جبری از بیرون باشد که طبیعتاً این عدالت جبری و وابسته به عامل زور، فاقد ماندگاری و ارزشمندی است. هیچ یک از فرستادگان الهی برای جاری کردن عدالت، متوسل به زور نشده اند. زیرا خداوند حاکمی نیست که با اتکاء به امکانات و قدرت خود و یا با چنین فرمانی به آنها بخواهد ظلم را سرکوب و عدالت را حاکم کند و اگر چنین بود، عدالتی که اولیای او در جهت برقراری آن کوشیده¬اند، اثر ماندگار نداشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="درس 'پیروزی حق بر شمشیر' که از امام حسین (ع) به جا مانده است، درس پیروزی تفکر و اندیشه بر شمشیر است و به ما می آموزد که رشد و کمال با شمشیر حاصل نمی شود و ظلم ستیزی جبری، سودمندی لازم و ماندگاری نخواهد داشت. چرا که هر یک از ما بسته به میزان جهلمان ظالم هستیم و حتی در صورت رفع ظلم ظاهری، تا وقتی جاهل باشیم، ظالم خواهیم بود و هیچ اجباری جهل ما را به آگاهی تبدیل نمی کند. پس حتی اگر مشکلات بشر از طریق جبر حل و فصل شود، ریشه ظلم از روی زمین برداشته نخواهد شد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از قهرمان طلبی تا قهرمانی یکی از ترفندهای شیطان در رابطه با دفع ظلم، فریب ذهن بشر با تفکری است که می توانیم به آن 'قهرمان جویی' گوییم. بدین معنی که انسان را بدون آن که در جهت رسیدن به حق خود اقدامی کند، در انتظار قهرمانی می گذارد که حق او را از ظالم بگیرد و این امر همواره بشر را نسبت به احقاق حقش بی تفاوت کرده است. در نتیجه او از اندیشه رسیدن به سطحی از زندگی که در آن، جامعه انسانی چنان برخوردار از آگاهی باشد که حقّی پایمال نشود و به دلیل احترام به تجلیات الهی، تمایلی به ظلم وجود نداشته باشد، باز داشته شده است. بنابر این، شمشیر نجات بخش بشر 'شمشیر آگاهی' است که گردن 'جهل' را می زند نه شمشیر آهنی. زیرا مشکل بشر، مشکل جهالت است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آگاهی موجب تسلط می شود. تسلط این است که قابلیت انجام عمل خلاف باشد، ولی انسان بر اساس آگاهی آن کار را انجام ندهد و قابلیت ظلم باشد ولی او مرتکب آن نشود. بعضی از گناه نکردن های ما ملاک گناهکار نبودنمان نیست؛ همان طور که بسیاری از ظلم نکردن هایمان نشانه ی ظالم نبودنمان نیست. زیرا امکان آن گناه یا آن ظلم وجود نداشته است.باید امکانی باشد تا ما محک زده شویم. اگر امکان و قابلیت ظلم باشد و ما مرتکب آن نشویم، می توانیم بگوییم که ظالم نیستیم. زیرا آگاهانهازظلم اجتناب کرده ایم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="فرض کنید بتوانیم با یک عمل جراحی روی مغز یک مجرم جانی امکان تخلف کردن را از او بگیریم. آیا این گناه نکردن ارزشمند است؟ آیا به این ترتیب جانی به یک معصوم تبدیل میشود؟ یا این که ارزشمندی زمانی است که بتواند گناه بکند و نکند؛ یعنی تسلط بر عمل خودش داشته باشد؟ تعدادی از اعمال مذهبی مثل روزه و... برای ایجاد این تسلط است. یعنی قابلیت انجام کاری وجود داشته باشد و ما آگاهانه برای انجام ندادنش تصمیم بگیریم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="رفتن به سمت آگاهی هائی چون درک جمال یار، درک حس حضور و...، قابلیتی برای بشر ایجاد می کند که از روی اختیار تخلفی را که می تواند مرتکب شود، انجام ندهد، نه به زور و اجبار.پستسلط بشر بر ظلم تنها به این صورت ممکن است که غول ظلم با زنجیر درک 'وجه الله' توسط خود بشر به بند کشیده شود. این اتفاق ارزشمند و مبارکی است که اگر در هستی رخ دهد بشر نجات خواهد یافت. بشر به کسی نیاز دارد که بیاید و از جهل نجاتش دهد؛ چرا که اگر از جهل نجات یابد قادر خواهد بود عدالت را پیاده کند، عدالت خود به خود در آگاهی متولد می شود و ظلم در آگاهی می میرد؛ چرا که ظلم در جهل می روید و رشد می کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مبنای قضاوت در ابتدا اشاره شد که هرکسی ممکن است در جایگاه خودش در هر لحظه ظلمی بزرگ مرتکب شود، حال با نفی نگاه مطلق گرایانه و جایگزین کردن دیدگاه نسبی به ظلم و ظالم، به این سؤال می رسیم که نسبت هر ظلم به ظلم دیگر چیست؟ با این نگاه نسبی کسی که به ظاهر ظلم ناچیزی مرتکب شده است، می تواند به نسبت خودش از هر یک جنایتکاران معروف تاریخ که به ظلم مشهور شده اند، ظالم تر باشد.در واقع آن کسی که ظلم شناس است، ظلم را نسبی می سنجد.این نکته بسیار ظریف است که از منظر عدالت الهی، سنجش ها و قضاوت ها کیفی و بر اساس وسع هر فرد است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای درک بهتر مفهوم کیفی قضاوت، می¬توانیم مقایسه ای بین مولانا و فروغ فرخزاد داشته باشیم. در مقایسه ظاهری و کمّی بین آن دو، شاید اکثر افراد، جایگاه مولانا را بالاتر بدانند؛ ولی اگر از بعد کیفیت به مسئله نگاه کنیم می بینیم که مولانا که یک عالم دینی بوده است، در برخورد با شمس تبدیل به مولانای عارف می شود؛ ولی فروغ فرخزاد از زیر خط صفر یعنی از فساد آغاز کرده، به جایی رسیده است که می گوید:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عشق چون در سینه ام بیدار شد\nاز طلب پا تا به سر ایثار شد
+\nاین دگـــر من نیستم من نیستم\nحیف از آن عمری که با من زیستم"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پس چه بسا رشد و تعالی او بیشتر قابل توجه بوده و حاکی از منزلت بیشتر باشد. البته، در اصل، قضاوت کیفی مخصوص خداوند است و بر مبنای 'الله علیمٌ بذات الصّدور' صورت می گیرد. بنابراین، هر کسی در جایگاه خودش مورد ارزیابی قرار می گیرد، در حالی که بشر تا کنون فقط به قضاوت کمّی پرداخته است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بنابراين اولا اگر از ما بپرسند چه کسی ظالم تر است؟ مثلا شمر و یزید ظالم تر هستند یا شما؟ خواهیم گفت که قطعاً آنها. اما اگر ما را به صحرای کربلا ببرند و در موقعیت آنها قرار دهند، آيا مطمئن خواهيم بود كه مانند آنها يا بدتر عمل نمي كنيم؟ ثانيا محاکمه یک مجرم بر اساس مدارک ارتکاب جرم است و در اکثر موارد در حکمی که بر اساس قضاوت کمّی صادر می شود، توجهی به مسائلی مانند محیط،تربیت، عقده ها و... وجود ندارد. در صورتی که اگر با دید کیفی به مسائل نگاه شود، تک تک ما از منظر تأثیر گذاری بر این عوامل شریک جرمیم. مجرم، مانند دملی است که که به ظاهر فقط چند سلول را گرفتار مشکل می کند. ولی در حقیقت، در اثر تنش و درگیری سلولهای بسیار زیادی ایجاد شده، از ضعیف ترین قسمت بدن نمود بیرونی پیدا کرده است. در جرائم اجتماعی نیز همین اصل صادق است. صدها مشکل که همه در ایجاد آن شریک هستیم، دست به دست هم می دهند تا کسی خلافی را مرتکب شود و این آسیب اجتماعی معمولا در ضعیف ترین قشر از نظر فرهنگ، اقتصاد و... بروز می کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اگر از منظری دیگر به مسئله نگاه کنیم، در قضاوت کیفی باید از فردی که با افتخار می گوید: من دزدی یا خلاف دیگر نکرده ام، پرسید آیا تو گرسنه مانده بودی و دزدی نکردی و یا چون شکمت سیر بود و نیاز نداشتی، از انجام این کار مبرا هستی؟ آیا امکان اختلاس نداشته ای یا در شرایط مهیا این کار را نکرده ای؟..."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و آیا در جایی که معیار های عدالت منطبق بر قضاوت ها و برداشت هائی مبتنی بر چشم ظاهربین ما نیست، کسی می تواند از محک عدالت خداوند بگریزد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برده داری مدرن"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروز بشر به سمت تجربه نوع دیگری از ظلم تحت عنوان 'برده داری مدرن' حرکت می کند. در این نوع برده داری انسانها در حد یک ماشین تنزل پیدا خواهند کرد و رسالتی جز این نخواهند داشت که روزی به دنیا بیایند و به اموری روزمره مشغول بوده، رفتار و افکارشان تحت کنترل باشد وبعد از مدتی از رَده زندگی خارج شوند. به این ترتیب حرمت و رسالت انسانی و حریمها بیش از پیش نادیده گرفته شده، نقض خواهند شد. این یعنی ردّ پله ی عشق؛ یعنی رد رسالت بر پایه شعور عشق. به این ترتیب ذوق و شوق، ایثار و فداکاری، مهر و محبت و همه آنچه که به عنوان ویژگی یک انسان اهمیت دارد، زیر سلطه تفکر ماشینی می رود.به طوری که دیگر کسی نمی پرسد که از کجا آمده ایم و به کجا می رویم. در این وضعیت، جلوی اضمحلال و ظلم ویرانگری را که بشر به خودش روا می دارد، نمی توان گرفت؛ جز آن که به آگاهی برسد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بشر با نادیده گرفتن 'مبنای ظلم ثانویه'، تفکّری انتقام جویانه نسبت به ظالم داشته، متأسفانه، دامنه این تفکر انتقام جویانه را به خداوند و به هستی نیز کشانده است و به تدریج این تفکر اشتباه در بین برخی جوامع ریشه دوانده است که این تشکیلات هستی بر مبنای انتقام جویی طراحی شده، خالق فقط قصد دارد که اشتباهات انسان ها را با تنبیه پاسخ دهد. در نتیجه، این تفکر که گناه نکنیم و ظلم نکنیم تا مورد انتقام جوئی خالق قرار نگیریم، جای تفکر عدم ارتکاب ظلم و گناه برای دسترسی به کمال و تعالی را گرفته است. در حالی که اگر ما اشتباه نمی کردیم اصلاً در ظلمت نبودیم که 'مِنَ الظُّلُماتِ اِلَی النّور' معنی پیدا کند.طراح هستی فرموده خودت را از ظلمت به نور برسان و به این مخلوقی که توانسته بر 'ظلمت جهالت' غلبه کرده به 'نور آگاهی' دست یابد، مباهات می کند که ببینید این مخلوق ارزشمند چگونه موفق می شود خودش را از ظلمت به نور برساند!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ولی اکنون ما درباره انسانی که در ظلمت است، چه تفکری داریم؟ آیا توجه داریم که مهم، حرکت از تاریکی به روشنایی است و طرح الهی این بوده است که ما رادر ظلمت قرار دهد تا ببیند ما در جهت رسیدن به نور چه می کنیم؟ آیا این که حق تعالی درباره آدم به ملائک فرمود 'اِنّی اَعلَمُ ما لاتَعلَمون'، بیان همین توانمندی انسان نبوده است که البته برا ی ملائک قابل درک نبود؟ اغلب، کلیات طرحهوشمندانه خالق با مطلق اندیشی انسان و به واسطه ترفندهای شبکه منفی (شیطان) که ذهن را از جهت کمال به سمت انتقام جویی و... می برد، از دید بشر مخفی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عدالت آگاهانه"
+                android:textSize="25dp"
+                android:fontFamily="@font/bmitrab"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروز یکی از مهمترین رسالت های انسان، تلاش برای نهادینه کردن این اصل است که برای برقراری عدالت، باید به آگاهی هایی دست یافت. زيرا در غیر این صورت باید به عدالت بر مبنای اجبار تن داد.همان طور که اگر قوانین اجتماعی نهادینه نشده باشند، با وجود نظارتی مستمر و همراه با زور، ارتکاب مخفیانه جرائم و تخلفات ادامه خواهد داشت، تا وقتی که بشر به ادراک حقایقی چون 'وجه الله '، ' جمال یار'، 'تن واحده' و... نرسد، عدالت در نظام هستینیز دست نیافتنی است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="روزی که انسان با درک 'وجه الله' بودن هر یک از مخلوقات خداوند، به تقدس همه چیز در عالم پی برد و دیگر تمایلی به ظلم کردن به هیچ جزئی از اجزای هستی را نداشته باشد، به 'درک مقام معصومیت' خواهد رسید و مفهوم 'ظَلَمتُ نَفسی' برایش آشکار خواهد شد. او تنها با رهایی از جهل خواهد توانست از گناه و ظلم فاصله بگیردو تا به این مرحله نرسد، همواره ظلم جزء لاینفک وجودی اش خواهد بود. با درک 'عدالت کیفی' بشر خواهد فهمید که لطف و کرم و فضل خداوند و سمیع و بصیر بودن و رحمانیتش همگی قانونمند هستند. چرا که اگر خارج از چارچوب و قاعده باشند، عدل خداوند نقض می شود. کلیه ذرات هستی نسبت به جایگاهشان موقعیت حساب شده ای دارند که عدالت خداوند را نشان می دهد. به این ترتیب، در هستی حتی به ذره ای ظلم نشده است. در مورد انسان نیز عدالت به گونه ای برقرار است که اگر به درک آن نائل شویم، نه تنها چون و چرایی باقی نمی ماند، بلکه از ظلم اولیه خارج می شویم. بشر بر اساس فطرت خود حقیقت جو است. بنابراین، می تواند به باطن هستی دست یابد و در این صورت، از ظلم ظاهری یا ظلم ثانویه نیز به میل خود اجتناب می¬کند.وقتی انسان به درک رسالتش که پی بردن به فلسفه خلقت است برسد، متوجه می شود که چرا نباید ظلم کند. یعنی تنها از طریق کشف حقیقت و درک ظلم باطنی قادر به دفع ظلم ظاهری خواهد بود. به همین دلیل، اصرار بر تزکیه رفتاری بدون ایجاد تزکیه درونی، یعنی ایجاد تزکیه ظاهری بدون تزکیه باطنی مشکل بشر را حل نخواهد کرد؛ اما اگر ظلم اول برچیده شود، خواه ناخواه ظلم دوم از بین خواهد رفت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ظلم باطنی با رسیدن به 'مقام صالح'، یعنی رفع تضاد با خالق، خود، هستی و مردماز میان می رود و اینزمانی دست یافتنی است که چهره حقیقی ظلم باطنی معلوم شده باشد. در بسیاری از موارد در طول تاریخ، بشر با ملاک های ظلم ظاهری، به نامحق در مقابل حق ایستاده است و بدون در نظر گرفتن ظلم باطنی، شیطان توانسته است به بهانه های مختلف از جمله دفاع از حریم خدا، دست بسیاری را به خون آلوده کند. در حالی که فردی که وارث فقر فرهنگی نسل های پیش از خود است، در ناآگاهی و ظلم قرار دارد و مجازات او نه افتخار است و نه مشکلی را حل می کند. باید توجه داشته باشیم که ما همه در ظلمت و جهل زاده شده ایم و ممکن است در هر لحظه یا از گروه ظالمین باشیم و یا مظلومین؛ در صورتی که رسالت ما حکم می کند نه ظالم باشیم و نه مظلوم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

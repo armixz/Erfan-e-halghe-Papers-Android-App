@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fifteen_erfan_behavior">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اخلاق عبارت است از خلق و خو و نحوه برخورد با خود، جهان بیرونی و افراد جامعه بشری که دارای تاثیر متقابلی با یکدیگر هستند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="انسان ابتدا رفتاری مبتنی بر غریزه (رفتار طبیعی) و نزدیک به جوامع حیوانی داشته است. سپس در مرحله­ای خود را پیدا کرده، این سؤال برای او ایجاد شده است که «من کیستم؟». از این مرحله او به رفتاری آگاهانه و مبتنی بر فطرت رسیده است. فطرت، برنامه­ای نرم­افزاری است که خیر و شر را برای او مشخص می­کند. بنابراین، قبل از آن که ادیان یا دانش­های مختلف بخواهند اصولی برای چگونگی رفتار او ارائه دهند، نسبت به زشتی دزدی، دروغ گفتن و ... آگاه بوده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="رفتار هابیل و قابیل این را نشان می­دهد که آنها خوبی و بدی را درک می­کرده­اند. پس برای مثال، این که کسی به مال خود قانع نیست و به مال دیگری چشم می­دوزد، به دلیل این نیست که از بدی این کار بی­اطلاع است. حیوانات که رفتاری غریزی دارند، پس از رفع نیاز طبیعی خود به حقوق یکدیگر تجاوز نمی­ کنند؛ اما انسان می­تواند بر اساس منفعت­ طلبی، زیاده­ خواهی کرده، بر اساس اختیار خود، این بدی را به جای خوبی انتخاب کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="این که در قرآن کریم در مورد انسان گفته شده است «فألهمها فجورها و تقویها» نشان می­دهد که انسان از خوبی و بدی آگاه است. بنابراین، او با رعایت و عدم رعایت اصول حرکت خود به سوی کمال (اصول فطری) مواجه است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با بزرگتر شدن جوامع بشری، انسان به رفتار رده سوم می­رسد که بر اساس اخلاق اجتماعی (اخلاق مدنی) شکل می­گیرد. جزئیات این اخلاق در فطرت وجود ندارد. فطرت برنامه اصلی را ارائه می­دهد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پس رفتار ثانویه انسان که رفتاری آگاهانه است، بر اساس اخلاقی است که با آگاهی نسبت به فطرت (اصول کمال جویی) شکل می­گیرد و رفتار رده سوم بر اساس اخلاقی است که اصول آن با در نظر گرفتن مسائل اجتماعی بنا گذاشته می­شود. از این جا به بعد، عادات و سنن اجتماعی هر جامعه، تنوع اصول اخلاقی در جوامع مختلف را ایجاد می­کند. به طور کلی رفتار رده سوم بر مبنای ترکیبی است از اخلاق فطری و اخلاق اجتماعی. اخلاق فطری، ثابت و درونی بوده، مبتنی بر هیچ تعلیمی نیست و اخلاق اجتماعی اکتسابی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برای رسیدن به رفتار فردی و اجتماعی مقبول باید اصولی اخلاقی را رعایت کرد که اولا انسان را به سمت کمال پیش برد و ثانیا انسان شمول باشد؛ یعنی همه انسان ها بتوانند از آن استفاده کنند؛ نه این که برای مثال، قومی و نژادی باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در جهان هستی، هر ذره­ای رفتاری دارد؛ اما رفتار انسان آگاهانه و اختیاری بوده، زمانی رفتار متعالی محسوب می­شود که فلسفه خلقت برای او معلوم شود. خالق هستی از این که «هوشمندی کل» را خلق کرده، به آن برنامه داده است تا اکوسیستم را ایجاد کند و به آن برنامه دهد، هدفی داشته است که انسان با درک جزئیات آن، به نقش و وظیفه خود در هستی پی می­برد و به رفتار منتهی به کمال می­رسد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از زمانی که رفتار اولیه انسان به رفتار ثانویه بدل می­شود، برای او اخلاق خوب و بد معنا پیدا می­کند. اما هم­اکنون هر جا صحبت از اخلاق می­کنیم، منظور نظامی از اندیشه­ها و رفتارهایی است که کمال­گرایانه است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بنابراین، در طراحی اصول اخلاقی ثانویه باید به اصل «تعمیم به عام» و اصل «کمال­گرایی» توجه داشت و برای انتخاب یک رفتار شایسته باید دید که آیا لطمه­ای به کمال­گرایی آحاد بشری وارد می­کند یا خیر. به طور مسلم، رفتاری که زمینه کمال را از خود و دیگران سلب نکند، می­تواند قابل قبول باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال برای مثال، اگر به قاعده اخلاقی «تعمیم به عام» باور داشته باشیم، از جمله هر چه برای خود می­پسندیم، برای دیگران هم بپسندیم و آنچه برای خود نمی­پسندیم، برای دیگران نیز نپسندیم، نمی­توانیم بپذیریم خودکشی فردی که به پوچی رسیده است و تمایل به خودکشی دارد و این را برای دیگران نیز می­پسندد، شایسته است. زیرا خودکشی حق حیات و امکان رشد و تعالی را سلب می­کند و کاملا بر خلاف کمال است. (به طور کلی هر اصل اخلاقی تنها در صورت بقای جامعه بشری می­تواند ارزشمند باشد.)"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="البته، ادیان با عرضه اصول اولیه اخلاقی، نقش هدایتی خود را ایفا کرده­اند و بر اساس آنها طراحی نظام اخلاقی آسان می­شود؛ اما اولا گاهی برداشت­های مختلفی از دین صورت می­گیرد و راهکارهای انسان­شمول به دست نمی­آید و ثانیا به طور مسلم، دین در مورد بسیاری از جزئیات دستورالعملی صادر نکرده است. برای مثال، قوانینی که با پیشرفت تمدن و تکنولوژی و پیچیده­تر شدن روابط شهروندان لازم است وضع و رعایت شود، در متون دینی ذکر نشده است. در این موارد باید به همان اصول کلی «کمال­جویی» و «تعمیم به عام» که مورد توصیه ادیان توحیدی است، توجه داشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حال، نکته مهمی که رابطه اخلاق و عرفان را نشان می­دهد این است که اصول اخلاقی (ارزش­گذاری ها و باید ها و نباید ها) ، بخش کمی اخلاق است و چرایی رعایت آن اصول، بخش کیفی آن محسوب می­شود. در رسیدن به بخش کیفی اخلاق، عرفان ایفای نقش می­کند. زیرا عرفان، درک حقایق هستی است که مؤثرتر از شناخت عقلی بوده، خواه نا خواه، آثار آن در وجود انسان نهادینه می­شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="دلیل این که بشر در زندگی کنونی خود توفیقی حاصل نکرده است، این است که بسیاری از توصیه های اخلاقی به دلیل عدم این ادراک نادیده گرفته شده است. برای مثال، وقتی درک «تن واحده هستی» صورت نپذیرفته باشد، نباید از لطمه زدن به محیط زیست تعجب کرد. علاوه بر این، با درک عرفانی می­توان به اخلاقی که رعایت می­شود، کیفیت بخشید. کسی که بدون این پشتوانه موظف یا مجبور به رعایت اصول اخلاقی باشد، دچار تضاد اندیشه و عمل است و این آثار مخربی برای او خواهد داشت؛ اما با کشف حقایق، انگیزه رعایت اصول اخلاقی ارتقا می­یابد و آثار مثبتی به جا خواهد گذاشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بنابراین، تا انسان به درک جایگاه خود در هستی و اکوسیستم نائل نشود و رسالت خود را در ارتباط با خود، خانواده، جامعه و بلکه کل جامعه بشری نشناسد، نمی توان از او انتظار خلق و خوئی متناسب با مقام انسان (اشرف مخلوقات) داشت و از سوی دیگر، رعایت خلق و خوی پسندیده و هنجارهای اجتماعی در حالی که نسبت به آن، اعتقادی وجود نداشته باشد، رفتاری دوگانه است. یعنی بدون اینکه فرد از نظر بینشی به درک چرائی آن رفتار نائل شده باشد، حداقل برای کسب وجهه اجتماعی مقبول، خود را به آن وادار می­کند و در اثر فشار درونی ناشی از آن، هم در معرض بیماری روان­تنی (ناشی از رفتارهای دوگانه) واقع می­شود و هم احتمال دوام آن رفتار در او کاهش می­یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شرایع طی چندین هزار سال پیدایش تمدن بشری، به انسان آموخته اند که برای هدف مهمی آفریده شده است و با تبیین اهداف ارزشمند زندگی و معرفی رسالتش از او خواسته­اند تا به این رسالت عمل کند و برای این منظور، دستورالعملهائی نیز ارائه کرده اند. عرفان از طریق آشکار کردن حقایق هستی (باطن آن) و گشودن رموز این دستورات، رسیدن به اهداف مذاهب و شرایع الهی را تضمین می­کند. برای مثال، وقتی انسان به این درک می رسد که هر موجود و پدیده­ای در هستی تجلی الهی (وجه­ الله) است، به هر یک از مخلوقات الهی به دیده احترام نگریسته، حرمت آن را حفظ می­کند و به این ترتیب، به هیچ یک ظلمی روا نمی­دارد. چنین اخلاقی دوام دارد و به دلیل این که در وجود فرد نهادینه شده است، دوام آن متکی به کنترل دائم نیست. این در حالی است که بدون معرفت بنیادی نسبت به خود و هستی و فقط با تبعیت ظاهری از بایدها و نبایدها (قواعد اخلاقی)، تنها به کمک تذکر و کنترل می­توان به نتیجه نسبی رسید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به نمودار زیر توجه کنید:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/fifteen1"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/fifteen2"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+            <ImageView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/fifteen3"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بنابراین، اخلاق در عرفان مستتر است و با درک عرفانی، خود به خود حقوق دیگران رعایت می شود؛ ظلمی اتفاق نمی­افتد، دروغی گفته نمی­شود و نه تنها به نحو پایدار اخلاق فردی و اجتماعی تعالی می­یابد، به طبیعت نیز صدمه­ای وارد نخواهد شد. به همین دلیل، با بررسی میزان تخلفات و جرائم در هر جامعه، تا حدودی می­توان پی برد که افراد آن جامعه تا چه اندازه نسبت به فلسفه وجودی خود آگاه هستند. به عبارت دیگر، رعایت اصول اخلاقی و افزایش کیفیت آن، ارتباط مستقیمی با درک ما از فلسفه خلقت دارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از منظر عرفان، رعایت ظاهری اخلاق، رسیدن به رتبه سایر موجودات در جهان هستی است. برای مثال، اگر کسی آزارش به دیگران نرسید و در ظاهر نسبت به آنها رأفت نشان داد، انسان خوبی است اما به یک درخت شباهت دارد که سایه و میوه­اش در اختیار دیگران قرار می­گیرد و آزاری هم به کسی نمی رساند. این، نقطه صفر کار است. یعنی شرط لازم انسانیت و اخلاق است ولی کافی نیست. رسالت انسانی با تحولاتی درونی به سمت کمال (که با فیض و رحمت الهی امکان­پذیر است) انجام می­شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در این صورت، صلح و همزیستی جهانی نیز به طور زیربنایی حاصل خواهد شد. زیرا به میزان درک تن واحده هستی، درک خواهیم کرد که پاره تن یکدیگر هستیم و نه تنها هرگز برای کسی بدخواهی نخواهیم داشت، درک می­کنیم که سقوط هر یک از ما سقوط دیگری بوده، صعود هرکدام از ما بر صعود دیگران تاثیرگذار خواهد بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در هر تخلف و جرمی همه جامعه شریک جرم هستند. زیرا جامعه ای که سطح معرفت و فرهنگ آن بالا باشد، جرائم کمتری دارد و این، تنها با الزام رعایت اصول کمی اخلاق به دست نمی­آید؛ بلکه مستلزم کیفیت بخشیدن به اخلاق است که با یقین قلبی و درک وجودی یعنی با برخورداری از عرفان عملی حاصل می­شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="چنان که اشاره شد، معضل دیگری که در مورد اخلاق وجود دارد، فقدان یا ناکارآمدی انگیزه است. ضامن اجرائی اخلاقی که با پند و نصیحت و تذکر پیاده می­شود، ترس از مجازات و عقوبت و یا چشمداشت به پاداش است. به طور معمول ناباوری قلبی به یک عمل و وادار کردن خود به انجام آن، موجب فشارهای درونی خواهد بود که با پردازش در بخش نا خودآگاهی سلامت فرد را سلب کرده، اگرچه او را از انجام اعمال غیر اخلاقی مانند دزدی، رشوه و ... باز می­دارد، اما مشکلات دیگری به بار می­آورد. از جمله، پس از مدتی، دچار افسردگي شده، نشاط معنوی و حضور فعال و مؤثر اجتماعی خود را از دست خواهد داد. در حالی که عرفان، می­تواند با افزایش درک و معرفت نسبت به خود و روابط خود با هستی و دیگران که باعث ایمان به امور اخلاقی می­شود، از این معضل جلوگیری کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="تفاوت زاهد و عابد نیز در همین جا است. مشکل زاهد آن است كه مي خواهد با کنترل و ضبط نفس از الگوهای خوبی پیروی کند و به همین دلیل، با این که به انجام آن اعتقاد دارد، رفتار او نوعی تظاهر است. در حالی که عارف، با آگاهی عرفانی خود پذیرای خوبیها بوده، بدون هیچ اجباری از بیرون یا درون، اخلاقی زندگی می­کند. حال با این که هدف هر دو (زاهد و عارف) نزدیک شدن به خداوند است، معلوم است که کدام یک بهتر به این نتیجه می­رسد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نکته آخر این است که در قرآن کریم به «حکمت» اشاره شده، تبیین می­شود که اولا حکمت را خدا به انسان می­دهد و ثانیا حکمت خیری کثیر است. حکمت، مواجه شدن با همان حقایق هستی است که پشت پرده ظاهر آن قرار دارد و در واقع همان چیزی است که تا اینجا به آن درک عرفانی گفته شد. به عبارت دیگر، حکیم در هر چیزی واقعیت و حقیقت آن را می­بیند و بنابراین، عمل او اخلاقی است. پس، حکمت در اخلاق، انجام عملی است که با توجه به دو وجه واقعیت و حقیقت انجام شود و اخلاق حکیمانه یا اخلاق مبتنی بر حکمت عبارت است از خلق و خوئی که با فلسفه خلقت و فطرت انسان و با رسالت بشری­اش در عالم هستی همخوانی و همفازی داشته باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حکمت چیزی نیست که انسان بتواند با سعی و تلاش به آن برسد. بلکه فیضی الهی است که بر مبنای توجه و اشتیاق انسان جاری می­شود. در قرآن کریم کتاب و حکمت در کنار هم آمده است (و یعلمهم الکتاب و الحکمه). این نیز می­تواند اشاره­ای به این نکته باشد که تا انسان کتاب هستی را نشناسد و به فهم و درک صحیح قوانین و فلسفه آن دست نیابد، نگاه درستی به هستی نخواهد داشت و رفتار او حکیمانه نخواهد بود. چنین چیزی بدون فيض و رحمت الهی امكان پذير نيست و تنها با اشراق و شرح صدر که ارمغان ارتباط با خداوند و تسلیم شدن به اوست، می­توان بخش كيفي اخلاق را تحقق بخشید و ارتقا داد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به بیان دیگر، رعایت اخلاقِ كمي، متكي به سعی و تلاش است و رسيدن به اخلاقِ مبتني بر كيفيت، مستلزم فيض الهي بوده، انسان را به تعالی می­رساند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".one_asleVahdateRah">
+
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آشنایی با شعور کیهانی و مشاهده عملی نحوه کار این هوشمندی و تحولات خارق العاده پیش آمده ناشی از اتصال و ارتباط با آن و انجام فعالیت‌های مثبت و انسانی در این رابطه، ما را هر روز بیشتر از پیش با این پدیده عجیب و شگفت انگیز الهی، آشنا ساخته و به درک وحدت حاکم بر جهان هستی، نزدیکتر ساخته است. همان وحدتی که همه اجزا ء جهان هستی را به یکدیگر پیوند داده و ندای تن واحده بودن آن را، به گوش جان‌های بیدار و آگاه، در هر لحظه فریاد می‌زند:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="این همه عکس می و نقش مخالف که نمود\nیک فروغ رخ ساقی است، که در جام افتاد
+\n(حافظ)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="پیامی که ما به فراتر از مرزهای تفکرات و اندیشه‌های انسانی هدایت نموده و در بالاترین مرتبه فکری و بینشی قرار داده و به این فراز و مرتبه از آگاهی رسانیده است که نه تنها بنی آدم اعضای یک پیکرند بلکه: جهان هستی همه، یک پیکر است که در آفرینش، ز یک گوهر است و با این نگرش، ما وسعت دید و اندیشه خود را نه تنها از مرز‌های قومی، قبیله‌ای، ملی (ناسیونال)، نژادی و حتی جهانی (اینترناسیونال) گسترش داده بلکه دامنه تفکرات، درک و بینش خود را معطوف به همه جهان هستی (اینتریونیورسال) نموده و اعتفاد داریم که بدون درک جهان هستی و هوشمندی حاکم بر آن، انسان همواره در کثرت و سرگشتگی به سر برده و همه راه‌های مقابل او، بسته خواهد بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="این درک عمیق، به دنبال آشنایی عملی با شعور الهی یا همان هوشمندی حاکم بر جهان هستی، پیش آمده است و این هوشمندی و شعور (وسیله)‌، ما را به وحدت جهان هستی (هدف) و از طریق وحدت راه (مسیر) هدایت نموده است. شرط اساسی رسیدن به وحدت ایجاب می‌کند که همه عوامل در برگیرنده و تعریف کننده آن، خود نیز در وحدت باشند و از اینجا می‌توان پی برد که نمی‌شود در کثرت راه بود و به وحدت رسید. یعنی فرد نمی‌تواند با در هم آمیختن چندین راه مختلف به وحدت برسد. زیرا ممکن است راه‌های انتخاب شده از نظر چهار چوب‌های اجرایی و تجزیه و تحلیلهای لازمه، با یکدیگر در تضاد باشند ولیکن همگی آنها، هدف مشترکی را دنبال کنند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هر چند که راه‌های رسیدن به این وحدت، متعدد است و به تعداد نفوس انسان‌ها می‌تواند راه‌های مختلف وجود داشته باشد ولیکن هر راه به تنهایی، بایستی در وحدت کامل باشد. راه در کثرت خود کثرت آفریده و به دنبال آن اغتشاش و سرگردانی بوجود می‌آورد. مثلا برای منظوری خاص ممکن است در مکتب‌هایی از ذکر و مانترا استفاده شود در حالی که برای همان منظور در مکتب دیگری (مکتب وحدت کیهانی) نه تنها ذکر و مانترا مورد استفاده قرار نگیرد، بلکه در صورت استفاده در اتصال به شبکه شعور کیهانی، ایجاد اختلال نیز بنماید و همچنین مثلا در مکتب‌هایی، ریاضت و سختی دادن به جسم،‌ گوشه‌گیری و تارک دنیا شدن، مورد استفاده قرار بگیرد در حالی که در مکتب دیگری این کار خطایی بزرگ محسوب شود که البته در مکتب ما نیز چنین می‌باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="وحدت کیهانی، همان وحدت الهی است و روزی که انسان به درک این وحدت نائل شود و خود را با عالم هستی در یکتایی و همسویی ببیند، به مرز خدایی شدن و خدایی دیدن رسیده است زمانی که هر کجا روی نماید فروغ رخ او را دریابد و به جز او را نبیند “رسد آدمی به جایی، که بجز خدا نبیند” و در آنصورت به معنای: “قبله‌ام یک گل سرخ، جانمازم چشمه، مهرم نور،…” رسیده و چیزی جز تجلی الهی را در پیش رو نخواهیم دید، و همچنین به عینیت “اینما تولوا فثم وجه الله” پی برده و به دنبال آن، … کعبه‌ام بر لب آب، کعبه ام زیر اقاقی‌هاست. کعبه‌ام مثل نسیم می‌رود باغ به باغ، می‌رود شهر به شهر. حجرالاسود من، روشنی باغچه است. (سهراب سپهری) و در آن زمان متوجه خواهیم شد که به هر سو نظاره کنیم، تجلی او را دیده و با دیدن تجلیات او در واقع از دیدن اثر، پی به وجود صاحب اثر برده‌ایم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="روشن بنگر که آفتاب است\nآن نور که خوانیش به مهتاب
+\n(شاه نعمت الله ولی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="و از نظاره مهتاب، در حقیقت پی به وجود آفتاب برده‌ایم. آفتابی که از خورشید است، همان خورشیدی که نمی‌توانیم به طور مستقیم، لحظه‌ای به آن نگاه کنیم و چشمان ما یارای تحمل نور آن را ندارد. در خاتمه ضمن دعوت به رعایت اصل وحدت راه، مبنی بر خودداری از تلقین و ترکیب راهها و شیوه‌های مختلف و همزمان یکدیگر، و با در نظر گرفتن و مطالعه و بررسی نکات متضاد آنها، از سرگشتگی خود و دیگران جلوگیری نموده و در نتیجه از به‌هم‌ریختگی‌های بعدی نیز که به کرات مشاهده گردیده است، جلوگیری شود و فراموش نکنیم که هدف نهایی، رسیدن به وحدت کیهانی، از طریق آشنایی عملی با “شعور الهی” می‌باشد و تمام فعالیت‌های افراد می‌بایستی با در نظر گرفتن این هدف صورت بگیرد و در غیر این صورت، این فعالیت‌های فاقد ارزش‌های لازم معنوی و عرفانی بوده و صرفاً در جهت رشد منیت، معرکه‌گیری و خودنمایی تلقی خواهد گردید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با امید به درک وحدت جهان هستی"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

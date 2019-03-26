@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".twelve_haj">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حج، سکوی پرتاب انسان به سوی بینهایت، تجربه ی معراجو تولدی دوباره است که تنها و تنها پس از پایبندی به پیمان «ایاک نعبد و ایاک نستعین» محقق می شود. با صرفنظر از این پیمان، مناسک حج به نتیجه نمی رسد و بدون اثری معرفتی، به نحوی زودگذر، احساسات فرد بر انگیخته شده، اندکی پس از اتمام مراسم فرو می نشیند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="حج، عروجی به هفت آسمان، یعنی هفت گنجینه ی آگاهی های هستی، آن هم در میان جمع است. در این حرکت، با گم شدن در سیل خروشان و یکپارچه ی حج گزاران، محو شدن هم تجربه می شود؛ اما هدف، بالاتر از این یکپارچگی و بالاتر از این محو شدن است و کسی به آن می رسد که با آمادگی عازم این مسیر شده باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آمادگی، تنها استطاعت مالی نیست؛ آمادگی در این است که حق معلوم مسکینان و مستمندان، از طریق خمس، زکات، صدقه و... پرداخت شده باشد و علاوه بر این، معرفتی حاصل باشد که بتوان آن را سرمایه ی حج قرار داد. در این صورت، حج آثارمثبت فردی و اجتماعی خواهد داشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="کسی که با رعایت این مقدمات عازم حج می شود، از دارایی خود گذشته است؛ با همنوعان خود همدردی و همدلی دارد و از آنجا که به پیمان «ایاک نعبد و ایاک نستعین» متعهد است؛ عمق و عظمت «لبیک» را می شناسد. او چنان که باید، به آگاهی خواهد رسید و سوغاتی که از این سیر معنوی به ارمغان خواهد آورد، پیشرو بودن در انجام امور خیر است. این حاجی رفع مشکلات مردم را سر لوحه ی امور زندگی قرار خواهد داد و امین مراجعین خواهد بود. حاجی حقیقی یک اَبَر انسان است؛ ابر انسانی که با تحولات فردی خود، جامعه¬اش را نیز متحول می کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اولین منزلگاه حج، میقات است و اولین کاری که فرد را برای ورود به این مناسک عظیم مهیا می کند، غسل کردن است. این شستشو در میقات به منزله ی دست شستن انسان از آنچه که هست و اعلام آمادگی برای یک تحول است؛ تحولی که نوعی مرگ محسوب می¬شود: مردن از وضعیت فکری و شخصیتی موجود و تولد در وضعیتی بهتر."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هنگام این مرگ باید چیزی شبیه کفن به تن کرد. لباس احرام پوششی است که همه ی حج گزاران را یکدست می کند تا کسی شاخص نباشد و در عین حال، نماد کفنی برای مرگ است؛ مرگی که انسان را در هفت آسمان متولد می کند. در این مرحله می توان پیمان حج بست و «لبیک» گفت. اما پیش از آن، یک بار مرور دروس زندگی و بندگی (درس «بسم الله الرحمن الرحیم»، درس «الحمدلله رب العالمین» و ...) لازم است. مرور این دروس، یادآوری نکات کلیدی آن ها و اعلام پایبندی به تعهدات قبلی، با برپایی دو رکعت نماز انجام می شود. با اقامه ی این نماز، لحظه ی تصمیم گیری فرا می رسد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="تصمیم گیری و نیت برای عروج، بر پله ی عقل انجام می شود و با عشق حفظ می شود. در مراحل مختلف حج، عقل و عشق پا به پای هم نقش آفرینی می کنند. به محض نیت بر پله ی عقل، ذکر «لبیک، اللهم لبیک، ...» تسلیم بر پله ی عشق را اعلام می کند و به این ترتیب، مناسک با بیعتی محکم آغاز می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از این لحظه فرد محرم شده است و احکام خاصی را رعایت می کند. او هم فازی (هماهنگی و همسویی) با طبیعت و با عوالم بالا را تجربه می کند و نه تنها دست به شکار حیوانات صحرایی و کندن گیاهان از زمین نمی زند، حتی حشره ای را که بر بدنش می نشیند و او را نیش می زند، نمی کشد. زیرا برای همه ی موجودات احترام قائل است و از این که جان موجود زنده ای هرچند خرد را بگیرد، احساس لذت و رضایت ندارد. مردان محرم از آفتاب به زیر هیچ دستار و کلاه و سقفی پناه نمی برند و روی پاهای خود را از آن نمی پوشانند. زنان محرم نیز چهره به چهره ی آفتاب روز و بادهای سوزان این منطقه ی گرمسیری صلح با طبیعت را به نمایش می گذارند و صورت خود را نمی پوشانند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="البته، در این چهره گشایی نکته های دیگری هم نهفته است. در شرایطی که ارتباط و اتصال با خدا و محو شدن انسان توجه او را از تمایلات زمینی باز می دارد و حتی روابط زناشویی را به کناری می گذارد تا برای مدتی بدون دخالت هر عامل بازدارنده، عظمت حق درک شود و بالاترین آگاهی ها به دست آید، نگاه هیچ مرد حج گزاری به سیمای هیچ زنی گره نخواهد خورد و بانوی حج گزار با قبول این که روی خود را نپوشاند، امکان آزمونی در این زمینه را فراهم می کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="احرام مقررات دیگری هم دارد. در حالت احرام، هر نوع ایجاد رنجش برای خود حرام است. بنابراین، فرد محرم به خود اجازه ی انجام کارهایی مثل کشیدن دندان یا هر اقدام دیگری که باعث خروج خون از بدن شود را نمی دهد؛ او طوری رفتار می کند که موجب هیچگونه تأثیر منفی و احساس ناخوشایند برای خود یا دیگران نشود. (از ایجاد هرگونه تشعشع منفی اجتناب می کند.)"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همچنین، برای محرم شایسته نیست که با قسم خوردن به خدا در صدد اثبات مطلبی باشد؛ زیرا در دانشگاه حج، حتی به منظور هدایت نیز قسم خوردن کاربردی ندارد. در آن شرایط ویژه هر کسی باید با حقایقی که در دل عیان می شوند، آشنا شود. در آن شرایط ویژه باید عاشقانه به هدف چشم دوخت و تسلیم بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عزم فرد برای انجام مناسک عظیم حج و برخورداری از آگاهی های ناشی از این عروج، با هدف تقرب به خداوند است و با عطف به خود منافات دارد. پس علاوه بر آنچه ذکر شد، محرم به عنوان زائر خدا تصویر خود را در هیچ آینه ای نمی بیند؛ به زدودن مو از بدن یا استعمال روغنی برای پوست بدن مبادرت نمی کند و در حالی که همه ی زینت آلات خود را کنار گذاشته، از هر نوع آرایشی می پرهیزد و با استعمال عطر توجه خود و دیگران را به رایحه های زمینی جلب نمی کند، همه ی مشغولیت ها را کنار می گذارد تا در فضایی ساده و بی تکلف شاهد مقصود را در آغوش کشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="سادگی، یکی دیگر از رموز احرام است. در عالم هستی، هر موجودی که به مبدأ وجود نزدیک تر باشد، ساده تر و هر موجودی از آن دورتر باشد، پیچیده تر است. فرد محرم با پذیرش سادگی در ظاهر و پوشش خود، حرکتی درونی به سوی سادگی را آغاز می کند و می رود تا از این رهگذر به بیشترین حس حضور حق و درک پنهان ترین حقایق عالم دست یابد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="مناسک حج در ماه حرام بر پا داشته می شود. در ماه حرام، جنگ و خونریزی حرام است. پس او امنیت دارد و نیازی به حمل اسلحه برای حفظ جان نیز نخواهد داشت. در این مراسم الهی نه تنها دل نگرانی های زمینی جایگاهی ندارد؛ دل مشغولی های زمینی نیز ناشایست است و حتی گرفتن ناخن هم باید بماند برای بعد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در انجام این مراسم باید در کمین فرصت های آسمانی بود. بنابراین، نه تنها لازم است از فسق و فجور که انسان را از هدف دور می کند، پرهیز کرد؛ بلکه باید با کنترل ذهن آماده ی دریافت روزی های معنوی شد. اگر کسی ناخواسته به خارش بدن مبادرت کرد یا به طور غیر عمدی یکی از این احکام را رعایت نکرد، معلوم می شود که مدیریت ذهن خود را از دست داده است. حج ذهنی می خواهد که در لحظه ی حال حضور داشته باشد. زیرا باید برای شکار آگاهی مهیا بود. پس از احرام و ورود به مسجدالحرام، مناسک حج با طواف از مقابل حجرالاسود آغاز می شود. آغاز از این مبدأ نشانه ای از این است که همراه با این حرکت بیرونی، یک حرکت درونی به وقوع می پیوندد و انسان از صلب و سخت بودن یعنی از سنگ بودن به سوی نرم شدن، جان گرفتن و روان شدن یعنی انعطاف پذیری و آمادگی پذیرش حقایق حرکت می کند. حرکتی با رمز طلب و تسلیم که سیاهی و ظلمت درون را با نور آگاهی و معرفت می زداید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="هفت دور طواف، نشانی از دست یافتن به آگاهی هفت آسمان و در عین حال در هر دور، سمبلی از خلقت انسان است؛ خلقتی که او را از مبدأ خود دور کرد و به آن باز می گرداند. گشایش رمز «اناالحق» نیز در ادراک نقطه ی آغاز و پایان همین گردش است؛ گردشی که انسان را با خود آشنا می کند؛ گردشی که در آن انسان خود را پیدا می کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با درک عظمت این حقیقت، نباید از «تسلیم» دور شد. پس بعد از طواف، درست پشت مقام ابراهیم دو رکعت نماز بر پا می شود. مقام ابراهیم، آن نمادی نیست که جای پای ابراهیم را نشان می دهد؛ مقام ابراهیم، مقام تسلیم است. زائر برای تماشای جای پای ابراهیم در پشت این بنا قرار نمی گیرد؛ او با اقامه نماز پشت این نماد، در دل خود، رد پای ابراهیم را دنبال می کند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بنابراین، باز هم درسی دیگر و بیعتی مجدد در کار است و چه نکته ی ظریفی در این است که گفته اند بهتر است این تجدید پیمان با سوره ی توحید در رکعت اول و سوره¬ی کافرون در رکعت دوم انجام شود! در سوره ی توحید به وحدانیت خدا اقرار می شود و در سوره ی کافرون به قبول آزادی عقیده. هیچ کس را نمی توان به اجبار تسلیم حق کرد. تسلیم، مستلزم معرفت و عشق است. حج گزار عاشق و آگاه، بر فراز توحید قرار دارد؛ مخالفت خود با کفر را اعلام و به توحید اقرار می کند ؛ اما در عین حال، به دیگران آزادی اندیشه می دهد. این نیز جلوه ی دیگری از تسلیم است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما نتیجه ی عالی تسلیم را باید در درسی یافت که سعی میان صفا و مروه به جا می گذارد. باز هم هفت مرحله حرکت به نمایش گذاشته می شود؛ باز هم حکایت هایی از هفت آسمان در وجود حج گزار حقیقی نقش می بندد. اما چرا سعی؟! برای دریافتن این که «به سعی خود نتوان برد پی به گوهر مقصود». مگر نه این که بین دو کوه صفا و مروه هاجر بالغ تلاش کرد و اسماعیل کودک یافت؟ مگر نه این که آب، سمبل آگاهی، کودک، سمبل سادگی و بالغ، سمبل پیچیدگی است؟ مگر نه این که چشمه زیر پای کودک بود؟ این بخش ساده ی وجود (کودک) است که به آگاهی آسمانی (الهام الهی) دست می یابد؛ با طلب و این بخش پیچیده و پر تکاپوی وجود است که اجازه ی این تجربه را می دهد؛ با تسلیم. تنها با وحدت و هماهنگی این دو بخش متضاد وجود، می توان به اشراق رسید. هاجر در لحظه ی درماندگی خود از تلاش در جستجوی آب، به خداوند معطوف شد و به مقصود رسید و حج گزار با قدم گذاشتن در مسیری که او پیمود، به خود یادآور می شود که زندگی تلفیقی از تلاش و تسلیم است؛ اما تلاش، کارگشای واقعیت زندگی و تسلیم، راهگشای یافتن حقیقت است و هریک را باید در جای خود به کار برد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به این ترتیب، با درک این درس های کلیدی و سرمستی از حس حضور خدا، طواف و نمازی دیگر بر پا می شود و سپس حج به مرحله ی دیگری می رسد: وقوف در صحرای «عرفات»؛ وقوفی همراه با تأمل که انگیزه ی آن عشق و دستاورد آن شناخت است. در عرفات شناخت انسان نسبت به خود تکمیل می شود. از این رو، در این بخش از مناسک حج می توان فرصت ها و تهدیدهای راه کمال را شناسایی کرد و با دریافتن ترفندهای شیطان، در اقدام بعدی برای هرگونه رویارویی با او آمادگی یافت. محل این آمادگی در «مشعر» است. هر یک از سنگ¬ریزه هایی که در مشعر جمع آوری می شود تا روزهای بعد به دست حج گزار به نماد شیطان اصابت کند، بهانه ای برای اندیشه به زوایای حملات شیطان است. نام «مشعر» نشان می دهد که بدون شعور و آگاهی نمی توان برای چنین مقابله ای راهکاری مؤثر یافت. پس باید از آگاهی هرچه بیشتر تدارک دید؛ تدارکی برای حضور در «منی»."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می گویند منی به معنای نهایت آرزو است. نهایت آرزوی حج گزار واقعی، رسیدن به غایت کمال است. برای رسیدن به این زیباترین آرزو باید عوامل ضدکمال را مهار کرد. به همین دلیل است که در ایام وقوف در منی، هر صبح مخالفت خود با شیطان و استقامت در برابر آن اعلام می شود. شاید به نظر برسد که سنگ زدن به نماد شیطان نمایشی است که حج گزار به اجرا می گذارد؛ در حالی که پس از مدتی پیام آن را به فراموشی می سپارد. اما در باطن هر بخشی از مناسک که واقعیت آن را به نمایش می گذارد و بر پله ی عقل انجام می شود، حقیقتی وجود دارد که بر پله ی عشق درک می شود. علاوه بر این، ضمیر ناخودآگاه انسان با قرار گرفتن در صحنه ای هر چند نمادین، نسبت به درس آن صحنه بهتر برنامه ریزی می شود. تکرار این حرکت نیز به تثبیت آن در خودآگاه و ناخودآگاه کمک می کند. البته باید به خاطر داشت که اگر اقدام به این مراسم با آگاهی همراه نباشد، این نتیجه را در بر نخواهد داشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="سه نماد شیطان در منی، یادآور سه مرتبه تردید ابراهیم در اجرای حکم خداوند است. شک و تردید آتشی است که گل وجود انسان را به پختگی می رساند و به او یقین می بخشد؛ اما باقی ماندن در معرض آن، همان گل پخته را به سنگی بدل می کند که صلب و تغییرناپذیر است. بدون وجود این آتش، ایمان و عقیده ثبات نمی یابد؛ در عین حال که رها نشدن از آن، ایمان و عقیده ای باقی نمی گذارد. منی سرزمین اشراق است. هیچ گاه نمی توان از شیطان و تردیدهای شیطانی امنیت داشت؛ اما در سرزمین اشراق این هجمه سنگین تر است. باید مراقب بود و مقابله کرد؛ زیرا شکست یعنی از دست دادن فضایل و پذیرفتن رذایل؛ یعنی سنگ دلی و خساست و حسادت و ... و در یک کلمه یعنی دوری از حق."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="روز اول سومین نماد شیطان هفت بار «رمی» می شود (مورد پرتاب سنگ واقع می شود) و در هر یک از روزهای دوم و سوم هر یک از سه نماد، مورد اصابت هفت سنگ قرار می گیرد. اما این اولین درس حج درباره ی شیطان نیست. حرکت رو به جلو در طواف، در حالی که جهت سر یا بدن به سمت دیگری تغییر نمی کند، تنها برای متانت در حرکت الزامی نشده است. این، به منزله ی تنظیم جهت نگاه و حرکت انسان به سوی هدف اعلا (تنظیم جهت به سوی عالم بالا) و تضمین امنیت از حملات شیطان است. مگر نه این که شیطان از همه سو به غیر از جهت مستقیم امکان حمله دارد؟ مگر نه این که اگر دل در گرو عشق الهی نباشد و رو به سوی دیگر داشته باشد، در خطر شرک است؟ مگر نه این که تنها در پناه خدا یعنی در انحصار نگاه و توجه به او می توان از آسیب شیطان در امان بود؟ طواف، انسان را از شر شیطان به آغوش خدا می سپارد و رمی جمرات آخرین ترفندهای نفوذ او را خنثی می کند. بعد از رمی نماد سوم در اولین روز وقوف در منی، نوبت به ذبح قربانی می رسد. در باطن این مراسم نیز حقیقتی نهفته است؛ حقیقتی مربوط به عزم ابراهیم در ذبح اسماعیل که در مسلخ توحید، با ذبح وابستگی به این فرزند محبوب، به نتیجه رسید. بنابراین، ذبح، اعلام قطع تعلق و وابستگی است و این تحول ابراهیمی را در ضمیر خودآگاه و ناخودآگاه حمل خواهد کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با رسیدن به این مرحله، دیگر می توان از احرام خارج شد و برای ابراهیمی شدن جشنی بر پا کرد. خروج مردان از احرام با تراشیدن همه ی موهای سر و خروج بانوان از آن با کوتاه کردن بخشی از موها انجام می شود تا نشانه ای باشد از این که با این حج ابراهیمی از همه ی اضافات موجود در زندگی باید گذشت. ضمن این که تراشیدن سر نوعی خودشکنی و پذیرفتن حضور در جمع بدون اتکا به زیبایی ظاهر است. این نکوهش زینت و زیبایی نیست؛ بی مقدار دانستن زیبایی های کاذب در برابر زیبایی حقیقی و اعلام این است که پایبندی به هیچ زیبایی ظاهری نمی تواند جایگزین زیبایی باطنی باشد و همچنین، خشنود بودن به زیبایی باطن است که ناشی از رابطه ی پنهان بنده و پروردگار است و امکان تظاهر به آن وجود ندارد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="خروج از احرام، به معنای پایان مناسک حج نیست. با خروج از احرام، منی دو روز دیگر نیز میزبان حج گزاران است. هر صبح، رزمایش ایستادگی در برابر شیطان تکرار می شود و سپس همچنان سرزمین منی شاهد به بلوغ رسیدن میهمانانی است که با درک بیشتر قصد بازگشت به مسجدالحرام را دارند. در این بازگشت، باز هم طواف و نماز طواف؛ باز هم سعی میان صفا و مروه و باز هم طوافی دیگر و نمازی دیگر انجام می شود؛ در حالی که وجود عاشق و دل مشتاق حج گزاران حقیقی، صیاد بهترین روزی های آسمانی خواهد بود و لحظه لحظه تحول را تجربه خواهد کرد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="سرانجام مناسک به پایان می رسد؛ اما برای کسانی که حرکت با گام های ابراهیمی را آموخته اند، پایان این مراسم، شروعی دیگر است. این افراد به میان اجتماعات کوچک و بزرگی که زندگی شان در میان آن ها جریان دارد، باز می گردند؛ در حالی که هر یک در حد وسع خود، نقش یک الگوی الهی را ایفا می کنند. این افراد، اَبَر انسان هایی هستند که در حج متولد شده اند و به بلوغ رسیده اند. این ابر انسان ها به درک حج رسیده اند؛ حجی که معراج به هفت آسمان آگاهی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

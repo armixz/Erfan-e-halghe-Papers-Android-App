@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".five_trova">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اسب تراوا ماجرای اسبی چوبین است که با استفاده از آن، قلعه‌ی شکست‌ناپذیری که با محاصره و جنگ سقوط نمی‌کرد، به تسخیر دشمن در آمد. داستان از این قرار است که سربازان دشمن، قلعه‌ای را مدتها در محاصره قرار داده بودند، پس از مدتها جنگیدن ناامید شده و برای تسخیر آن نیرنگی را طراحی کردند. آنها اسبی چوبین ساختند و آنرا در بیرون قلعه گذاشتند و خود عقب نشینی نموده و وانمود کردند که از ادامه‌ی حمله منصرف شده و به احترام مقاومت مدافعین قلعه، اسبی چوبین را به آنها هدیه کرده‌اند. مدافعین قلعه مفتون زیبایی و عظمت اسب چوبین شدند و آنرا به داخل قلعه برده و مشغول جشن و سرور و پایکوبی گردیدند. اما نیمه شب که آنها مست و سرخوش در خواب بودند، سربازانی که از قبل در دل اسب چوبین پنهان شده بودند از درون آن بیرون آمده و دروازه‌ی قلعه را گشودند و دشمن که در این فاصله با استفاده از تاریکی شب خود را به قلعه رسانیده بود، وارد شده و با غافلگیر کردن مدافعین و قتل عام آنها، قلعه را به تسخیر خود درآوردند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ذهن انسان پیچیدگی‌های بسیار زیادی دارد و از فیلترهای محافظ بسیار قوی برخوردار می‌باشد. فیلتر عقلی راه ورود هر گونه اطلاعاتی را كه با منطق و باورهای ما مغایرت داشته باشد، می‌بندد. ذهن قادر است اطلاعاتی را كه به آن می‌رسد، مورد پردازش دقیقی قرار بدهد حتی اگر وارونه باشد. در ستاد مركزی ذهن، محدودیتی برای فهم زبانهای مختلف نیست و هر مطلبی به هر زبانی برای این ستاد قابل فهم بوده و به كار گرفته می‌شود. این سطح از ذهن جزیی از ناخودآگاهی بوده، كه ما به آن واقف نیستیم ولی اثرات آن بر روی عملكردهای انسان ظاهر می‌شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با استفاده از همین اصل، شبكه منفی، كلیه اطلاعات غلط خود را به ستاد مركزی ذهن انسان می‌رساند و رفتار او را تحت تاثیر قرار داده و تمایلات او را به سمت دلخواه هدایت می‌كند. شعر و موسیقی نیز می‌توانند به عنوان اسبهای چوبین مورد سوء استفاده‌ی شبكه منفی قرار گرفته و در حد بسیار گسترده‌ای در این رابطه به كار گرفته شود. زیرا در حالت عادی ذهن انسان اجازه‌ی عبور به بسیاری از اطلاعات را نمی‌دهد. برای مثال اگر ما بشنویم كه 'به‌ شیطان گوش بده!'، شدیداً مقاومت منفی نشان خواهیم داد و از آن اجتناب می‌كنیم. اما اگر همین دستور در معكوس شعر آهنگی قرار داشته باشد، از آنجا كه ما با كمال میل آن ترانه را گوش می‌دهیم، اطلاعات نابجای پشت آن مانند اسب تراوا وارد قلعه‌ی وجودی ما شده و در فرصت مناسب اثر خود را به جای خواهد گذاشت. جالب اینجاست كه معكوس شعری كه شنیده می‌شود هیچ ارتباطی به خود شعر ندارد كه اگر شعر را معكوس بنویسیم به آن دسترسی پیدا كنیم. نكته‌ی دیگر این كه انجام این كار به كمك تكنیك امكان‌پذیر نیست و این كار در حد یك اعجاز می‌باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از آنجا كه توضیح این مساله بسیار مفصل می‌باشد، متعاقباً ارایه خواهد شد، لذا در این مرحله فقط بررسی عملی جهت نتیجه‌گیری و اثبات این مباحث مورد نظر است كه برای این منظور ترانه‌هایی به عنوان نمونه انتخاب شده‌اند كه در ابتدا اصل ترانه را می‌شنویم و به دنبال آن معكوس شده و برگردان ترانه را مورد توجه قرار می‌دهیم. نتیجه باور نكردنی است، به خصوص اگر مطالبی كه شنیده می‌شود كشف رمز هم شده و منظور آن آشكار گردد. هر چند كه مفهوم بسیاری از این مطالب برای شنوندگان كاملاً روشن می‌باشد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در خاتمه از جناب دكتر سروش عازمی‌خواه و دكتر سوشیانت عازمی‌خواه و سركار خانم میترا عازمی‌خواه و سایر دوستانی كه در تهیه و آماده‌سازی مجموعه‌ی حاضر تلاش مداوم و پیگیری را مبذول داشته‌اند، كمال قدردانی را دارم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="با آرزوی توفیق الهی"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

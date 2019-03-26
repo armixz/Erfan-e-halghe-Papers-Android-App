@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nine_ramazan">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از آغاز حضور انسان در زمین، این دو پرسش مهم ذهن او را به خود مشغول کرد که «من کیستم؟» و «خالق کیست؟». سپس، آنچه به اقتضای این دو پرسش مطرح شد، سؤالاتی از این قبیل بود که ««از کجا آمده ام؟»، «چرا آمده ام؟» و «به کجا می خواهم بروم؟». اما توجه به خالق در رأس این جستجو قرار گرفت؛ زیرا یکی از نیازهای درونی انسان، میل طبیعی به پرستش بود که رفته رفته، منجر به انتخاب خدایان متعددی در طول تاریخ شد."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در قدم بعدی، اقدام به پرستش، زمان ها و مکان هایی خاص را به خود اختصاص داد و به این ترتیب، آتشکده ها برای آتش پرستی و معابد برای عبادت خدایانی دیگر بنا گذاشته شد. همچنین، پرستش خورشید و ماه و ... در روزهایی مشخص، باعث شد که این ایام هفته به اسامی Sunday,Monday و ... (روز خورشید ، روزماه و...) نام گذاری شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به تدریج و در میان برخی اقوام، در چنین روزهایی که روز خدا شناخته می شد، انجام هرگونه کار و فعالیتی که امری معنوی به شمار نمی رفت، ممنوع (حرام) شد. به نحوی که در عهد عتیق، این دیدگاه به عنوان حکمی شرعی رسمیت یافت و به طور کلی، با هدایت ادیان، برای کلیمی ها روز شنبه، برای مسیحیان روز یکشنبه و برای مسلمانان روز جمعه تقدس پیدا کرد و با اندک تفاوتی به انجام امور معنوی اختصاص یافت؛ ضمن این که برخی ماه ها (به همین معنا) ماه حرام اعلام شد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="علاوه بر این، در تمدن های قدیم، برای هر یک از آیین های مذهبی، ایام مشخصی از سال برگزیده شد که برخی از آن ها، با گذشت زمان، به فرهنگی ملی بدل گردید. از آن جمله می توان به ایام نوروز در ایران باستان اشاره کرد که به عنوان مراسمی برای آشتی با طبیعت بنا گذاشته شد. به هر حال، در طول تاریخ، به مدد بصیرت بشری و هدایت الهی، مراسم و مناسک خاصی در هر قوم پدید آمد که به نوبه خود، از نظر معنوی منشأ اثر بود. به این ترتیب، همگی از مراسمی چون جشن سده و جشن مهرگان گرفته تا عبادت چهل روزه موسوی (چهله) به هدف ایجاد فرصت و زمینه ای برای خودسازی انجام گرفت و به زمانهای خاص خود، تقدس بخشید. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بر اساس موارد ذکر شده، بشر در طول تاریخ به این نکته واقف بوده است که نباید همه وقت خود را به انجام امور روزمره و تلاش برای امرار معاش بگذراند و خویشتن را از فیوض معنوی بی بهره گذارد. به خصوص، ریشه یابی هر یک از مراسم آیینی در ادیان الهی گواهی بر این است که اساس آن، کسب معرفت و تحولی سازنده بوده، مبنای هیچ یک از چنین مراسم و مناسکی، نمی تواند جلب رضایت خداوندی باشد که نیازمند پرستش است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در این ادیان، موفقیت انسان در پیمودن مسیر کمال (قرب الهی)، به منزله خشنودی خداوند و ناکامی وی از این رشد و تعالی به مثابه ناخشنودی خداوند است. به بیان ساده، آداب و عبادات معنوی راهی برای خودشناسی و خداشناسی است که برای انسان مفید واقع می شود و صرف نظر کردن از انجام آن یا به فراموشی سپردن اصل آن (فقط رعایت صورت ظاهری اش) چیزی جز خسران در بر ندارد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یکی از زمان های مقدسی که در دین اسلام به خودسازی اختصاص یافت و برپایی عبادت روزه در آن مقرر شد تا انسان بتواند از طریق آن به فیوض الهی دست یابد، ماه مبارک رمضان است. روزه داری از عهد عتیق در میان افراد متدین سابقه داشته است و به برخی فواید آن اشاره خواهد شد. اما نکته مهم این است که برکت ماه مبارک رمضان، نه صرفا در نخوردن و نیاشامیدن، بلکه در تحقق «رمضان» است. «رمضان» در درجه اول، وضعیتی خاص است؛ نه زمانی خاص. در ادبیات عرب، رمضان، تابش نور شدید خورشید است و اگرچه احتمالا دلیل نامگذاری این ماه در سرزمین عربستان، مصادف بودن آن با اوج تابش و گرمای خورشید بوده است، می توان گفت که «رمضان»، تابش نور شدید فیض الهی است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="برترین نتیجه فیض الهی، اشراق و ادراک، از جمله درک حضور حق است. درک حضور الهی در محضر او، درجات مختلفی دارد و در تاریخ اسلام، اولین کسی که به اوج این رمضان دست یافت، پیامبر اکرم(ص) بود. زیرا ایشان در اثر انقلاب درونی و محو عرفانی به معرفتی رسیدند که منجر به دریافت دفعی قرآن کریم شد. این رمضان پیامبر اسلام(ص) که در ماه رمضان رخ داد، به این ماه شهرتی معنوی بخشید و این درس را برای مشتاقان دیگر باقی گذاشت که هر کسی می تواند رمضانی را در این ماه تجربه کند و یا به عبارتی، همان طور که رمضان ایشان در ماه رمضان چنین دستاوردی داشته است، دیگران هم می توانند در این ماه، به تغییر و تحول معرفتی مؤثری در زندگی خود دست یابند. بنابراین، ماه رمضان، یادآوری و فرصتی برای رسیدن به فیوض خاص الهی است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به طور کلی، کسانی که در ایجاد تحولات فردی پویا هستند، به چند گروه تقسیم می شوند که تنها یکی از این چند گروه به درک رمضان نائل خواهد شد:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1- خود محور خود محور: کسانی که به دنبال اهداف شخصی بوده، در این راه متکی به تلاش خود هستند. \n2- خود محور خدا محور: افرادی که به دنبال اهداف شخصی هستند؛ اما برای رسیدن به این مقصود از خدا مدد می طلبند. \n3- خدامحور خود محور: هدف این گروه قرب خداوند است؛ اما برای رسیدن به این هدف، به خود اتکا دارند؛ نه به خداوند. \n4- خدامحور خدامحور: برای این افراد، هم هدف قرب خداوند است و هم عامل رسیدن به این هدف، اوست. گروه چهارم، به درجه محو عرفانی دست می یابند و در این حالت، نگاه آنها نگاه خدا، کلام آنها کلام خدا و ... خواهد بود؛ زیرا از اوصاف بشری جدا شده اند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="همه پیامبران صاحب کتاب در چنین وضعیتی به دریافت کتاب آسمانی نائل شده اند و برای دیگران نیز ممکن است که به نوبه خود، به درک آثار بینش و منش «خدامحور خدامحور» برسند. ماه رمضان، مقدمات این جهش شگفت آور و این درک والا را فراهم می کند و از این جهت، مبارک محسوب می شود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="درک و معرفت، موجب ایمان است. به همین دلیل و با توجه به این توصیه قرآن کریم که «یا ایها الذین امنوا، امنوا»، می توان گفت که ماه رمضان می تواند بر ایمان قلبی افراد مشتاقی که از آن بهره مند می شوند، بیفزاید. رسیدن به ایمان دوم، همان مغفرت الهی است و محروم ماندن از این ایمان، به منزله بی نصیب ماندن از بخشایش خواهد بود. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از طرف دیگر، «رمضان» واقعی مانع از نفوذ شیاطین در وجود انسان می گردد. نگاه مستقیم به سوی خداوند (که به هیچ جهتی منحرف نشود)، بزرگترین ایمنی از شیاطین را فراهم می آورد و راه نفوذ را بر او می بندد و یا به عبارت دیگر، معطوف شدن به خداوند، اجابت دعوت «فاستقیموا الیه» است که دست شیطان را کوتاه می کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="نکته جالب توجه این است که افزایش توجهات معنوی در یک جامعه (که می تواند در زمانهای تعین شده ای رخ دهد) منشأ تأثیری همگانی است. به این معنا که اگر در یک جامعه تعدادی از افراد، به خدا معطوف شوند، (بر اساس یکی از مجموعه قوانینی که در اصطلاح، روح جمعی خوانده می شود) دیگران نیز زمینه مساعدتری برای این رشد معنوی خواهند یافت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="می توان گفت همان طور که در فصل حراج، موقعیت مناسبی برای خرید فراهم است و خرید، مبارک قلمداد می شود، در ماه رمضان نیز که به خودی خود، تفاوتی با ماه های دیگر ندارد، فضای همخوانی از خیر و نیکی و طلب قرب حق ایجاد می شود که بر اساس «یدالله مع الجماعه» موجب گسترش فیض الهی می گردد و ایجاد برکت می کند. از این نظر، این ماه ضیافت خدا برای عده ای که تشنه کمال هستند، مفید خواهد بود و برای عده ای که از این فرصت استثنایی برخوردار نمی شوند، برکتی نداشته، حتی گاهی زجرآور نیز به نظر خواهد رسید. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="در پیشگاه خداوند منان که مقید به قید زمان و مکان نیست، هیچ دو مکان و هیچ دو زمانی تفاوت ندارد و این عملکرد انسان است که زمانی یا مکانی را دارای فضیلت می کند. مکانی که به عبادت تعلق می گیرد، از نظر عرفانی تبدیل به میکده می شود تا در آن، می عشق و آگاهی از خم معرفت الهی توزیع گردد و زمانی که تحت تأثیر روح جمعی معنویت قرار می گیرد، ویژگی و اثرات معنوی خاصی می یابد. اما برای بهره مندی از چنین زمان ها و مکان هایی خواست هر فرد تعیین کننده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یکی از لوازم زمینه ساز تحول در ماه رمضان، روزه است. در ادیان پیشین، روزه چشم، روزه زبان، روزه اندیشه و ... انسان را به ترک عادات مربوط به چشم، زبان، اندیشه و ... دعوت کرده است. در دین آخر نیز، روزه در راستای ترک عادت نقش مهمی ایفا می کند. از این نظر، روزه برنامه ای برای بهبودبخشی به ابعاد بینشی انسان است که رنگ تعلق را از او می گیرد تا به سمت بی رنگی رود و علاوه بر این وجه درونی و معرفتی، با ترک عادات ظاهری مانند عادت خوردن و آشامیدن (که 11 ماه از الگوی زمانی ثابتی تبعیت می کند)، کمک می کند که چیدمان نرم افزارهای وجود انسان بهگزینی و اصلاح شود. با توجه به عادت پذیر بودن انسان، اکثر قریب به اتفاق مردم، به نوعی معتاد به شمار می روند و نیازمند تنظیم الگوی نرم افزاری اندیشه و رفتار خود هستند. به این لحاظ می توان گفت که ماه رمضان، دوره ترک اعتیاد است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="زیان ناشی از عادت را در دو جنبه می توان شناسایی کرد. یکی این که عادت به امور صواب (آنچه در جهت کمال است) ارزش و اثر پرداختن به این امور را کاهش می دهد و به طور کلی، انسان را دچار تعلق خاطر نسبت به خود این امور کرده، از نگاه به معبود باز می دارد و دیگر این که عادت به هر چیز، نرم افزارهای وجود انسان را دچار چرخه اطلاعاتی معیوبی می کند که برای وجود او مضر است.
+انسان مانند ضحاک مار دوش است و مارهای روی دوش او ذهن و روان هستند. اگر خوراک مورد نظر این دو مار فراهم نیاید؛ یعنی طبق عادت نظرشان تأمین نشود، او را آزار می دهند. روزه باعث شکسته شدن همه این برنامه های شرطی (اگراین، آنگاه آن) یعنی ممانعت از تداوم عادت و ایجاد این چرخه اطلاعاتی معیوب می شود. وجود چنین چرخه ی معیوبی، بین کالبدهای در هم پیچیده وی منافذی ایجاد خواهد کرد و این منافذ، محلهایی برای نفوذ موجودات غیر ارگانیک خواهند شد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="یکی دیگر از فواید روزه، مربوط به آثار اجتماعی آن است. طبق تعالیم دینی، روزه زکات بدن محسوب می شود. زکات، نوعی مراوده با هستی بوده، بر اساس آن، لازم است در ازاء هر چه از هستی گرفته می شود، بخشی از آن یا چیزی که به آن مربوط می شود به هستی باز گردد. بنابراین، زکات به اندیشه، مال، بلوغ فکری و هر آنچه به ما بخشیده شده است، تعلق می گیرد. زکات بدن این است که در ازاء رفع نیاز غذایی خود در طول یک سال، قدری از خوراک یک ماه آن (سی وعده غذایی) به نیازمندان اختصاص یابد و با این ترک عادت، سلامتی آن حفظ گردد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="بنابراین، برای کسی که در مدت 11 ماه نگاهی به اجتماع نداشته است، ماه روزه فرصتی است تا به جامعه خود (که نسبت به آن بدهکار است) توجه کند و بخش صرفه جویی شده از روزی خود را به آن بپردازد. با رعایت این جنبه اجتماعی روزه،بخشی از حق معلوم فقرا از دارایی اغنیاء حاصل می شود. در قدیم که جوامع انسانی در روستاها یا شهرهای کوچک مستقر بودند، همه افراد با یکدیگر نوعی تعامل داشتند و به فقرا و گرسنگان رسیدگی بیشتری می شد. این تعامل، در جامعه ایجاد تعادل کرده، آن را از حسرت زدگی مصون نگاه می¬داشت. حسرت زدگی در جامعه بر همه افراد آن اثرگذار است و انعکاس آن در روح جمعی، اغنیا را نیز از احساس خوشبختی محروم می¬کند. بنابراین، ارزش جامعه شناختی و روان شناختی روزه قابل انکار نیست. از این گذشته، تعالیم دینی مانند این که دروغ بستن به خدا، موجب ابطال روزه می شود، از جمله درس های بزرگی است که رعایت آنها روزه داری را به نتایج معرفتی قابل توجهی می رساند. اگر معنای «الله» را بدانیم و دریابیم که هر جزئی از اجزای هستی اسمی از اسمای «الله» است، آن وقت معلوم می شود که هتک حرمت به هر یک از اجزای هستی و عدم رعایت تقدس آن هم می تواند دروغ بستن به خدا محسوب شود. در صورتی که بینش انسان بر اساس این باور تنظیم شود و روزه داری او در این ماه به نخوردن و نیاشامیدن محدود نگردد، مسیر زندگی او در جهت مطلوبی قرار می گیرد و گر نه، برای او رمضان تفاوتی با ماه های دیگر سال نخواهد داشت."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="***"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="موضوع مهم دیگر در رابطه با رمضان، شب قدر است. شب قدر مرکز ثقل رمضان است. انسانی که به خودشناسی دست نیافته باشد، در شب نا آگاهی به سر می برد. انسان را در این ظلمت قرار داده اند تا خود را از ظلمت، به نور برساند و به قدرشناسی (شناخت قدر خود و هستی) نائل شود. پس رسالت او، حرکت از ظلمت به سوی نور است و یافتن راهی به سوی نور هنر وی را به اثبات خواهد رساند. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شناخت قدر و منزلت خود و هستی منجر به درک قدر الهی می شود و باید در دل ظلمت و تاریکی موجود، به این قدر رسید. آنجا که خداوند به ملائکه فرمود: «انی اعلم ما لاتعلمون»، اشاره ای به همین افتخار آفرینی بود."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="دوش وقت سحر از غصه نجاتم دادند\nواندر آن ظلمت شب آب حیاتم دادند
+\nچه مبارک سحری بود و چه فرخنده شبی\nآن شب قدر که این تازه براتم دادند"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="آب حیات، آگاهی الهی است که می تواند مسیر نور را نشان دهد و سلامتی دل و اندیشه را به ارمغان آورد (سلام هی حتی مطلع الفجر) و شرط رسیدن به این آگاهی، برقراری ارتباط انسان (به عنوان یک جزء) با عالم ملکوت (به عنوان کل) است. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="رمضان، فضا و شرایط مورد نیاز برای رسیدن به قدر را مهیا می کند و به همین دلیل، قدر در دل رمضان جای گرفته است. اما نکته مهم آن است که هر لحظه ای از شب یا روز می تواند شب قدر انسان باشد؛ خواه این لحظه در ماهی که رمضان نام دارد واقع گردد و خواه در ماه¬های دیگر. زیرا برای هر کسی شب قدر آن زمانی است که به شناخت منزلت خود و هستی پی برد و قدر الهی را درک کند. اما این که شب خاصی از شبهای ماه مبارک رمضان به این نام نامیده شده است، به دلیل آن است که رسیدن به قدر در رأس اهداف این ماه می¬باشد و به این جهت، حداقل سالی یک بار در این موعد خاص که شب قدر نبی اکرم(ص) بوده است، یادآوری می شود که همه باید به شب قدر خود برسند. رمضان می تواند فرد را آماده جهش کند. کسی که در رمضان، عادت و وابستگی را ترک کرده است، برای این جهش مستعد تر است و چه بسا در این ماه به شب قدر خود دست یابد. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از نظر وضعیت نجومی، ماه رمضان و شب قدر در همه فصول و ایام گردش دارد. خود این گردش وحرکت در ایام مختلف سال نشان می دهد که برای رسیدن به تحول مورد نظر، نباید خود را به زمانی خاص محدود کرد. معطوف شدن به شبی خاص در صورتی که موجب از دست دادن سایر اوقات شود، یکی از ترفندهای شیطان است تا گمان کنیم فقط در این شب امکان دریافت فیضی خاص وجود دارد. با این ترفند، بسیاری از ما که این شب را به صبح می رسانیم و به نتیجه معلومی نمی رسیم، تا سال آینده امیدی به فیوض شب قدر نداریم و به این نحو، تا سال بعد در غفلت به سر می بریم و شاید سال های سال، به همین صورت، رمضان را از دست بدهیم. در صورتی که ماه رمضان و شب قدر پیامبر (که در آن قرار گرفته است)، برای همه ما یک فرصت است تا با استفاده از برکاتی که روح جمعی در این زمان ها ایجاد می کند، به رمضان و شب قدر خودمان برسیم؛ اما امکان دستیابی به آن را محدود به خود نمی کند. بنابراین، اگر این ایام و این شب ها گذشت و به معرفتی که باید می رسیدیم، نرسیدیم، نباید فکر کنیم که در زمان های دیگر نمی توانیم به نتیجه برسیم."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="40dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</android.support.constraint.ConstraintLayout>

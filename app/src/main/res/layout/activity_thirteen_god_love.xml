@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".thirteen_god_love">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به نام خدای رحمن و رحیم، خدای عشق و عشق؛ خدایی که رحمانیتش عشق را در هستی جاری کرد و از فیض رحمانی خود به هستی جان بخشید و از این بخشش و حُب بود که عوالم مختلفی در قالب عقل به وجود آمد.و به این ترتیب خداوند، عکس روی خود را در آیینه آفاق انداخت. یعنی با تبلور عشق، عقل را آفرید تا نظاره گر و آیینه ای برای انعکاس عشق و زبانی برای خبر دادن از آن باشد. قلم عقل با همه ناتوانی اش نام عشق را بر صفحه عالم نوشته است و عظمتش را انعکاس می دهد هر چند که عشق قابل توصیف نیست."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="چون قلم اندر نوشتن می شتافت\nچون به عشـق آمد قلم در خود شکافت
+\n(مولوی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="از آن جا که انگیزه ایجاد عقل، لطف رحمانی (عشق) است، باید گفت که عقل از دل عشق بیرون آمده است. در ازل، همه هستی از دل عشقی بنیادی پدیدار شد که می توان آن را «عشق اول» و عالم به وجود آمده از دل این عشق را «عقل اول» نامید."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما در این پیدایش، هر عالمی نسبت به عالم ماقبل خود، از خالق فاصله بیشتری گرفت و دورتر شد و با این دوری نازل تر و پست تر گردید و هر جزیی حرکت به سوی قهقرا را آغاز کرد. ادامه این روند، خلقت را نه به سوی کمال بلکه به سوی پستی جلوه می داد و چنین طرحی از او بعید و محال بود. از این رو عشق الهی در جلوه ای دیگر نیز جاری بود تا با بازگشت هستی به سوی او، خلقت برای همیشه در منهای بینهایت اسیر نباشد. او رحیمیت خود را نثار هستی کرد تا ارکان آن را در آغوش کشیده، نگذارد که قهقرا همه تجلیات را ببلعد. پس او از یک سو وجود را به هستی هدیه کرده است و از سویی دیگر همه چیز را به آغوش خود می کشد تا مخلوقش از لطف و مرحمت او دور نباشد. زیرا او رحمان است و رحیم؛ او عاشق است و عشق او در برگیرنده هستی. این عشق از مبدأی جریان دارد که نه در بند مکانی است، نه زمانی و نه تضادی، پس همان هنگام که عشق می ورزد و هدیه می کند، چون در قید زمان نیست، باز پس می گیرد و در آغوش می کشد و از منظری که فوق زمان است، هیچ یک از این دهش و باز دهش بر دیگری مقدم نیست. همه چیز و همه کس دور از او و در آغوش اویند. بنابراین، از اوییم و روانیم به سوی او و از هر طرف مشمول عشق او."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="این است اساس هستی: رحمانیت و رحیمیت و یا به عبارتی دیگر، عشق و عشق؛ عشقی که علت همه علت ها است. زیرا اگر انگیزه خلقت بر پایه عقل بود (نه حُب و بخشش الهی)، لازم بود تا خلقت، منفعتی برای خالق ایجاد کند؛ در حالی که خالق بی نیاز است. این عشق و حُب است که نیاز به علت نداشته، منفعتی را دنبال نمی کند و عاشق است که می بخشد نه عاقل."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="لاابالی عشق باشد، نی خرد\nعقل آن جوید کزان سودی برد
+\n(مولوی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="خداوند رحمن و رحیم، قرآن را نیز کلامی برای بیان و ابلاغ این عشق قرار داد تا رحمن و رحیم بودن و حُب و وُّد خود را به بشر بشارت دهد و بگوید که رحمن است و رحیم؛ یعنی عشق است و عشق. پس به نام او که رحمان بودنش عشق است و رحیم بودنش نیز عشق. به نام او که چنین عاشقی است؛ خدایی که عفو کننده است و عفو او نیز از تبعات عشق است؛ نه عقل. چرا که عفو و بخشش مورد پسند عقل نیست؛ مگر آن که برای بخشنده، منفعتی حاصل کند و این در حالی است که خدا غنی است و بی نیاز.
+و او فؤاد و صدر و قلب را سه مرتبه متفاوت برای تجربه عشق قرار داد تا جایگاهی برای دریافت لطف و رحمتش در وجود انسان باشد؛ آن طور که از طریق فؤاد دریافت نموده، شهود داشته باشیم؛ با قلب منقلب شده، به تغییرات و تحولات درونی برسیم و با شرح صدر به گشادگی و گستردگی به وسعت عالم هستی نایل شویم؛ کاری که هرگز از عقل بر نمی آید:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عقل گوید شش جهت حد است و بیرون راه نیست\nعشق گوید راه هست و رفته ام من بارها
+\n(مولوی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اما تاسف بر کسانی که خداوند را صرفاً خدای عقل می دانند و نه خدای عشق و کلام او (قرآن) را نیز فقط کلام عقل می دانند و نه پیام عشق. در حالی که پیش از آن که قرآن از عقل بگوید، از عشق گفته است و پیامبر گرامی(ص) از آن رو در کلام خدا رحمتی برای عالمیان نامیده شد که با عرضه قرآن، معرفی برای این عشق بوده است و به درستی که حامل چنین پیامی، فخر عالم و رحمتی است برای آن. تاسف بر کسانی که اسلام را دین قساوت و سنگدلی و خدای آن را خدایی انتقام جو معرفی می کنند؛ غافل از این که خود آن ها بیش از همه به لطف و رحمت و بخشش خداوند نیاز دارند و اگر این لطف و رحمت نباشد چه کسی می تواند از این ورطه به عافیت بگذرد؟"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="دام سخت است مگر یار شود لطف خدا\nور نه آدم نبرد صرفه ز شیطان رجیم
+\n(حافظ)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="چه کسی بدون لطف و رحمت او می تواند به جایی برسد؛ اگر او تعلیم ندهد، تزکیه نکند، حکمت ندهد، سینه را نگشاید، بارهای گران را از دوش بر ندارد، هنگام وسوسه شیطان که می رود پا بلغزد، او درنیابد و ...؟!"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به جایی نرسد کس به توانایی خویش\nاِلّا تو چراغ رحمتش داری پیش
+\n(سعدی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="امروزه معرفی نادرست اسلام وعرضه آن در قالب دینی خشک، جدا از عشق و خالی از پیام لطف الهی و طرح مباحث و نظرات آن در چنین حیطه ای، باعث سوء برداشت فراوانی برای جوانان این نسل شده، آن ها را از این دین، گریزان و به دامان آیین ها و مکاتب وارداتی سوق داده است. از طرف دیگر، در جوامع غربی نیز مسلمانان را وحشی، عقب مانده و اهل خشونت می خوانند و در جوامع و محافل بین المللی، اسلام را دین کُشت و کُشتار و تجاوز معرفی می کنند. در حالی که می دانیم اسلام دین آزادی اندیشه (الذین یستمعون القول فیتبعون احسنه اولئک الذین هداهم الله ...)، آزادی انتخاب (قل یا ایها الکافرون * لا اعبد ما تعبدون * ... لکم دینکم و لی دین - لا اکراه فی الدین...) و آزادی رهروی (انا هدیناه السبیل اِمّا شاکراً و اِمّا کفوراً) است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="علاوه بر این، دین اسلام، مرام مطلوب نزد خداوند را مرام اسلام (تسلیم شدن) در برابر اراده الهی معرفی می کند که همانا نیل به سوی غایت کمال است. یعنی، از میان دو مرام تسلیم در برابر حق و یا طغیان در برابر آن، مرام الهی و پسندیده تسلیم و مسلمانی را تایید و پیشنهاد می کند. در چنین راهی است که شهادت، گواهی انسان است بر حق که در راه آن، جان نیز فدا می شود. شهادت (گواهی به حق با گذشتن از جان) نیز امری است که عقل را با آن کاری نیست و به طور مطلق بر مبنای عشق محقق می شود. "
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="شهید، از روی عشق با خون خود شهادتنامه حق را امضاء می کند؛ در حالی که عقل در این راه، به جز پای بند شدن و ممانعت نقش دیگری را ایفا نمی کند."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="عاقلان از غرقه گشتن در گریز و بر حذر\nعاشقان را کار و پیشه غرقه دریا شدن
+\n(مولوی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به این ترتیب، اگرچه عقل در جایگاه خود معتبر است، عاشق در راه رسیدن به معبود خود، آن را کنار می زند:"
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="گرفتم گوش عقل و گفتم ای عقل\nبرون رو کز تو وارسـتم من امروز
+\nبشوی ای عقل دسـت خویش از من\nکـه در مـجنـون بپیوستــم من امروز
+\n(مولوی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="به هر حال، خداوند رحمن و رحیم، مرام منتهی به کمال را معرفی کرده، انتخاب را با مهربانی به ما وا گذاشته است. او آنچنان که خود را نعم المولی، نعم النصیر، نعم الوکیل و ... معرفی می کند، بهترین دوست، یاور، وکیل و ... برای همگان است و پیام لطف 'ادعونی استجب لکم' را خطاب به همه انسان ها عرضه کرده است. او با پیام 'اِلیه راجعون' بزرگترین مژده مبنی بر بازگشت همه به سوی آغوش پر مهر خود را به همه انسان ها بشارت داده است. چه نویدی می تواند از این زیباتر و چه رحمت و عشقی می تواند از این بالاتر باشد؟!خدای را دریابیم و او را از خدای عشق به خدای عقل تنزل ندهیم که کفری (پوشش حقی) از این ناحق تر نیست."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:textAlignment="viewEnd"
+                android:layout_gravity="end"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="خداوند یگانه است و به درستی که او خدای عشق است. و 'بسم الله الرحمن الرحیم' گواهی بر عشق اوست؛ اسم اعظمی که از ازل تا ابد بر لوح هستی حک شده است."
+                android:textSize="22dp"
+                android:fontFamily="@font/bmitra"
+                android:textColor="#373D3F"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="اسم اعظم پیش ما باشد قدیم\nیعنی بسم الله الرحمن الرحیم
+\n(شاه نعمت... ولی)"
+                android:textSize="25dp"
+                android:fontFamily="@font/irannastaliq"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
